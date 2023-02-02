@@ -39,3 +39,9 @@
 .read-the-docs {
   color: #888;
 }
+
+
+.leaflet-container {
+  width: 80vw;
+  height: 90vh;
+}
