@@ -1,44 +1,68 @@
-import { useEffect, useState } from 'react'
-import './App.css'
-import { MapContainer, TileLayer, GeoJSON  } from 'react-leaflet';
+import { useEffect, useRef, useState } from 'react'
+import maplibregl from 'maplibre-gl';
 import shp from "shpjs";
 
 function App() {
-  const [count, setCount] = useState(0)
-  const [geojson, setGeojson] = useState(null)
-  const position = [51.505, -0.09]
+  const mapContainer = useRef(null);
+  const map = useRef<maplibregl.Map | null>(null);
+  const [lng, setLng] = useState(-70.9);
+  const [lat, setLat] = useState(42.35);
+  const [zoom, setZoom] = useState(9);
 
   useEffect(() => {
-    if (geojson) console.log(geojson);
-  }, [geojson]);
+    map.current = new maplibregl.Map({
+      container: mapContainer.current as any,
+      style: 'https://demotiles.maplibre.org/style.json',
+      center: [lng, lat],
+      zoom: zoom
+    });
+
+    map.current.on('load', () => {
+      if (!map.current?.getSource('geojson-map')) {
+        map.current?.addSource('geojson-map', {
+          type: 'geojson',
+          data: 'https://d2ad6b4ur7yvpq.cloudfront.net/naturalearth-3.3.0/ne_10m_ports.geojson',
+          tolerance: 1.2
+        });
+      }
+    });
+  }, []);
 
   const uploadHandler = async(file: File) => {
-    const geojsn = await shp(await file.arrayBuffer());
-    console.log(geojsn);
-    setGeojson(geojsn);
-    console.log(geojson);
+    const source: maplibregl.GeoJSONSource = map.current?.getSource('geojson-map') as maplibregl.GeoJSONSource;
+    const geojson = await shp(await file.arrayBuffer());
+    
+    source.setData(geojson);
+
+    if (!map.current?.getLayer('geojson-map-fill')) {
+      map.current?.addLayer({
+        id: "geojson-map-fill",
+        type: "fill",
+        source: 'geojson-map',
+        paint: {
+          "fill-opacity": 0.8,
+          "fill-color": "#a88ef5",
+          "fill-outline-color": "#20124d"
+        },
+      });
+    }  
   }
 
-  var Geojson = null;
-  if (geojson) {
-    Geojson = <GeoJSON data={geojson} />
-  }
 
   return (
     <div>
-    <input type="file" 
+      <input type="file" 
         id="myFile" 
         name="filename"  
         onChange={(e)=>uploadHandler(e.target.files![0])}
       />
-    <MapContainer center={position} zoom={3}>
-    <TileLayer
-      attribution='&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
-      url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
-    />
-    {Geojson}
-  </MapContainer>
-  </div>
+
+      <div className="sidebar">
+        Longitude: {lng} | Latitude: {lat} | Zoom: {zoom}
+      </div>
+
+      <div ref={mapContainer} className="map-container"></div>
+    </div>
   )
 }
 
