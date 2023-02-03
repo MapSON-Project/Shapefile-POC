@@ -69,8 +69,9 @@ button:focus-visible {
   }
 }
 .map-container {
-  height: 400px;
-  }
+  height: 80vh;
+  width: 100vw;
+}
    
 .sidebar {
   background-color: rgba(35, 55, 75, 0.9);
