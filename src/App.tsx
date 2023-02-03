@@ -1,24 +1,26 @@
-import { useState } from 'react'
-import reactLogo from './assets/react.svg'
+import { useEffect, useState } from 'react'
 import './App.css'
 import { MapContainer, TileLayer, GeoJSON  } from 'react-leaflet';
 import shp from "shpjs";
 
 function App() {
-  
   const [count, setCount] = useState(0)
   const [geojson, setGeojson] = useState(null)
   const position = [51.505, -0.09]
 
-  const uploadHandler = (file: File) => {
-    const url = window.URL.createObjectURL(file);
-    shp(url).then(function(geojson){
-      setGeojson(geojson)
-    });
+  useEffect(() => {
+    if (geojson) console.log(geojson);
+  }, [geojson]);
+
+  const uploadHandler = async(file: File) => {
+    const geojsn = await shp(await file.arrayBuffer());
+    console.log(geojsn);
+    setGeojson(geojsn);
+    console.log(geojson);
   }
 
   var Geojson = null;
-  if(geojson){
+  if (geojson) {
     Geojson = <GeoJSON data={geojson} />
   }
 
