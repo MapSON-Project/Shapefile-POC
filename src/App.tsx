@@ -28,11 +28,9 @@ function App() {
     });
   }, []);
 
-  const uploadHandler = async(file: File) => {
+  const updateLayer = (file: any) => {
     const source: maplibregl.GeoJSONSource = map.current?.getSource('geojson-map') as maplibregl.GeoJSONSource;
-    const geojson = await shp(await file.arrayBuffer());
-    
-    source.setData(geojson);
+    source.setData(file);
 
     if (!map.current?.getLayer('geojson-map-fill')) {
       map.current?.addLayer({
@@ -48,14 +46,43 @@ function App() {
     }  
   }
 
+  const uploadZipHandler = async(file: File) => {
+    const geojson = await shp(await file.arrayBuffer());
+    updateLayer(geojson);
+  }
+
+  const uploadFilesHandler = async(files: File[]) => {
+    const shpFile = files.filter(file => file.name.includes('.shp'))[0];
+    const dbfFile = files.filter(file => file.name.includes('.dbf'))[0];
+
+    const geojson = shp.combine([
+      shp.parseShp(await shpFile.arrayBuffer()), 
+      shp.parseDbf(await dbfFile.arrayBuffer())
+    ]);
+    
+    updateLayer(geojson);
+  }
 
   return (
     <div>
-      <input type="file" 
-        id="myFile" 
-        name="filename"  
-        onChange={(e)=>uploadHandler(e.target.files![0])}
+      <div>
+        <label>Choose a ZIP to upload: </label>
+        <input type="file" 
+          id="zip" 
+          name="zip-upload"  
+          onChange={(e)=>uploadZipHandler(e.target.files![0])}
       />
+      </div>
+
+      <div>
+        <label>Choose multiple files to upload: </label>
+        <input type="file" 
+          id="files" 
+          name="files-upload"  
+          multiple
+          onChange={(e)=>uploadFilesHandler([...e.target.files!])}
+        />
+      </div>
 
       <div className="sidebar">
         Longitude: {lng} | Latitude: {lat} | Zoom: {zoom}
