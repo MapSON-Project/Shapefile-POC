@@ -52,12 +52,12 @@ function App() {
   }
 
   const uploadFilesHandler = async(files: File[]) => {
-    const shpFile = files.filter(file => file.name.includes('.shp'))[0];
-    const dbfFile = files.filter(file => file.name.includes('.dbf'))[0];
+    const shpFile = files.find(file => file.name.includes('.shp'));
+    const dbfFile = files.find(file => file.name.includes('.dbf'));
 
     const geojson = shp.combine([
-      shp.parseShp(await shpFile.arrayBuffer()), 
-      shp.parseDbf(await dbfFile.arrayBuffer())
+      shp.parseShp(await shpFile!.arrayBuffer()), 
+      shp.parseDbf(await dbfFile!.arrayBuffer())
     ]);
     
     updateLayer(geojson);
