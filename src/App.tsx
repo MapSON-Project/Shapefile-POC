@@ -1,6 +1,7 @@
 import { useEffect, useRef, useState } from 'react'
 import maplibregl from 'maplibre-gl';
 import shp from "shpjs";
+import geojsonMerger from '@mapbox/geojson-merge';
 
 function App() {
   const mapContainer = useRef(null);
@@ -29,6 +30,11 @@ function App() {
   }, []);
 
   const updateLayer = (file: any) => {
+    if (Array.isArray(file)){ 
+      file = geojsonMerger.merge(file);
+      console.log(file);
+    }
+
     const source: maplibregl.GeoJSONSource = map.current?.getSource('geojson-map') as maplibregl.GeoJSONSource;
     source.setData(file);
 
@@ -47,7 +53,9 @@ function App() {
   }
 
   const uploadZipHandler = async(file: File) => {
-    const geojson = await shp(await file.arrayBuffer());
+    let geojson = await shp(await file.arrayBuffer());
+    console.log(geojson);
+    
     updateLayer(geojson);
   }
 

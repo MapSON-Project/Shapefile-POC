@@ -9,6 +9,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@mapbox/geojson-merge": "^1.1.1",
     "buffer": "^6.0.3",
     "leaflet": "^1.9.3",
     "maplibre-gl": "^2.4.0",
