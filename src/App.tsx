@@ -1,6 +1,7 @@
 import { useEffect, useRef, useState } from 'react'
 import maplibregl from 'maplibre-gl';
 import shp from "shpjs";
+// @ts-ignore
 import geojsonMerger from '@mapbox/geojson-merge';
 
 function App() {
@@ -27,6 +28,17 @@ function App() {
         });
       }
     });
+
+    map.current.on('mousemove', (e) => {
+        setLat(e.lngLat.lat)
+        setLng(e.lngLat.lng)
+    })
+
+    map.current.on('zoom', (e) => {
+      setZoom(e.target.getZoom())
+    })
+
+  
   }, []);
 
   const updateLayer = (file: any) => {
