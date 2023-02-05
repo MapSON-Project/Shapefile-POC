@@ -9,7 +9,7 @@ function App() {
   const map = useRef<maplibregl.Map | null>(null);
   const [lng, setLng] = useState(-70.9);
   const [lat, setLat] = useState(42.35);
-  const [zoom, setZoom] = useState(9);
+  const [zoom, setZoom] = useState(0);
 
   useEffect(() => {
     map.current = new maplibregl.Map({
@@ -32,7 +32,9 @@ function App() {
     map.current.on('mousemove', (e) => {
         setLat(e.lngLat.lat)
         setLng(e.lngLat.lng)
-    })
+    });
+
+    
 
     map.current.on('zoom', (e) => {
       setZoom(e.target.getZoom())
@@ -65,22 +67,57 @@ function App() {
   }
 
   const uploadZipHandler = async(file: File) => {
+    if(!file){ 
+      console.warn("No file uploaded to zip handler, skipping.")
+      return; 
+    }
+
     let geojson = await shp(await file.arrayBuffer());
     console.log(geojson);
     
     updateLayer(geojson);
+    
   }
 
   const uploadFilesHandler = async(files: File[]) => {
-    const shpFile = files.find(file => file.name.includes('.shp'));
-    const dbfFile = files.find(file => file.name.includes('.dbf'));
+    if(!files) { 
+      console.warn("No files uploaded to file handler, skipping.")
+      return;
+    }
 
-    const geojson = shp.combine([
-      shp.parseShp(await shpFile!.arrayBuffer()), 
-      shp.parseDbf(await dbfFile!.arrayBuffer())
-    ]);
-    
-    updateLayer(geojson);
+    console.log(files)
+
+    const shps = files.filter(file => file.name.includes('.shp'));
+    const dbfs = files.filter(file => file.name.includes('.dbf'));
+    const cpgs = files.filter(file => file.name.includes(".cpg"));
+
+    const toGeoJSON = async (file: File) => {
+      const name = file.name.slice(0, -4);
+
+      let dbfFile = dbfs.find(file => file.name.slice(0, -4) === name)
+
+      let geojson;
+
+      if(dbfFile) {
+        let cpgFile = cpgs.find(file => file.name.slice(0, -4) === name) // not sure if needed
+
+        let shpf = shp.parseShp(await file!.arrayBuffer());
+        // @ts-ignore 
+        let dbf = dbfFile && shp.parseDbf(await dbfFile!.arrayBuffer(),  await cpgFile?.arrayBuffer());
+
+        geojson = shp.combine([shpf, dbf]);
+      } else {
+        geojson = await shp(await file.arrayBuffer());
+      }
+
+      return geojson;
+    };
+
+    const geojson = await Promise.all(shps.map(toGeoJSON))
+    console.log(geojson);
+
+    updateLayer(geojson)
+  
   }
 
   return (
@@ -109,6 +146,8 @@ function App() {
       </div>
 
       <div ref={mapContainer} className="map-container"></div>
+
+      
     </div>
   )
 }
