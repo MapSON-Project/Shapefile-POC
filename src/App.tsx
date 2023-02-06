@@ -1,6 +1,7 @@
 import { useEffect, useRef, useState } from 'react'
 import maplibregl from 'maplibre-gl';
 import shp from "shpjs";
+import dissolve from "geojson-dissolve"
 // @ts-ignore
 import geojsonMerger from '@mapbox/geojson-merge';
 
@@ -10,6 +11,10 @@ function App() {
   const [lng, setLng] = useState(-70.9);
   const [lat, setLat] = useState(42.35);
   const [zoom, setZoom] = useState(0);
+  const [selected, setSelected] = useState([null,null]);
+  const [newName, setNewname] = useState('')
+  const selectedRef = useRef()
+  selectedRef.current = selected
 
   useEffect(() => {
     map.current = new maplibregl.Map({
@@ -24,7 +29,8 @@ function App() {
         map.current?.addSource('geojson-map', {
           type: 'geojson',
           data: 'https://d2ad6b4ur7yvpq.cloudfront.net/naturalearth-3.3.0/ne_10m_ports.geojson',
-          tolerance: 1.2
+          tolerance: 1.2,
+          generateId: true
         });
       }
     });
@@ -58,11 +64,60 @@ function App() {
         type: "fill",
         source: 'geojson-map',
         paint: {
-          "fill-opacity": 0.8,
+          "fill-opacity": [
+              'case',
+              ['boolean', ['feature-state', 'selected'], false],
+              1,
+              0.5
+            ],
           "fill-color": "#a88ef5",
           "fill-outline-color": "#20124d"
         },
       });
+
+      map.current?.addLayer({
+        id: "region-names",
+        type: "symbol",
+        source: "geojson-map",
+        'layout': {
+          'text-field': ['case', 
+                          ['has', 'newName'],
+                          ['get', 'newName'],
+                          ["has", "NAME_2"], 
+                          ["get", "NAME_2"], 
+                          ["has", "NAME_1"],
+                          ["get", "NAME_1"],
+                          ["get", "NAME_0"]
+                        ],
+          'text-anchor': 'center'
+        }
+      })
+
+      map.current?.on('click', 'geojson-map-fill', (e) => {
+        let id = e.features[0].id
+        if (selectedRef.current[0] === id || selectedRef.current[1] === id){
+          return
+        }else{
+          let arr = [ ...selectedRef.current ]
+          if(arr[0] === null){
+            arr[0] = id
+          }else if(arr[1] === null){
+            arr[1] = id
+          }else{
+            map.current?.setFeatureState(
+              { source: 'geojson-map', id: arr[0] },
+              { selected: false }
+            );
+            arr[0] = arr[1]
+            arr[1] = id
+          }
+          map.current?.setFeatureState(
+            { source: 'geojson-map', id: id },
+            { selected: true }
+          );
+          setSelected(arr)
+        }
+      })
     }  
   }
 
@@ -120,6 +175,39 @@ function App() {
   
   }
 
+  const mergeRegions = () => {
+    if(selectedRef.current[0] === null || selectedRef.current[1] === null){
+      alert("Please select two regions to merge")
+      return
+    }
+    const source: maplibregl.GeoJSONSource = map.current.getSource('geojson-map');
+
+    let geojson = source._data
+    let features = geojson.features
+
+    const newRegion = dissolve([features[selectedRef.current[0]], features[selectedRef.current[1]]])
+    
+    geojson.features[selectedRef.current[0]].properties.newName = newName
+    geojson.features[selectedRef.current[0]].geometry = newRegion
+    geojson.features.splice(selectedRef.current[1], 1)
+    
+    setSelected([null, null])
+    setNewname('')
+
+    for(let i=0; i<2; i++){
+      map.current?.setFeatureState(
+        { source: 'geojson-map', id: selectedRef.current[i] },
+        { selected: false }
+      );
+    }
+    
+    source.setData(geojson)
+  }
+
+  const handleChange = (e) => {
+    setNewname(e.target.value)
+  }
+
   return (
     <div>
       <div>
@@ -146,8 +234,11 @@ function App() {
       </div>
 
       <div ref={mapContainer} className="map-container"></div>
-
-      
+      <label>
+        Enter name for new region:
+        <input type="text" value={newName} onChange={(e)=>handleChange(e)} />
+      </label>
+      <button onClick={mergeRegions} >merge</button>
     </div>
   )
 }
