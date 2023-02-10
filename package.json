@@ -10,6 +10,8 @@
   },
   "dependencies": {
     "@mapbox/geojson-merge": "^1.1.1",
+    "@mapbox/mapbox-gl-draw": "^1.4.0",
+    "@turf/turf": "^6.5.0",
     "buffer": "^6.0.3",
     "geojson-dissolve": "^3.1.0",
     "leaflet": "^1.9.3",

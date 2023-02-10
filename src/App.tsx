@@ -2,6 +2,7 @@ import { useEffect, useRef, useState } from 'react'
 import maplibregl from 'maplibre-gl';
 import shp from "shpjs";
 import dissolve from "geojson-dissolve"
+import * as turf from '@turf/turf';
 // @ts-ignore
 import geojsonMerger from '@mapbox/geojson-merge';
 
@@ -40,8 +41,6 @@ function App() {
         setLng(e.lngLat.lng)
     });
 
-    
-
     map.current.on('zoom', (e) => {
       setZoom(e.target.getZoom())
     })
@@ -70,8 +69,8 @@ function App() {
               1,
               0.5
             ],
-          "fill-color": "#a88ef5",
-          "fill-outline-color": "#20124d"
+          "fill-color": "#12ce93",
+          "fill-outline-color": "#131118"
         },
       });
 
@@ -83,6 +82,8 @@ function App() {
           'text-field': ['case', 
                           ['has', 'newName'],
                           ['get', 'newName'],
+                          ["has", "NAME_3"], 
+                          ["get", "NAME_3"], 
                           ["has", "NAME_2"], 
                           ["get", "NAME_2"], 
                           ["has", "NAME_1"],
@@ -118,6 +119,51 @@ function App() {
           setSelected(arr)
         }
       })
+
+      const vertices = turf.flatten(file);
+
+      map.current?.addLayer({
+        id: 'vertices-layer',
+        type: 'circle',
+        source: {
+          type: 'geojson',
+          data: vertices
+        },
+        paint: {
+          'circle-radius': 10,
+          'circle-color': 'blue'
+        }
+      });  
+
+      map.current?.on('click', 'vertices-layer', (e) => {
+        const vertex = e.lngLat;
+        if (!turf.booleanPointInPolygon(e.lngLat, e.features[0]) || !e.target.layer.type === 'circle') {
+          setSelected([null, null])
+          return
+        }
+
+        if (selectedRef.current[0] === vertex) {
+          return
+        } else {
+          if(selectedRef.current[0] === null){
+            selectedRef.current[0] = vertex
+          }
+          map.current?.setFeatureState(
+            { source: 'geojson-map', id: vertex },
+            { selected: true }
+          );
+          setSelected([vertex, null])
+        }
+      });
+
+      // map.current?.on('mouseenter', 'vertices-layer', (e) => {
+      //   map.current?.getCanvas().style.cursor = 'pointer';
+      // });
+      
+      // map.current?.on('mouseleave', 'vertices-layer', (e) => {
+      //   map.current?.getCanvas().style.cursor = 'default';
+      // });
+
     }  
   }
 
@@ -172,7 +218,6 @@ function App() {
     console.log(geojson);
 
     updateLayer(geojson)
-  
   }
 
   const mergeRegions = () => {
@@ -180,7 +225,8 @@ function App() {
       alert("Please select two regions to merge")
       return
     }
-    const source: maplibregl.GeoJSONSource = map.current.getSource('geojson-map');
+
+    const source: maplibregl.GeoJSONSource = map.current.getSource('geojson-vertices');
 
     let geojson = source._data
     let features = geojson.features
@@ -202,6 +248,31 @@ function App() {
     }
     
     source.setData(geojson)
+  }
+
+  const removeVertex = () => {
+    if(selectedRef.current[0] === null){
+      alert("Select a vertex to remove")
+      return
+    }
+    const source: maplibregl.GeoJSONSource = map.current.getLayer('vertices-layer');
+
+    let vertices = source._data
+
+    const index = vertices.findIndex(selectedRef.current[0]);
+
+    vertices.splice(index, 1)
+
+    setSelected([null, null])
+
+    for(let i=0; i<2; i++){
+      map.current?.setFeatureState(
+        { source: 'geojson-map', id: selectedRef.current[i] },
+        { selected: false }
+      );
+    }
+
+    source.setData(vertices);
   }
 
   const handleChange = (e) => {
@@ -239,8 +310,10 @@ function App() {
         <input type="text" value={newName} onChange={(e)=>handleChange(e)} />
       </label>
       <button onClick={mergeRegions} >merge</button>
+      <button onClick={removeVertex} >Remove vertex?</button>
     </div>
   )
 }
+
 
 export default App
