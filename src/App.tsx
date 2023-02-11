@@ -1,6 +1,10 @@
 import { useEffect, useRef, useState } from 'react'
 import maplibregl from 'maplibre-gl';
 import shp from "shpjs";
+import MapboxDraw from "@mapbox/mapbox-gl-draw";
+import '@mapbox/mapbox-gl-draw/dist/mapbox-gl-draw.css'
+
+
 import dissolve from "geojson-dissolve"
 import * as turf from '@turf/turf';
 // @ts-ignore
@@ -9,6 +13,7 @@ import geojsonMerger from '@mapbox/geojson-merge';
 function App() {
   const mapContainer = useRef(null);
   const map = useRef<maplibregl.Map | null>(null);
+  const mapDraw = useRef<MapboxDraw | null>(null);
   const [lng, setLng] = useState(-70.9);
   const [lat, setLat] = useState(42.35);
   const [zoom, setZoom] = useState(0);
@@ -23,6 +28,13 @@ function App() {
       style: 'https://demotiles.maplibre.org/style.json',
       center: [lng, lat],
       zoom: zoom
+    });
+
+    mapDraw.current = new MapboxDraw({
+      displayControlsDefault: false,
+      controls: {
+        trash: true
+      },
     });
 
     map.current.on('load', () => {
@@ -61,6 +73,11 @@ function App() {
 
     let source: maplibregl.GeoJSONSource = map.current?.getSource('geojson-map') as maplibregl.GeoJSONSource;
     source.setData(file);
+
+    //remove so it can be readded later for refresh
+    if(map.current?.hasControl(mapDraw.current)) {
+      map.current?.removeControl(mapDraw.current)
+    }
 
     if (!map.current?.getLayer('geojson-map-fill')) {
       map.current?.addLayer({
@@ -125,85 +142,15 @@ function App() {
         }
       })
 
-      // const vertices = turf.flatten(file);
-      // console.log(vertices);
+      const vertices = turf.flatten(file);
 
-      // source = map.current?.getSource('geojson-vertices') as maplibregl.GeoJSONSource;
-      // source.setData(vertices);
+      // we add this down here so the layer appears above the geojson map
+      map.current?.addControl(mapDraw.current)
 
-      // map.current?.addLayer({
-      //   id: 'vertices-layer',
-      //   type: 'circle',
-      //   source: {
-      //     type: 'geojson',
-      //     data: vertices
-      //   },
-      //   paint: {
-      //     'circle-radius': 10,
-      //     'circle-color': 'blue'
-      //   }
-      // });  
+      mapDraw.current?.deleteAll()
+      mapDraw.current?.set(vertices)
 
-      // map.current?.on('click', 'vertices-layer', (e) => {
-      //   console.log(e.features);
-      //   console.log(e.lngLat);
-      //   const vertex = turf.point(e.lngLat.toArray());
-
-      //     let source: maplibregl.GeoJSONSource = map.current?.getSource(map.current?.getLayer('vertices-layer').source);
-      //     const vertices = source._data;
-
-      //     let clickedFeature = e.features[0];
-      //     let featureCollection = vertices; // Your feature collection
-          
-      //     for (let i = 0; i < featureCollection.features.length; i++) {
-      //       let feature = featureCollection.features[i];
-      //       if (JSON.stringify(feature.properties) === JSON.stringify(clickedFeature.properties)) {
-      //         let polygon = feature.geometry.coordinates[0];
-      //         let clickedPoint = e.lngLat;
-      //         let minDistance = Infinity;
-      //         let closestVertexIndex = -1;
-              
-      //         for (let j = 0; j < polygon.length; j++) {
-      //           let vertex = polygon[j];
-      //           let distance = Math.sqrt(Math.pow(clickedPoint.lng - vertex[0], 2) + Math.pow(clickedPoint.lat - vertex[1], 2));
-      //           if (distance < minDistance) {
-      //             minDistance = distance;
-      //             closestVertexIndex = j;
-      //           }
-      //         }
-              
-      //         if (closestVertexIndex !== -1) {
-      //           feature.geometry.coordinates[0].splice(closestVertexIndex, 1);
-      //         }
-              
-
-      //         featureCollection.features[i] = feature;
-      //         console.log(featureCollection);
-              
-      //         source = map.current?.getSource('geojson-vertices') as maplibregl.GeoJSONSource;
-      //         source.setData(featureCollection);
-      //         break;
-      //       }
-
-
-
-
-          // const source: maplibregl.GeoJSONSource = map.current?.getSource(map.current?.getLayer('vertices-layer').source);
-          // const vertices = source._data;
-
-          // const index = vertices.features.findIndex((feature) => JSON.stringify(feature.properties) === JSON.stringify(e.features[0].properties));
-          // console.log(index);
-          // console.log(vertices.features[index]);
-
-          // vertices.features[index].geometry.coordinates[0] = e.features[0].geometry.coordinates[0].filter((coords) => coords[0] !== e.lngLat.lng && coords[1] !== e.lngLat.lat);
-          // console.log(vertices.features[index]);
-          // // const featureIndex = vertices.features.findIndex((feature) => feature.geometry.coordinates[0].includes(e.lngLat.toArray()));
-          // // console.log(featureIndex);
-          // // vertices.features[featureIndex].geometry.coordinates = vertices.features[featureIndex].geometry.coordinates[0].filter((coords) => coords[0] !== e.lngLat.lng && coords[1] !== e.lngLat.lat);
-      
-          // source.setData(vertices);
-      //   }
-      // });
+    
     }  
   }
 
@@ -289,23 +236,6 @@ function App() {
     source.setData(geojson)
   }
 
-  const removeVertex = () => {
-    if(selectedRef.current![0] === null){
-      alert("Select a vertex to remove")
-      return
-    }
-    const source: maplibregl.GeoJSONSource = map.current?.getSource(map.current?.getLayer('vertices-layer').source);
-    const vertices = source._data;
-
-    console.log(vertices);
-
-    const index = vertices.features.findIndex((feature) => feature === selectedRef.current![0]);
-    vertices.splice(index, 1);
-
-    setSelected([null, null])
-
-    source.setData(vertices);
-  }
 
   const handleChange = (e) => {
     setNewname(e.target.value)
