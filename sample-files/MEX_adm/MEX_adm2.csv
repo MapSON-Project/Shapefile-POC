@@ -1,0 +1,1854 @@
+"OBJECTID","ID_0","ISO","NAME_0","ID_1","NAME_1","ID_2","NAME_2","TYPE_2","ENGTYPE_2","NL_NAME_2","VARNAME_2"
+1,145,"MEX","Mexico",1,"Aguascalientes",1,"Aguascalientes","Municipio","Municipality",NA,NA
+2,145,"MEX","Mexico",1,"Aguascalientes",2,"Asientos","Municipio","Municipality",NA,NA
+3,145,"MEX","Mexico",1,"Aguascalientes",3,"Calvillo","Municipio","Municipality",NA,NA
+4,145,"MEX","Mexico",1,"Aguascalientes",4,"Cosío","Municipio","Municipality",NA,"Cosio"
+5,145,"MEX","Mexico",1,"Aguascalientes",5,"Jesús María","Municipio","Municipality",NA,"Jesus Maria"
+6,145,"MEX","Mexico",1,"Aguascalientes",6,"Pabellón de Arteaga","Municipio","Municipality",NA,"Pabellon de Arteaga"
+7,145,"MEX","Mexico",1,"Aguascalientes",7,"Rincón de Romos","Municipio","Municipality",NA,"Rincon de Romos"
+8,145,"MEX","Mexico",1,"Aguascalientes",8,"San José de Gracia","Municipio","Municipality",NA,"San Jose de Garcia"
+9,145,"MEX","Mexico",1,"Aguascalientes",9,"Tepezalá","Municipio","Municipality",NA,"Tepezala"
+10,145,"MEX","Mexico",2,"Baja California Sur",10,"Comondú","Municipio","Municipality",NA,"Comondu"
+11,145,"MEX","Mexico",2,"Baja California Sur",11,"La Paz","Municipio","Municipality",NA,NA
+12,145,"MEX","Mexico",2,"Baja California Sur",12,"Mulegé","Municipio","Municipality",NA,"Mulege"
+13,145,"MEX","Mexico",3,"Baja California",13,"Ensenada","Municipio","Municipality",NA,NA
+14,145,"MEX","Mexico",3,"Baja California",14,"Mexicali","Municipio","Municipality",NA,NA
+15,145,"MEX","Mexico",3,"Baja California",15,"Mulegé","Municipio","Municipality",NA,"Mulege"
+16,145,"MEX","Mexico",3,"Baja California",16,"Tecate","Municipio","Municipality",NA,NA
+17,145,"MEX","Mexico",3,"Baja California",17,"Tijuana","Municipio","Municipality",NA,NA
+18,145,"MEX","Mexico",4,"Campeche",18,"Calkiní","Municipio","Municipality",NA,"Calkini"
+19,145,"MEX","Mexico",4,"Campeche",19,"Campeche","Municipio","Municipality",NA,NA
+20,145,"MEX","Mexico",4,"Campeche",20,"Carmen","Municipio","Municipality",NA,NA
+21,145,"MEX","Mexico",4,"Campeche",21,"Champotón","Municipio","Municipality",NA,"Champoton"
+22,145,"MEX","Mexico",4,"Campeche",22,"Hecelchakán","Municipio","Municipality",NA,"Hecelchakan"
+23,145,"MEX","Mexico",4,"Campeche",23,"Hopelchén","Municipio","Municipality",NA,"Hopelchen"
+24,145,"MEX","Mexico",4,"Campeche",24,"Palizada","Municipio","Municipality",NA,NA
+25,145,"MEX","Mexico",4,"Campeche",25,"Tenabo","Municipio","Municipality",NA,NA
+26,145,"MEX","Mexico",5,"Chiapas",26,"Acacoyagua","Municipio","Municipality",NA,"Acacoyahua"
+27,145,"MEX","Mexico",5,"Chiapas",27,"Acala","Municipio","Municipality",NA,NA
+28,145,"MEX","Mexico",5,"Chiapas",28,"Acapetahua","Municipio","Municipality",NA,NA
+29,145,"MEX","Mexico",5,"Chiapas",29,"Altamirano","Municipio","Municipality",NA,NA
+30,145,"MEX","Mexico",5,"Chiapas",30,"Amatán","Municipio","Municipality",NA,"Amatan"
+31,145,"MEX","Mexico",5,"Chiapas",31,"Amatenango de la Frontera","Municipio","Municipality",NA,NA
+32,145,"MEX","Mexico",5,"Chiapas",32,"Amatenango del Valle","Municipio","Municipality",NA,NA
+33,145,"MEX","Mexico",5,"Chiapas",33,"Angel Albino Corzo","Municipio","Municipality",NA,NA
+34,145,"MEX","Mexico",5,"Chiapas",34,"Arriaga","Municipio","Municipality",NA,NA
+35,145,"MEX","Mexico",5,"Chiapas",35,"Bejucal de Ocampo","Municipio","Municipality",NA,NA
+36,145,"MEX","Mexico",5,"Chiapas",36,"Bella Vista","Municipio","Municipality",NA,NA
+37,145,"MEX","Mexico",5,"Chiapas",37,"Berriozábal","Municipio","Municipality",NA,"Berriozabal"
+38,145,"MEX","Mexico",5,"Chiapas",38,"Bochil","Municipio","Municipality",NA,NA
+39,145,"MEX","Mexico",5,"Chiapas",39,"Cacahoatán","Municipio","Municipality",NA,NA
+40,145,"MEX","Mexico",5,"Chiapas",40,"Catazajá","Municipio","Municipality",NA,"Catazaja"
+41,145,"MEX","Mexico",5,"Chiapas",41,"Chalchihuitán","Municipio","Municipality",NA,"Chalchihuitan"
+42,145,"MEX","Mexico",5,"Chiapas",42,"Chamula","Municipio","Municipality",NA,NA
+43,145,"MEX","Mexico",5,"Chiapas",43,"Chanal","Municipio","Municipality",NA,NA
+44,145,"MEX","Mexico",5,"Chiapas",44,"Chapultenango","Municipio","Municipality",NA,NA
+45,145,"MEX","Mexico",5,"Chiapas",45,"Chenalhó","Municipio","Municipality",NA,"Chenalho"
+46,145,"MEX","Mexico",5,"Chiapas",46,"Chiapa de Corzo","Municipio","Municipality",NA,NA
+47,145,"MEX","Mexico",5,"Chiapas",47,"Chiapilla","Municipio","Municipality",NA,NA
+48,145,"MEX","Mexico",5,"Chiapas",48,"Chicoasén","Municipio","Municipality",NA,"Chicoasen"
+49,145,"MEX","Mexico",5,"Chiapas",49,"Chicomuselo","Municipio","Municipality",NA,NA
+50,145,"MEX","Mexico",5,"Chiapas",50,"Chilón","Municipio","Municipality",NA,NA
+51,145,"MEX","Mexico",5,"Chiapas",51,"Cintalapa","Municipio","Municipality",NA,NA
+52,145,"MEX","Mexico",5,"Chiapas",52,"Coapilla","Municipio","Municipality",NA,"Coapailla"
+53,145,"MEX","Mexico",5,"Chiapas",53,"Comitán de Domínguez","Municipio","Municipality",NA,"Comitan de Dominguez"
+54,145,"MEX","Mexico",5,"Chiapas",54,"Copainalá","Municipio","Municipality",NA,"Copainala"
+55,145,"MEX","Mexico",5,"Chiapas",55,"El Bosque","Municipio","Municipality",NA,NA
+56,145,"MEX","Mexico",5,"Chiapas",56,"El Porvenir","Municipio","Municipality",NA,NA
+57,145,"MEX","Mexico",5,"Chiapas",57,"Escuintla","Municipio","Municipality",NA,NA
+58,145,"MEX","Mexico",5,"Chiapas",58,"Francisco León","Municipio","Municipality",NA,"Francisco Leon"
+59,145,"MEX","Mexico",5,"Chiapas",59,"Frontera Comalapa","Municipio","Municipality",NA,NA
+60,145,"MEX","Mexico",5,"Chiapas",60,"Frontera Hidalgo","Municipio","Municipality",NA,NA
+61,145,"MEX","Mexico",5,"Chiapas",61,"Huehuetán","Municipio","Municipality",NA,"Huehuetan"
+62,145,"MEX","Mexico",5,"Chiapas",62,"Huitiupán","Municipio","Municipality",NA,"Huitupan"
+63,145,"MEX","Mexico",5,"Chiapas",63,"Huixtán","Municipio","Municipality",NA,"Huixtan"
+64,145,"MEX","Mexico",5,"Chiapas",64,"Huixtla","Municipio","Municipality",NA,NA
+65,145,"MEX","Mexico",5,"Chiapas",65,"Ixhuatán","Municipio","Municipality",NA,"Ixhuatan"
+66,145,"MEX","Mexico",5,"Chiapas",66,"Ixtacomitán","Municipio","Municipality",NA,"Ixtacomitan"
+67,145,"MEX","Mexico",5,"Chiapas",67,"Ixtapa","Municipio","Municipality",NA,NA
+68,145,"MEX","Mexico",5,"Chiapas",68,"Ixtapangajoya","Municipio","Municipality",NA,NA
+69,145,"MEX","Mexico",5,"Chiapas",69,"Jiquipilas","Municipio","Municipality",NA,NA
+70,145,"MEX","Mexico",5,"Chiapas",70,"Jitotol","Municipio","Municipality",NA,NA
+71,145,"MEX","Mexico",5,"Chiapas",71,"Juárez","Municipio","Municipality",NA,"Juarez"
+72,145,"MEX","Mexico",5,"Chiapas",72,"La Concordia","Municipio","Municipality",NA,NA
+73,145,"MEX","Mexico",5,"Chiapas",73,"La Grandeza","Municipio","Municipality",NA,NA
+74,145,"MEX","Mexico",5,"Chiapas",74,"La Independencia","Municipio","Municipality",NA,NA
+75,145,"MEX","Mexico",5,"Chiapas",75,"La Libertad","Municipio","Municipality",NA,NA
+76,145,"MEX","Mexico",5,"Chiapas",76,"La Trinitaria","Municipio","Municipality",NA,NA
+77,145,"MEX","Mexico",5,"Chiapas",77,"Larráinzar","Municipio","Municipality",NA,"Larrainza"
+78,145,"MEX","Mexico",5,"Chiapas",78,"Las Margaritas","Municipio","Municipality",NA,NA
+79,145,"MEX","Mexico",5,"Chiapas",79,"Las Rosas","Municipio","Municipality",NA,NA
+80,145,"MEX","Mexico",5,"Chiapas",80,"Mapastepec","Municipio","Municipality",NA,NA
+81,145,"MEX","Mexico",5,"Chiapas",81,"Mazapa de Madero","Municipio","Municipality",NA,NA
+82,145,"MEX","Mexico",5,"Chiapas",82,"Mazatán","Municipio","Municipality",NA,"Mazatan"
+83,145,"MEX","Mexico",5,"Chiapas",83,"Metapa","Municipio","Municipality",NA,"Metapa de Dominguez"
+84,145,"MEX","Mexico",5,"Chiapas",84,"Mitontic","Municipio","Municipality",NA,NA
+85,145,"MEX","Mexico",5,"Chiapas",85,"Motozintla","Municipio","Municipality",NA,NA
+86,145,"MEX","Mexico",5,"Chiapas",86,"Nicolás Ruíz","Municipio","Municipality",NA,"Nicolas Ruiz"
+87,145,"MEX","Mexico",5,"Chiapas",87,"Ocosingo","Municipio","Municipality",NA,"Ocozingo"
+88,145,"MEX","Mexico",5,"Chiapas",88,"Ocotepec","Municipio","Municipality",NA,NA
+89,145,"MEX","Mexico",5,"Chiapas",89,"Ocozocoautla de Espinosa","Municipio","Municipality",NA,NA
+90,145,"MEX","Mexico",5,"Chiapas",90,"Ostuacán","Municipio","Municipality",NA,"Ostuacan"
+91,145,"MEX","Mexico",5,"Chiapas",91,"Osumacinta","Municipio","Municipality",NA,NA
+92,145,"MEX","Mexico",5,"Chiapas",92,"Oxchuc","Municipio","Municipality",NA,NA
+93,145,"MEX","Mexico",5,"Chiapas",93,"Palenque","Municipio","Municipality",NA,NA
+94,145,"MEX","Mexico",5,"Chiapas",94,"Pantelhó","Municipio","Municipality",NA,"Pantelho"
+95,145,"MEX","Mexico",5,"Chiapas",95,"Pantepec","Municipio","Municipality",NA,NA
+96,145,"MEX","Mexico",5,"Chiapas",96,"Pichucalco","Municipio","Municipality",NA,NA
+97,145,"MEX","Mexico",5,"Chiapas",97,"Pijijiapan","Municipio","Municipality",NA,NA
+98,145,"MEX","Mexico",5,"Chiapas",98,"Pueblo Nuevo Solistahuacán","Municipio","Municipality",NA,"Pueblo Nuevo Solistahuaca"
+99,145,"MEX","Mexico",5,"Chiapas",99,"Rayón","Municipio","Municipality",NA,"Rayon"
+100,145,"MEX","Mexico",5,"Chiapas",100,"Reforma","Municipio","Municipality",NA,NA
+101,145,"MEX","Mexico",5,"Chiapas",101,"Sabanilla","Municipio","Municipality",NA,NA
+102,145,"MEX","Mexico",5,"Chiapas",102,"Salto de Agua","Municipio","Municipality",NA,NA
+103,145,"MEX","Mexico",5,"Chiapas",103,"San Cristóbal de las Casas","Municipio","Municipality",NA,"San Cristobal de Casas"
+104,145,"MEX","Mexico",5,"Chiapas",104,"San Fernando","Municipio","Municipality",NA,NA
+105,145,"MEX","Mexico",5,"Chiapas",105,"San Lucas","Municipio","Municipality",NA,NA
+106,145,"MEX","Mexico",5,"Chiapas",106,"Siltepec","Municipio","Municipality",NA,NA
+107,145,"MEX","Mexico",5,"Chiapas",107,"Simojovel","Municipio","Municipality",NA,NA
+108,145,"MEX","Mexico",5,"Chiapas",108,"Sitalá","Municipio","Municipality",NA,"Sitala"
+109,145,"MEX","Mexico",5,"Chiapas",109,"Socoltenango","Municipio","Municipality",NA,NA
+110,145,"MEX","Mexico",5,"Chiapas",110,"Solosuchiapa","Municipio","Municipality",NA,NA
+111,145,"MEX","Mexico",5,"Chiapas",111,"Soyaló","Municipio","Municipality",NA,"Soyalo"
+112,145,"MEX","Mexico",5,"Chiapas",112,"Suchiapa","Municipio","Municipality",NA,NA
+113,145,"MEX","Mexico",5,"Chiapas",113,"Suchiate","Municipio","Municipality",NA,NA
+114,145,"MEX","Mexico",5,"Chiapas",114,"Sunuapa","Municipio","Municipality",NA,NA
+115,145,"MEX","Mexico",5,"Chiapas",115,"Tapachula","Municipio","Municipality",NA,NA
+116,145,"MEX","Mexico",5,"Chiapas",116,"Tapalapa","Municipio","Municipality",NA,NA
+117,145,"MEX","Mexico",5,"Chiapas",117,"Tapilula","Municipio","Municipality",NA,NA
+118,145,"MEX","Mexico",5,"Chiapas",118,"Tecpatán","Municipio","Municipality",NA,NA
+119,145,"MEX","Mexico",5,"Chiapas",119,"Tenejapa","Municipio","Municipality",NA,"Tenajapa"
+120,145,"MEX","Mexico",5,"Chiapas",120,"Teopisca","Municipio","Municipality",NA,NA
+121,145,"MEX","Mexico",5,"Chiapas",121,"Tila","Municipio","Municipality",NA,NA
+122,145,"MEX","Mexico",5,"Chiapas",122,"Tonalá","Municipio","Municipality",NA,NA
+123,145,"MEX","Mexico",5,"Chiapas",123,"Totolapa","Municipio","Municipality",NA,NA
+124,145,"MEX","Mexico",5,"Chiapas",124,"Tumbalá","Municipio","Municipality",NA,"Tumbala"
+125,145,"MEX","Mexico",5,"Chiapas",125,"Tuxtla Chico","Municipio","Municipality",NA,NA
+126,145,"MEX","Mexico",5,"Chiapas",126,"Tuxtla Gutiérrez","Municipio","Municipality",NA,"Tuxtla Gutierrez"
+127,145,"MEX","Mexico",5,"Chiapas",127,"Tuzantán","Municipio","Municipality",NA,"Tuzantan"
+128,145,"MEX","Mexico",5,"Chiapas",128,"Tzimol","Municipio","Municipality",NA,NA
+129,145,"MEX","Mexico",5,"Chiapas",129,"Venustiano Carranza","Municipio","Municipality",NA,NA
+130,145,"MEX","Mexico",5,"Chiapas",130,"Villa Comaltitlán","Municipio","Municipality",NA,"Villa de Comaltitlan"
+131,145,"MEX","Mexico",5,"Chiapas",131,"Villa Corzo","Municipio","Municipality",NA,NA
+132,145,"MEX","Mexico",5,"Chiapas",132,"Villaflores","Municipio","Municipality",NA,"Villa Flores"
+133,145,"MEX","Mexico",5,"Chiapas",133,"Yajalón","Municipio","Municipality",NA,NA
+134,145,"MEX","Mexico",5,"Chiapas",134,"Zinacantán","Municipio","Municipality",NA,"Zinacatan"
+135,145,"MEX","Mexico",6,"Chihuahua",135,"Ahumada","Municipio","Municipality",NA,"Villa Ahumada"
+136,145,"MEX","Mexico",6,"Chihuahua",136,"Aldama","Municipio","Municipality",NA,NA
+137,145,"MEX","Mexico",6,"Chihuahua",137,"Allende","Municipio","Municipality",NA,"Valle de Allende"
+138,145,"MEX","Mexico",6,"Chihuahua",138,"Aquiles Serdán","Municipio","Municipality",NA,"Aquiles Serdan"
+139,145,"MEX","Mexico",6,"Chihuahua",139,"Ascensión","Municipio","Municipality",NA,"Ascension"
+140,145,"MEX","Mexico",6,"Chihuahua",140,"Bachíniva","Municipio","Municipality",NA,"Bachiniva"
+141,145,"MEX","Mexico",6,"Chihuahua",141,"Balleza","Municipio","Municipality",NA,NA
+142,145,"MEX","Mexico",6,"Chihuahua",142,"Batopilas","Municipio","Municipality",NA,NA
+143,145,"MEX","Mexico",6,"Chihuahua",143,"Bocoyna","Municipio","Municipality",NA,NA
+144,145,"MEX","Mexico",6,"Chihuahua",144,"Buenaventura","Municipio","Municipality",NA,NA
+145,145,"MEX","Mexico",6,"Chihuahua",145,"Camargo","Municipio","Municipality",NA,NA
+146,145,"MEX","Mexico",6,"Chihuahua",146,"Carichic","Municipio","Municipality",NA,NA
+147,145,"MEX","Mexico",6,"Chihuahua",147,"Casas Grandes","Municipio","Municipality",NA,NA
+148,145,"MEX","Mexico",6,"Chihuahua",148,"Chínipas","Municipio","Municipality",NA,"Chinipas"
+149,145,"MEX","Mexico",6,"Chihuahua",149,"Chihuahua","Municipio","Municipality",NA,NA
+150,145,"MEX","Mexico",6,"Chihuahua",150,"Coronado","Municipio","Municipality",NA,NA
+151,145,"MEX","Mexico",6,"Chihuahua",151,"Coyame del Sotol","Municipio","Municipality",NA,"Coyame"
+152,145,"MEX","Mexico",6,"Chihuahua",152,"Cuauhtémoc","Municipio","Municipality",NA,"Cuauhtemoc"
+153,145,"MEX","Mexico",6,"Chihuahua",153,"Cusihuiriachic","Municipio","Municipality",NA,NA
+154,145,"MEX","Mexico",6,"Chihuahua",154,"Delicias","Municipio","Municipality",NA,NA
+155,145,"MEX","Mexico",6,"Chihuahua",155,"Dr. Belisario Domínguez","Municipio","Municipality",NA,"Doctor Belisario Dominguez"
+156,145,"MEX","Mexico",6,"Chihuahua",156,"El Tule","Municipio","Municipality",NA,NA
+157,145,"MEX","Mexico",6,"Chihuahua",157,"Galeana","Municipio","Municipality",NA,NA
+158,145,"MEX","Mexico",6,"Chihuahua",158,"General Trias","Municipio","Municipality",NA,NA
+159,145,"MEX","Mexico",6,"Chihuahua",159,"Gran Morelos","Municipio","Municipality",NA,NA
+160,145,"MEX","Mexico",6,"Chihuahua",160,"Guachochic","Municipio","Municipality",NA,"Guachochi"
+161,145,"MEX","Mexico",6,"Chihuahua",161,"Guadalupe y Calvo","Municipio","Municipality",NA,NA
+162,145,"MEX","Mexico",6,"Chihuahua",162,"Guadalupe","Municipio","Municipality",NA,"Guadalupe de Bravo"
+163,145,"MEX","Mexico",6,"Chihuahua",163,"Guazapares","Municipio","Municipality",NA,NA
+164,145,"MEX","Mexico",6,"Chihuahua",164,"Guerrero","Municipio","Municipality",NA,NA
+165,145,"MEX","Mexico",6,"Chihuahua",165,"Hidalgo del Parral","Municipio","Municipality",NA,NA
+166,145,"MEX","Mexico",6,"Chihuahua",166,"Huejotitán","Municipio","Municipality",NA,"Huejotitan"
+167,145,"MEX","Mexico",6,"Chihuahua",167,"Ignacio Zaragoza","Municipio","Municipality",NA,NA
+168,145,"MEX","Mexico",6,"Chihuahua",168,"Janos","Municipio","Municipality",NA,NA
+169,145,"MEX","Mexico",6,"Chihuahua",169,"Jiménez","Municipio","Municipality",NA,"Jimenez"
+170,145,"MEX","Mexico",6,"Chihuahua",170,"Juárez","Municipio","Municipality",NA,"Ciudad Juarez"
+171,145,"MEX","Mexico",6,"Chihuahua",171,"Julimes","Municipio","Municipality",NA,NA
+172,145,"MEX","Mexico",6,"Chihuahua",172,"La Cruz","Municipio","Municipality",NA,NA
+173,145,"MEX","Mexico",6,"Chihuahua",173,"López","Municipio","Municipality",NA,"Villa Lopez"
+174,145,"MEX","Mexico",6,"Chihuahua",174,"Madera","Municipio","Municipality",NA,NA
+175,145,"MEX","Mexico",6,"Chihuahua",175,"Maguarichic","Municipio","Municipality",NA,"Maguarichi"
+176,145,"MEX","Mexico",6,"Chihuahua",176,"Manuel Benavides","Municipio","Municipality",NA,NA
+177,145,"MEX","Mexico",6,"Chihuahua",177,"Matachic","Municipio","Municipality",NA,NA
+178,145,"MEX","Mexico",6,"Chihuahua",178,"Matamoros","Municipio","Municipality",NA,NA
+179,145,"MEX","Mexico",6,"Chihuahua",179,"Meoqui","Municipio","Municipality",NA,NA
+180,145,"MEX","Mexico",6,"Chihuahua",180,"Morelos","Municipio","Municipality",NA,NA
+181,145,"MEX","Mexico",6,"Chihuahua",181,"Moris","Municipio","Municipality",NA,NA
+182,145,"MEX","Mexico",6,"Chihuahua",182,"Namiquipa","Municipio","Municipality",NA,NA
+183,145,"MEX","Mexico",6,"Chihuahua",183,"Nonoava","Municipio","Municipality",NA,NA
+184,145,"MEX","Mexico",6,"Chihuahua",184,"Nuevo Casas Grandes","Municipio","Municipality",NA,NA
+185,145,"MEX","Mexico",6,"Chihuahua",185,"Ocampo","Municipio","Municipality",NA,NA
+186,145,"MEX","Mexico",6,"Chihuahua",186,"Ojinaga","Municipio","Municipality",NA,NA
+187,145,"MEX","Mexico",6,"Chihuahua",187,"Praxedis G. Guerrero","Municipio","Municipality",NA,"Praxedes G. Guerrero"
+188,145,"MEX","Mexico",6,"Chihuahua",188,"Riva Palacio","Municipio","Municipality",NA,NA
+189,145,"MEX","Mexico",6,"Chihuahua",189,"Rosales","Municipio","Municipality",NA,NA
+190,145,"MEX","Mexico",6,"Chihuahua",190,"Rosario","Municipio","Municipality",NA,"Valle del Rosario"
+191,145,"MEX","Mexico",6,"Chihuahua",191,"San Francisco de Borja","Municipio","Municipality",NA,NA
+192,145,"MEX","Mexico",6,"Chihuahua",192,"San Francisco de Conchos","Municipio","Municipality",NA,NA
+193,145,"MEX","Mexico",6,"Chihuahua",193,"San Francisco del Oro","Municipio","Municipality",NA,NA
+194,145,"MEX","Mexico",6,"Chihuahua",194,"Santa Bárbara","Municipio","Municipality",NA,NA
+195,145,"MEX","Mexico",6,"Chihuahua",195,"Satevó","Municipio","Municipality",NA,"Satevo"
+196,145,"MEX","Mexico",6,"Chihuahua",196,"Saucillo","Municipio","Municipality",NA,NA
+197,145,"MEX","Mexico",6,"Chihuahua",197,"Temósachic","Municipio","Municipality",NA,"Temosachic"
+198,145,"MEX","Mexico",6,"Chihuahua",198,"Urique","Municipio","Municipality",NA,NA
+199,145,"MEX","Mexico",6,"Chihuahua",199,"Uruachic","Municipio","Municipality",NA,"Uruachi"
+200,145,"MEX","Mexico",6,"Chihuahua",200,"Valle de Zaragoza","Municipio","Municipality",NA,NA
+201,145,"MEX","Mexico",7,"Coahuila",201,"Abasolo","Municipio","Municipality",NA,NA
+202,145,"MEX","Mexico",7,"Coahuila",202,"Acuña","Municipio","Municipality",NA,"Villa Acuna"
+203,145,"MEX","Mexico",7,"Coahuila",203,"Allende","Municipio","Municipality",NA,NA
+204,145,"MEX","Mexico",7,"Coahuila",204,"Arteaga","Municipio","Municipality",NA,NA
+205,145,"MEX","Mexico",7,"Coahuila",205,"Candela","Municipio","Municipality",NA,NA
+206,145,"MEX","Mexico",7,"Coahuila",206,"Castaños","Municipio","Municipality",NA,"Castanos"
+207,145,"MEX","Mexico",7,"Coahuila",207,"Cuatrociénegas","Municipio","Municipality",NA,"Cuatro Cienagas"
+208,145,"MEX","Mexico",7,"Coahuila",208,"Escobedo","Municipio","Municipality",NA,NA
+209,145,"MEX","Mexico",7,"Coahuila",209,"Francisco I. Madero","Municipio","Municipality",NA,NA
+210,145,"MEX","Mexico",7,"Coahuila",210,"Frontera","Municipio","Municipality",NA,"Vila Frontera"
+211,145,"MEX","Mexico",7,"Coahuila",211,"General Cepeda","Municipio","Municipality",NA,NA
+212,145,"MEX","Mexico",7,"Coahuila",212,"Guerrero","Municipio","Municipality",NA,NA
+213,145,"MEX","Mexico",7,"Coahuila",213,"Hidalgo","Municipio","Municipality",NA,NA
+214,145,"MEX","Mexico",7,"Coahuila",214,"Jiménez","Municipio","Municipality",NA,"Jimenez"
+215,145,"MEX","Mexico",7,"Coahuila",215,"Juárez","Municipio","Municipality",NA,"Juarez"
+216,145,"MEX","Mexico",7,"Coahuila",216,"Lamadrid","Municipio","Municipality",NA,NA
+217,145,"MEX","Mexico",7,"Coahuila",217,"Múzquiz","Municipio","Municipality",NA,"Melchor Muzquiz"
+218,145,"MEX","Mexico",7,"Coahuila",218,"Matamoros","Municipio","Municipality",NA,NA
+219,145,"MEX","Mexico",7,"Coahuila",219,"Monclova","Municipio","Municipality",NA,NA
+220,145,"MEX","Mexico",7,"Coahuila",220,"Morelos","Municipio","Municipality",NA,NA
+221,145,"MEX","Mexico",7,"Coahuila",221,"Nadadores","Municipio","Municipality",NA,NA
+222,145,"MEX","Mexico",7,"Coahuila",222,"Nava","Municipio","Municipality",NA,NA
+223,145,"MEX","Mexico",7,"Coahuila",223,"Nueva Rosita","Municipio","Municipality",NA,NA
+224,145,"MEX","Mexico",7,"Coahuila",224,"Ocampo","Municipio","Municipality",NA,NA
+225,145,"MEX","Mexico",7,"Coahuila",225,"Parras","Municipio","Municipality",NA,"Parras de la Fuente"
+226,145,"MEX","Mexico",7,"Coahuila",226,"Piedras Negras","Municipio","Municipality",NA,NA
+227,145,"MEX","Mexico",7,"Coahuila",227,"Progreso","Municipio","Municipality",NA,NA
+228,145,"MEX","Mexico",7,"Coahuila",228,"Ramos Arizpe","Municipio","Municipality",NA,NA
+229,145,"MEX","Mexico",7,"Coahuila",229,"Sabinas","Municipio","Municipality",NA,NA
+230,145,"MEX","Mexico",7,"Coahuila",230,"Sacramento","Municipio","Municipality",NA,NA
+231,145,"MEX","Mexico",7,"Coahuila",231,"Saltillo","Municipio","Municipality",NA,NA
+232,145,"MEX","Mexico",7,"Coahuila",232,"San Buenaventura","Municipio","Municipality",NA,NA
+233,145,"MEX","Mexico",7,"Coahuila",233,"San Pedro","Municipio","Municipality",NA,"San Pedro de las Colonias"
+234,145,"MEX","Mexico",7,"Coahuila",234,"Sierra Mojada","Municipio","Municipality",NA,NA
+235,145,"MEX","Mexico",7,"Coahuila",235,"Torreón","Municipio","Municipality",NA,NA
+236,145,"MEX","Mexico",7,"Coahuila",236,"Viesca","Municipio","Municipality",NA,NA
+237,145,"MEX","Mexico",7,"Coahuila",237,"Villa Unión","Municipio","Municipality",NA,"Villa Union"
+238,145,"MEX","Mexico",7,"Coahuila",238,"Zaragoza","Municipio","Municipality",NA,NA
+239,145,"MEX","Mexico",8,"Colima",239,"Armería","Municipio","Municipality",NA,"Armeria"
+240,145,"MEX","Mexico",8,"Colima",240,"Colima","Municipio","Municipality",NA,NA
+241,145,"MEX","Mexico",8,"Colima",241,"Comala","Municipio","Municipality",NA,NA
+242,145,"MEX","Mexico",8,"Colima",242,"Coquimatlán","Municipio","Municipality",NA,"Coquimatlan"
+243,145,"MEX","Mexico",8,"Colima",243,"Cuauhtémoc","Municipio","Municipality",NA,"Cuauhtemoc"
+244,145,"MEX","Mexico",8,"Colima",244,"Ixtlahuacán","Municipio","Municipality",NA,"Ixtlahuacan"
+245,145,"MEX","Mexico",8,"Colima",245,"Manzanillo","Municipio","Municipality",NA,NA
+246,145,"MEX","Mexico",8,"Colima",246,"Minatitlán","Municipio","Municipality",NA,"Minatitlan"
+247,145,"MEX","Mexico",8,"Colima",247,"Tecomán","Municipio","Municipality",NA,NA
+248,145,"MEX","Mexico",8,"Colima",248,"Villa de Alvarez","Municipio","Municipality",NA,NA
+249,145,"MEX","Mexico",9,"Distrito Federal",249,"Alvaro Obregón","Municipio","Municipality",NA,"Alvaro Obregon"
+250,145,"MEX","Mexico",9,"Distrito Federal",250,"Azcapotzalco","Municipio","Municipality",NA,NA
+251,145,"MEX","Mexico",9,"Distrito Federal",251,"Benito Juárez","Municipio","Municipality",NA,NA
+252,145,"MEX","Mexico",9,"Distrito Federal",252,"Coyoacán","Municipio","Municipality",NA,"Coyoacan"
+253,145,"MEX","Mexico",9,"Distrito Federal",253,"Cuajimalpa de Morelos","Municipio","Municipality",NA,NA
+254,145,"MEX","Mexico",9,"Distrito Federal",254,"Cuauhtémoc","Municipio","Municipality",NA,"Cuauhtemoc"
+255,145,"MEX","Mexico",9,"Distrito Federal",255,"Gustavo A. Madero","Municipio","Municipality",NA,NA
+256,145,"MEX","Mexico",9,"Distrito Federal",256,"Iztacalco","Municipio","Municipality",NA,NA
+257,145,"MEX","Mexico",9,"Distrito Federal",257,"Iztapalapa","Municipio","Municipality",NA,NA
+258,145,"MEX","Mexico",9,"Distrito Federal",258,"Magdalena Contreras","Municipio","Municipality",NA,"La Magdalena Contreras"
+259,145,"MEX","Mexico",9,"Distrito Federal",259,"Miguel Hidalgo","Municipio","Municipality",NA,NA
+260,145,"MEX","Mexico",9,"Distrito Federal",260,"Milpa Alta","Municipio","Municipality",NA,NA
+261,145,"MEX","Mexico",9,"Distrito Federal",261,"Tláhuac","Municipio","Municipality",NA,NA
+262,145,"MEX","Mexico",9,"Distrito Federal",262,"Tlalpan","Municipio","Municipality",NA,NA
+263,145,"MEX","Mexico",9,"Distrito Federal",263,"Venustiano Carranza","Municipio","Municipality",NA,NA
+264,145,"MEX","Mexico",9,"Distrito Federal",264,"Xochimilco","Municipio","Municipality",NA,NA
+265,145,"MEX","Mexico",10,"Durango",265,"Canatlán","Municipio","Municipality",NA,"Canatlan"
+266,145,"MEX","Mexico",10,"Durango",266,"Canelas","Municipio","Municipality",NA,NA
+267,145,"MEX","Mexico",10,"Durango",267,"Coneto de Comonfort","Municipio","Municipality",NA,NA
+268,145,"MEX","Mexico",10,"Durango",268,"Cuencamé","Municipio","Municipality",NA,"Cuencame"
+269,145,"MEX","Mexico",10,"Durango",269,"Durango","Municipio","Municipality",NA,NA
+270,145,"MEX","Mexico",10,"Durango",270,"El Oro","Municipio","Municipality",NA,NA
+271,145,"MEX","Mexico",10,"Durango",271,"Gómez Palacio","Municipio","Municipality",NA,"Gomez Palacio"
+272,145,"MEX","Mexico",10,"Durango",272,"General Simón Bolívar","Municipio","Municipality",NA,"General Simon Bolivar"
+273,145,"MEX","Mexico",10,"Durango",273,"Guadalupe Victoria","Municipio","Municipality",NA,NA
+274,145,"MEX","Mexico",10,"Durango",274,"Guanaceví","Municipio","Municipality",NA,"Guanaceri"
+275,145,"MEX","Mexico",10,"Durango",275,"Hidalgo","Municipio","Municipality",NA,NA
+276,145,"MEX","Mexico",10,"Durango",276,"Indé","Municipio","Municipality",NA,"Inde"
+277,145,"MEX","Mexico",10,"Durango",277,"Lerdo","Municipio","Municipality",NA,NA
+278,145,"MEX","Mexico",10,"Durango",278,"Mapimí","Municipio","Municipality",NA,"Mapimi"
+279,145,"MEX","Mexico",10,"Durango",279,"Mezquital","Municipio","Municipality",NA,NA
+280,145,"MEX","Mexico",10,"Durango",280,"Nazas","Municipio","Municipality",NA,NA
+281,145,"MEX","Mexico",10,"Durango",281,"Nombre de Dios","Municipio","Municipality",NA,NA
+282,145,"MEX","Mexico",10,"Durango",282,"Ocampo","Municipio","Municipality",NA,NA
+283,145,"MEX","Mexico",10,"Durango",283,"Otáez","Municipio","Municipality",NA,"Otaez"
+284,145,"MEX","Mexico",10,"Durango",284,"Pánuco de Coronado","Municipio","Municipality",NA,"Panuco de Coronado"
+285,145,"MEX","Mexico",10,"Durango",285,"Peñón Blanco","Municipio","Municipality",NA,"Penon Blanco"
+286,145,"MEX","Mexico",10,"Durango",286,"Poanas","Municipio","Municipality",NA,NA
+287,145,"MEX","Mexico",10,"Durango",287,"Pueblo Nuevo","Municipio","Municipality",NA,NA
+288,145,"MEX","Mexico",10,"Durango",288,"Rodeo","Municipio","Municipality",NA,NA
+289,145,"MEX","Mexico",10,"Durango",289,"San Bernardo","Municipio","Municipality",NA,NA
+290,145,"MEX","Mexico",10,"Durango",290,"San Dimas","Municipio","Municipality",NA,NA
+291,145,"MEX","Mexico",10,"Durango",291,"San Juan de Guadalupe","Municipio","Municipality",NA,NA
+292,145,"MEX","Mexico",10,"Durango",292,"San Juan del Río","Municipio","Municipality",NA,"San Juan del Rio"
+293,145,"MEX","Mexico",10,"Durango",293,"San Luis de Cordero","Municipio","Municipality",NA,"San Luis del Cordero"
+294,145,"MEX","Mexico",10,"Durango",294,"San Pedro del Gallo","Municipio","Municipality",NA,NA
+295,145,"MEX","Mexico",10,"Durango",295,"Santa Clara","Municipio","Municipality",NA,NA
+296,145,"MEX","Mexico",10,"Durango",296,"Santiago Papasquiaro","Municipio","Municipality",NA,NA
+297,145,"MEX","Mexico",10,"Durango",297,"Súchil","Municipio","Municipality",NA,"Suchil"
+298,145,"MEX","Mexico",10,"Durango",298,"Tamazula","Municipio","Municipality",NA,NA
+299,145,"MEX","Mexico",10,"Durango",299,"Tepehuanes","Municipio","Municipality",NA,NA
+300,145,"MEX","Mexico",10,"Durango",300,"Tlahualilo","Municipio","Municipality",NA,NA
+301,145,"MEX","Mexico",10,"Durango",301,"Topia","Municipio","Municipality",NA,NA
+302,145,"MEX","Mexico",10,"Durango",302,"Vicente Guerrero","Municipio","Municipality",NA,NA
+303,145,"MEX","Mexico",11,"Guanajuato",303,"Abasolo","Municipio","Municipality",NA,NA
+304,145,"MEX","Mexico",11,"Guanajuato",304,"Acámbaro","Municipio","Municipality",NA,"Acambaro"
+305,145,"MEX","Mexico",11,"Guanajuato",305,"Allende","Municipio","Municipality",NA,NA
+306,145,"MEX","Mexico",11,"Guanajuato",306,"Apaseo el Alto","Municipio","Municipality",NA,NA
+307,145,"MEX","Mexico",11,"Guanajuato",307,"Apaseo el Grande","Municipio","Municipality",NA,NA
+308,145,"MEX","Mexico",11,"Guanajuato",308,"Atarjea","Municipio","Municipality",NA,NA
+309,145,"MEX","Mexico",11,"Guanajuato",309,"Celaya","Municipio","Municipality",NA,NA
+310,145,"MEX","Mexico",11,"Guanajuato",310,"Comonfort","Municipio","Municipality",NA,NA
+311,145,"MEX","Mexico",11,"Guanajuato",311,"Coroneo","Municipio","Municipality",NA,NA
+312,145,"MEX","Mexico",11,"Guanajuato",312,"Cortazar","Municipio","Municipality",NA,NA
+313,145,"MEX","Mexico",11,"Guanajuato",313,"Cuerámaro","Municipio","Municipality",NA,"Cueramaro"
+314,145,"MEX","Mexico",11,"Guanajuato",314,"Doctor Mora","Municipio","Municipality",NA,NA
+315,145,"MEX","Mexico",11,"Guanajuato",315,"Dolores Hidalgo","Municipio","Municipality",NA,NA
+316,145,"MEX","Mexico",11,"Guanajuato",316,"Guanajuato","Municipio","Municipality",NA,NA
+317,145,"MEX","Mexico",11,"Guanajuato",317,"Huanímaro","Municipio","Municipality",NA,"Huanimaro"
+318,145,"MEX","Mexico",11,"Guanajuato",318,"Irapuato","Municipio","Municipality",NA,NA
+319,145,"MEX","Mexico",11,"Guanajuato",319,"Jaral del Progreso","Municipio","Municipality",NA,NA
+320,145,"MEX","Mexico",11,"Guanajuato",320,"Jerécuaro","Municipio","Municipality",NA,"Jerecuaro"
+321,145,"MEX","Mexico",11,"Guanajuato",321,"León","Municipio","Municipality",NA,"Leon"
+322,145,"MEX","Mexico",11,"Guanajuato",322,"Manuel Doblado","Municipio","Municipality",NA,NA
+323,145,"MEX","Mexico",11,"Guanajuato",323,"Moroleón","Municipio","Municipality",NA,"Moroleon"
+324,145,"MEX","Mexico",11,"Guanajuato",324,"Ocampo","Municipio","Municipality",NA,NA
+325,145,"MEX","Mexico",11,"Guanajuato",325,"Pénjamo","Municipio","Municipality",NA,"Penjamo"
+326,145,"MEX","Mexico",11,"Guanajuato",326,"Pueblo Nuevo","Municipio","Municipality",NA,NA
+327,145,"MEX","Mexico",11,"Guanajuato",327,"Purísima del Rincón","Municipio","Municipality",NA,"Purisima del Rincon"
+328,145,"MEX","Mexico",11,"Guanajuato",328,"Romita","Municipio","Municipality",NA,NA
+329,145,"MEX","Mexico",11,"Guanajuato",329,"Salamanca","Municipio","Municipality",NA,NA
+330,145,"MEX","Mexico",11,"Guanajuato",330,"Salvatierra","Municipio","Municipality",NA,NA
+331,145,"MEX","Mexico",11,"Guanajuato",331,"San Diego de la Unión","Municipio","Municipality",NA,"San Diego de la Union"
+332,145,"MEX","Mexico",11,"Guanajuato",332,"San Felipe","Municipio","Municipality",NA,NA
+333,145,"MEX","Mexico",11,"Guanajuato",333,"San Francisco del Rincón","Municipio","Municipality",NA,"San Francisco del Rincon"
+334,145,"MEX","Mexico",11,"Guanajuato",334,"San José Iturbide","Municipio","Municipality",NA,"San Jose Iturbide"
+335,145,"MEX","Mexico",11,"Guanajuato",335,"San Luis de la Paz","Municipio","Municipality",NA,NA
+336,145,"MEX","Mexico",11,"Guanajuato",336,"Santa Catarina","Municipio","Municipality",NA,NA
+337,145,"MEX","Mexico",11,"Guanajuato",337,"Santa Cruz de Juventino Rosas","Municipio","Municipality",NA,NA
+338,145,"MEX","Mexico",11,"Guanajuato",338,"Santiago Maravatío","Municipio","Municipality",NA,NA
+339,145,"MEX","Mexico",11,"Guanajuato",339,"Silao","Municipio","Municipality",NA,NA
+340,145,"MEX","Mexico",11,"Guanajuato",340,"Tarandacuao","Municipio","Municipality",NA,NA
+341,145,"MEX","Mexico",11,"Guanajuato",341,"Tarimoro","Municipio","Municipality",NA,NA
+342,145,"MEX","Mexico",11,"Guanajuato",342,"Tierra Blanca","Municipio","Municipality",NA,NA
+343,145,"MEX","Mexico",11,"Guanajuato",343,"Uriangato","Municipio","Municipality",NA,NA
+344,145,"MEX","Mexico",11,"Guanajuato",344,"Valle de Santiago","Municipio","Municipality",NA,NA
+345,145,"MEX","Mexico",11,"Guanajuato",345,"Victoria","Municipio","Municipality",NA,NA
+346,145,"MEX","Mexico",11,"Guanajuato",346,"Villagrán","Municipio","Municipality",NA,NA
+347,145,"MEX","Mexico",11,"Guanajuato",347,"Xichú","Municipio","Municipality",NA,"Xichu"
+348,145,"MEX","Mexico",11,"Guanajuato",348,"Yuriria","Municipio","Municipality",NA,NA
+349,145,"MEX","Mexico",12,"Guerrero",349,"Acapulco de Juárez","Municipio","Municipality",NA,"Acapulco de Juarez"
+350,145,"MEX","Mexico",12,"Guerrero",350,"Ahuacuotzingo","Municipio","Municipality",NA,NA
+351,145,"MEX","Mexico",12,"Guerrero",351,"Ajuchitlán del Progreso","Municipio","Municipality",NA,"Ajuchitlan del Progreso"
+352,145,"MEX","Mexico",12,"Guerrero",352,"Alcozauca de Guerrero","Municipio","Municipality",NA,NA
+353,145,"MEX","Mexico",12,"Guerrero",353,"Alpoyeca","Municipio","Municipality",NA,NA
+354,145,"MEX","Mexico",12,"Guerrero",354,"Apaxtla","Municipio","Municipality",NA,NA
+355,145,"MEX","Mexico",12,"Guerrero",355,"Arcelia","Municipio","Municipality",NA,NA
+356,145,"MEX","Mexico",12,"Guerrero",356,"Atenango del Río","Municipio","Municipality",NA,"Atenango del Rio"
+357,145,"MEX","Mexico",12,"Guerrero",357,"Atlamajalcingo del Monte","Municipio","Municipality",NA,NA
+358,145,"MEX","Mexico",12,"Guerrero",358,"Atlixtac","Municipio","Municipality",NA,NA
+359,145,"MEX","Mexico",12,"Guerrero",359,"Atoyac de Alvarez","Municipio","Municipality",NA,NA
+360,145,"MEX","Mexico",12,"Guerrero",360,"Ayutla de los Libres","Municipio","Municipality",NA,NA
+361,145,"MEX","Mexico",12,"Guerrero",361,"Azoyú","Municipio","Municipality",NA,"Azoyu"
+362,145,"MEX","Mexico",12,"Guerrero",362,"Benito Juárez","Municipio","Municipality",NA,NA
+363,145,"MEX","Mexico",12,"Guerrero",363,"Buenavista de Cuéllar","Municipio","Municipality",NA,"Buenavista de Cuellar"
+364,145,"MEX","Mexico",12,"Guerrero",364,"Chilapa de Alvarez","Municipio","Municipality",NA,NA
+365,145,"MEX","Mexico",12,"Guerrero",365,"Chilpancingo de los Bravo","Municipio","Municipality",NA,NA
+366,145,"MEX","Mexico",12,"Guerrero",366,"Cocula","Municipio","Municipality",NA,NA
+367,145,"MEX","Mexico",12,"Guerrero",367,"Copala","Municipio","Municipality",NA,NA
+368,145,"MEX","Mexico",12,"Guerrero",368,"Copalillo","Municipio","Municipality",NA,NA
+369,145,"MEX","Mexico",12,"Guerrero",369,"Copanatoyac","Municipio","Municipality",NA,NA
+370,145,"MEX","Mexico",12,"Guerrero",370,"Coyuca de Benítez","Municipio","Municipality",NA,"Coyuca de Benitez"
+371,145,"MEX","Mexico",12,"Guerrero",371,"Coyuca de Catalán","Municipio","Municipality",NA,"Coyuca de Catalan"
+372,145,"MEX","Mexico",12,"Guerrero",372,"Cuajinicuilapa","Municipio","Municipality",NA,NA
+373,145,"MEX","Mexico",12,"Guerrero",373,"Cualác","Municipio","Municipality",NA,"Cualac"
+374,145,"MEX","Mexico",12,"Guerrero",374,"Cuautepec","Municipio","Municipality",NA,NA
+375,145,"MEX","Mexico",12,"Guerrero",375,"Cuetzala del Progreso","Municipio","Municipality",NA,NA
+376,145,"MEX","Mexico",12,"Guerrero",376,"Cutzamala de Pinzón","Municipio","Municipality",NA,"Cutzamala de Pinzon"
+377,145,"MEX","Mexico",12,"Guerrero",377,"Eduardo Neri","Municipio","Municipality",NA,NA
+378,145,"MEX","Mexico",12,"Guerrero",378,"Erongarícuaro","Municipio","Municipality",NA,"Erongaricuaro"
+379,145,"MEX","Mexico",12,"Guerrero",379,"Florencio Villarreal","Municipio","Municipality",NA,NA
+380,145,"MEX","Mexico",12,"Guerrero",380,"General Canuto A. Neri","Municipio","Municipality",NA,NA
+381,145,"MEX","Mexico",12,"Guerrero",381,"General Heliodoro Castillo","Municipio","Municipality",NA,NA
+382,145,"MEX","Mexico",12,"Guerrero",382,"Huamuxtitlán","Municipio","Municipality",NA,"Huamuxtitlan"
+383,145,"MEX","Mexico",12,"Guerrero",383,"Huitzuco de los Figueroa","Municipio","Municipality",NA,NA
+384,145,"MEX","Mexico",12,"Guerrero",384,"Iguala de la Independencia","Municipio","Municipality",NA,"Iguala de Independencia"
+385,145,"MEX","Mexico",12,"Guerrero",385,"Igualapa","Municipio","Municipality",NA,NA
+386,145,"MEX","Mexico",12,"Guerrero",386,"Ixcateopan de Cuauhtémoc","Municipio","Municipality",NA,"Ixcateopan de Cuauhtemoc"
+387,145,"MEX","Mexico",12,"Guerrero",387,"José Azueta","Municipio","Municipality",NA,"Jose Azueta"
+388,145,"MEX","Mexico",12,"Guerrero",388,"Juan R. Escudero","Municipio","Municipality",NA,NA
+389,145,"MEX","Mexico",12,"Guerrero",389,"La Union","Municipio","Municipality",NA,NA
+390,145,"MEX","Mexico",12,"Guerrero",390,"Leonardo Bravo","Municipio","Municipality",NA,NA
+391,145,"MEX","Mexico",12,"Guerrero",391,"Mártir de Cuilapan","Municipio","Municipality",NA,"Martir de Cuilapan"
+392,145,"MEX","Mexico",12,"Guerrero",392,"Malinaltepec","Municipio","Municipality",NA,NA
+393,145,"MEX","Mexico",12,"Guerrero",393,"Metlatónoc","Municipio","Municipality",NA,"Metlatonoc"
+394,145,"MEX","Mexico",12,"Guerrero",394,"Mochitlán","Municipio","Municipality",NA,"Mochitlan"
+395,145,"MEX","Mexico",12,"Guerrero",395,"Olinalá","Municipio","Municipality",NA,"Olinala"
+396,145,"MEX","Mexico",12,"Guerrero",396,"Ometepec","Municipio","Municipality",NA,NA
+397,145,"MEX","Mexico",12,"Guerrero",397,"Pedro Ascencio Alquisiras","Municipio","Municipality",NA,NA
+398,145,"MEX","Mexico",12,"Guerrero",398,"Petatlán","Municipio","Municipality",NA,"Petatlan"
+399,145,"MEX","Mexico",12,"Guerrero",399,"Pilcaya","Municipio","Municipality",NA,NA
+400,145,"MEX","Mexico",12,"Guerrero",400,"Pungarabato","Municipio","Municipality",NA,NA
+401,145,"MEX","Mexico",12,"Guerrero",401,"Quechultenango","Municipio","Municipality",NA,NA
+402,145,"MEX","Mexico",12,"Guerrero",402,"San Luis Acatlán","Municipio","Municipality",NA,"San Luis Acatlan"
+403,145,"MEX","Mexico",12,"Guerrero",403,"San Marcos","Municipio","Municipality",NA,NA
+404,145,"MEX","Mexico",12,"Guerrero",404,"San Miguel Totolapan","Municipio","Municipality",NA,NA
+405,145,"MEX","Mexico",12,"Guerrero",405,"Técpan de Galeana","Municipio","Municipality",NA,NA
+406,145,"MEX","Mexico",12,"Guerrero",406,"Taxco de Alarcón","Municipio","Municipality",NA,NA
+407,145,"MEX","Mexico",12,"Guerrero",407,"Tecoanapa","Municipio","Municipality",NA,NA
+408,145,"MEX","Mexico",12,"Guerrero",408,"Teloloapan","Municipio","Municipality",NA,NA
+409,145,"MEX","Mexico",12,"Guerrero",409,"Tepecoacuilco de Trujano","Municipio","Municipality",NA,NA
+410,145,"MEX","Mexico",12,"Guerrero",410,"Tetipac","Municipio","Municipality",NA,NA
+411,145,"MEX","Mexico",12,"Guerrero",411,"Tixtla de Guerrero","Municipio","Municipality",NA,NA
+412,145,"MEX","Mexico",12,"Guerrero",412,"Tlacoachistlahuaca","Municipio","Municipality",NA,NA
+413,145,"MEX","Mexico",12,"Guerrero",413,"Tlacoapa","Municipio","Municipality",NA,NA
+414,145,"MEX","Mexico",12,"Guerrero",414,"Tlalchapa","Municipio","Municipality",NA,NA
+415,145,"MEX","Mexico",12,"Guerrero",415,"Tlalixtaquilla de Maldonado","Municipio","Municipality",NA,NA
+416,145,"MEX","Mexico",12,"Guerrero",416,"Tlapa de Comonfort","Municipio","Municipality",NA,NA
+417,145,"MEX","Mexico",12,"Guerrero",417,"Tlapehuala","Municipio","Municipality",NA,NA
+418,145,"MEX","Mexico",12,"Guerrero",418,"Xalpatláhuac","Municipio","Municipality",NA,"Xalpatlahuac"
+419,145,"MEX","Mexico",12,"Guerrero",419,"Xochihuehuetlán","Municipio","Municipality",NA,"Xochihuehuetlan"
+420,145,"MEX","Mexico",12,"Guerrero",420,"Xochistlahuaca","Municipio","Municipality",NA,NA
+421,145,"MEX","Mexico",12,"Guerrero",421,"Zapotitlán Tablas","Municipio","Municipality",NA,"Zapotitlan Tablas"
+422,145,"MEX","Mexico",12,"Guerrero",422,"Zirándaro","Municipio","Municipality",NA,"Zirandaro"
+423,145,"MEX","Mexico",12,"Guerrero",423,"Zitlala","Municipio","Municipality",NA,NA
+424,145,"MEX","Mexico",13,"Hidalgo",424,"Acatlán","Municipio","Municipality",NA,"Acatlan"
+425,145,"MEX","Mexico",13,"Hidalgo",425,"Acaxochitlán","Municipio","Municipality",NA,"Acaxochitlan"
+426,145,"MEX","Mexico",13,"Hidalgo",426,"Actopan","Municipio","Municipality",NA,NA
+427,145,"MEX","Mexico",13,"Hidalgo",427,"Agua Blanca de Iturbide","Municipio","Municipality",NA,NA
+428,145,"MEX","Mexico",13,"Hidalgo",428,"Ajacuba","Municipio","Municipality",NA,NA
+429,145,"MEX","Mexico",13,"Hidalgo",429,"Alfajayucan","Municipio","Municipality",NA,NA
+430,145,"MEX","Mexico",13,"Hidalgo",430,"Almoloya","Municipio","Municipality",NA,NA
+431,145,"MEX","Mexico",13,"Hidalgo",431,"Apan","Municipio","Municipality",NA,NA
+432,145,"MEX","Mexico",13,"Hidalgo",432,"Atitalaquia","Municipio","Municipality",NA,NA
+433,145,"MEX","Mexico",13,"Hidalgo",433,"Atlapexco","Municipio","Municipality",NA,NA
+434,145,"MEX","Mexico",13,"Hidalgo",434,"Atotonilco de Tula","Municipio","Municipality",NA,NA
+435,145,"MEX","Mexico",13,"Hidalgo",435,"Atotonilco el Grande","Municipio","Municipality",NA,NA
+436,145,"MEX","Mexico",13,"Hidalgo",436,"Calnali","Municipio","Municipality",NA,NA
+437,145,"MEX","Mexico",13,"Hidalgo",437,"Cardonal","Municipio","Municipality",NA,NA
+438,145,"MEX","Mexico",13,"Hidalgo",438,"Chapantongo","Municipio","Municipality",NA,NA
+439,145,"MEX","Mexico",13,"Hidalgo",439,"Chapulhuacán","Municipio","Municipality",NA,"Chapulhuacan"
+440,145,"MEX","Mexico",13,"Hidalgo",440,"Chilcuautla","Municipio","Municipality",NA,NA
+441,145,"MEX","Mexico",13,"Hidalgo",441,"Cuautepec de Hinojosa","Municipio","Municipality",NA,NA
+442,145,"MEX","Mexico",13,"Hidalgo",442,"El Arenal","Municipio","Municipality",NA,NA
+443,145,"MEX","Mexico",13,"Hidalgo",443,"Eloxochitlán","Municipio","Municipality",NA,"Eloxochitlan"
+444,145,"MEX","Mexico",13,"Hidalgo",444,"Emiliano Zapata","Municipio","Municipality",NA,NA
+445,145,"MEX","Mexico",13,"Hidalgo",445,"Epazoyucan","Municipio","Municipality",NA,NA
+446,145,"MEX","Mexico",13,"Hidalgo",446,"Francisco I. Madero","Municipio","Municipality",NA,NA
+447,145,"MEX","Mexico",13,"Hidalgo",447,"Huasca de Ocampo","Municipio","Municipality",NA,NA
+448,145,"MEX","Mexico",13,"Hidalgo",448,"Huautla","Municipio","Municipality",NA,NA
+449,145,"MEX","Mexico",13,"Hidalgo",449,"Huazalingo","Municipio","Municipality",NA,NA
+450,145,"MEX","Mexico",13,"Hidalgo",450,"Huehuetla","Municipio","Municipality",NA,NA
+451,145,"MEX","Mexico",13,"Hidalgo",451,"Huejutla de Reyes","Municipio","Municipality",NA,NA
+452,145,"MEX","Mexico",13,"Hidalgo",452,"Huichapan","Municipio","Municipality",NA,NA
+453,145,"MEX","Mexico",13,"Hidalgo",453,"Ixmiquilpan","Municipio","Municipality",NA,NA
+454,145,"MEX","Mexico",13,"Hidalgo",454,"Jacala de Ledezma","Municipio","Municipality",NA,NA
+455,145,"MEX","Mexico",13,"Hidalgo",455,"Jaltocán","Municipio","Municipality",NA,"Jaltocan"
+456,145,"MEX","Mexico",13,"Hidalgo",456,"Juárez Hidalgo","Municipio","Municipality",NA,"Juarez Hidalgo"
+457,145,"MEX","Mexico",13,"Hidalgo",457,"La Misión","Municipio","Municipality",NA,"La Mision"
+458,145,"MEX","Mexico",13,"Hidalgo",458,"Lolotla","Municipio","Municipality",NA,NA
+459,145,"MEX","Mexico",13,"Hidalgo",459,"Metepec","Municipio","Municipality",NA,NA
+460,145,"MEX","Mexico",13,"Hidalgo",460,"Metztitlán","Municipio","Municipality",NA,"Metztitlan"
+461,145,"MEX","Mexico",13,"Hidalgo",461,"Mineral de la Reforma","Municipio","Municipality",NA,NA
+462,145,"MEX","Mexico",13,"Hidalgo",462,"Mineral del Chico","Municipio","Municipality",NA,NA
+463,145,"MEX","Mexico",13,"Hidalgo",463,"Mineral del Monte","Municipio","Municipality",NA,NA
+464,145,"MEX","Mexico",13,"Hidalgo",464,"Mixquiahuala de Juárez","Municipio","Municipality",NA,"Mixquiahuala de Juarez"
+465,145,"MEX","Mexico",13,"Hidalgo",465,"Molango de Escamilla","Municipio","Municipality",NA,NA
+466,145,"MEX","Mexico",13,"Hidalgo",466,"Nicolás Flores","Municipio","Municipality",NA,"Nicolas Flores"
+467,145,"MEX","Mexico",13,"Hidalgo",467,"Nopala de Villagrán","Municipio","Municipality",NA,"Nopala de Villagran"
+468,145,"MEX","Mexico",13,"Hidalgo",468,"Omitlán de Juárez","Municipio","Municipality",NA,"Omitlan de Juarez"
+469,145,"MEX","Mexico",13,"Hidalgo",469,"Pachuca de Soto","Municipio","Municipality",NA,NA
+470,145,"MEX","Mexico",13,"Hidalgo",470,"Pacula","Municipio","Municipality",NA,NA
+471,145,"MEX","Mexico",13,"Hidalgo",471,"Pisaflores","Municipio","Municipality",NA,NA
+472,145,"MEX","Mexico",13,"Hidalgo",472,"Progreso de Obregón","Municipio","Municipality",NA,"Progreso de Obregon"
+473,145,"MEX","Mexico",13,"Hidalgo",473,"San Agustín Metzquititlán","Municipio","Municipality",NA,"San Agustin Metzquititlan"
+474,145,"MEX","Mexico",13,"Hidalgo",474,"San Agustín Tlaxiaca","Municipio","Municipality",NA,"San Agustin Tlaxiaca"
+475,145,"MEX","Mexico",13,"Hidalgo",475,"San Bartolo Tutotepec","Municipio","Municipality",NA,NA
+476,145,"MEX","Mexico",13,"Hidalgo",476,"San Felipe Orizatlán","Municipio","Municipality",NA,"San Felipe Orizatlan"
+477,145,"MEX","Mexico",13,"Hidalgo",477,"San Salvador","Municipio","Municipality",NA,NA
+478,145,"MEX","Mexico",13,"Hidalgo",478,"Santiago de Anaya","Municipio","Municipality",NA,NA
+479,145,"MEX","Mexico",13,"Hidalgo",479,"Santiago Tulantepec de Lugo Guerrero","Municipio","Municipality",NA,"Santiago Tulantepec de Lugo G."
+480,145,"MEX","Mexico",13,"Hidalgo",480,"Singuilucan","Municipio","Municipality",NA,NA
+481,145,"MEX","Mexico",13,"Hidalgo",481,"Tasquillo","Municipio","Municipality",NA,NA
+482,145,"MEX","Mexico",13,"Hidalgo",482,"Tecozautla","Municipio","Municipality",NA,NA
+483,145,"MEX","Mexico",13,"Hidalgo",483,"Tenango de Doria","Municipio","Municipality",NA,NA
+484,145,"MEX","Mexico",13,"Hidalgo",484,"Tepeapulco","Municipio","Municipality",NA,NA
+485,145,"MEX","Mexico",13,"Hidalgo",485,"Tepehuacán de Guerrero","Municipio","Municipality",NA,NA
+486,145,"MEX","Mexico",13,"Hidalgo",486,"Tepeji del Río de Ocampo","Municipio","Municipality",NA,NA
+487,145,"MEX","Mexico",13,"Hidalgo",487,"Tepetitlán","Municipio","Municipality",NA,NA
+488,145,"MEX","Mexico",13,"Hidalgo",488,"Tetepango","Municipio","Municipality",NA,NA
+489,145,"MEX","Mexico",13,"Hidalgo",489,"Tezontepec de Aldama","Municipio","Municipality",NA,NA
+490,145,"MEX","Mexico",13,"Hidalgo",490,"Tianguistengo","Municipio","Municipality",NA,NA
+491,145,"MEX","Mexico",13,"Hidalgo",491,"Tizayuca","Municipio","Municipality",NA,NA
+492,145,"MEX","Mexico",13,"Hidalgo",492,"Tlahuelilpan","Municipio","Municipality",NA,NA
+493,145,"MEX","Mexico",13,"Hidalgo",493,"Tlahuiltepa","Municipio","Municipality",NA,NA
+494,145,"MEX","Mexico",13,"Hidalgo",494,"Tlanalapa","Municipio","Municipality",NA,NA
+495,145,"MEX","Mexico",13,"Hidalgo",495,"Tlanchinol","Municipio","Municipality",NA,NA
+496,145,"MEX","Mexico",13,"Hidalgo",496,"Tlaxcoapan","Municipio","Municipality",NA,NA
+497,145,"MEX","Mexico",13,"Hidalgo",497,"Tolcayuca","Municipio","Municipality",NA,NA
+498,145,"MEX","Mexico",13,"Hidalgo",498,"Tula de Allende","Municipio","Municipality",NA,NA
+499,145,"MEX","Mexico",13,"Hidalgo",499,"Tulancingo de Bravo","Municipio","Municipality",NA,NA
+500,145,"MEX","Mexico",13,"Hidalgo",500,"Villa de Tezontepec","Municipio","Municipality",NA,NA
+501,145,"MEX","Mexico",13,"Hidalgo",501,"Xochiatipan","Municipio","Municipality",NA,NA
+502,145,"MEX","Mexico",13,"Hidalgo",502,"Xochicoatlán","Municipio","Municipality",NA,"Xochicoatlan"
+503,145,"MEX","Mexico",13,"Hidalgo",503,"Yahualica","Municipio","Municipality",NA,NA
+504,145,"MEX","Mexico",13,"Hidalgo",504,"Zacualtipán de Angeles","Municipio","Municipality",NA,"Zacualtipan de Angeles"
+505,145,"MEX","Mexico",13,"Hidalgo",505,"Zapotlán de Juárez","Municipio","Municipality",NA,"Zapotlan de Juarez"
+506,145,"MEX","Mexico",13,"Hidalgo",506,"Zempoala","Municipio","Municipality",NA,NA
+507,145,"MEX","Mexico",13,"Hidalgo",507,"Zimapán","Municipio","Municipality",NA,"Zimapan"
+508,145,"MEX","Mexico",14,"Jalisco",508,"Acatic","Municipio","Municipality",NA,NA
+509,145,"MEX","Mexico",14,"Jalisco",509,"Acatlán de Juárez","Municipio","Municipality",NA,"Acatlan de Juarez"
+510,145,"MEX","Mexico",14,"Jalisco",510,"Ahualulco de Mercado","Municipio","Municipality",NA,NA
+511,145,"MEX","Mexico",14,"Jalisco",511,"Amacueca","Municipio","Municipality",NA,NA
+512,145,"MEX","Mexico",14,"Jalisco",512,"Amatitán","Municipio","Municipality",NA,"Amatitan"
+513,145,"MEX","Mexico",14,"Jalisco",513,"Ameca","Municipio","Municipality",NA,NA
+514,145,"MEX","Mexico",14,"Jalisco",514,"Antonio Escobedo","Municipio","Municipality",NA,NA
+515,145,"MEX","Mexico",14,"Jalisco",515,"Arandas","Municipio","Municipality",NA,NA
+516,145,"MEX","Mexico",14,"Jalisco",516,"Atemajac de Brizuela","Municipio","Municipality",NA,NA
+517,145,"MEX","Mexico",14,"Jalisco",517,"Atengo","Municipio","Municipality",NA,NA
+518,145,"MEX","Mexico",14,"Jalisco",518,"Atenguillo","Municipio","Municipality",NA,NA
+519,145,"MEX","Mexico",14,"Jalisco",519,"Atotonilco El Alto","Municipio","Municipality",NA,NA
+520,145,"MEX","Mexico",14,"Jalisco",520,"Atoyac","Municipio","Municipality",NA,NA
+521,145,"MEX","Mexico",14,"Jalisco",521,"Autlán de Navarro","Municipio","Municipality",NA,"Autlan de Navarro"
+522,145,"MEX","Mexico",14,"Jalisco",522,"Ayotlán","Municipio","Municipality",NA,"Ayotlan"
+523,145,"MEX","Mexico",14,"Jalisco",523,"Ayutla","Municipio","Municipality",NA,NA
+524,145,"MEX","Mexico",14,"Jalisco",524,"Bolaños","Municipio","Municipality",NA,"Bolanos"
+525,145,"MEX","Mexico",14,"Jalisco",525,"Cañadas de Obregón","Municipio","Municipality",NA,NA
+526,145,"MEX","Mexico",14,"Jalisco",526,"Cabo Corrientes","Municipio","Municipality",NA,NA
+527,145,"MEX","Mexico",14,"Jalisco",527,"Casimiro Castillo","Municipio","Municipality",NA,NA
+528,145,"MEX","Mexico",14,"Jalisco",528,"Chapala","Municipio","Municipality",NA,NA
+529,145,"MEX","Mexico",14,"Jalisco",529,"Chimaltitán","Municipio","Municipality",NA,NA
+530,145,"MEX","Mexico",14,"Jalisco",530,"Chiquilistlán","Municipio","Municipality",NA,"Chiquilistlan"
+531,145,"MEX","Mexico",14,"Jalisco",531,"Cihuatlán","Municipio","Municipality",NA,NA
+532,145,"MEX","Mexico",14,"Jalisco",532,"Ciudad Guzman","Municipio","Municipality",NA,NA
+533,145,"MEX","Mexico",14,"Jalisco",533,"Ciudad Venustiano Carranza","Municipio","Municipality",NA,NA
+534,145,"MEX","Mexico",14,"Jalisco",534,"Cocula","Municipio","Municipality",NA,NA
+535,145,"MEX","Mexico",14,"Jalisco",535,"Colotlán","Municipio","Municipality",NA,"Colotlan"
+536,145,"MEX","Mexico",14,"Jalisco",536,"Concepción de Buenos Aires","Municipio","Municipality",NA,"Concepcion de Buenos Aires"
+537,145,"MEX","Mexico",14,"Jalisco",537,"Cuautitlán de García Barragán","Municipio","Municipality",NA,"Cuatitlan"
+538,145,"MEX","Mexico",14,"Jalisco",538,"Cuautla","Municipio","Municipality",NA,NA
+539,145,"MEX","Mexico",14,"Jalisco",539,"Cuquito","Municipio","Municipality",NA,NA
+540,145,"MEX","Mexico",14,"Jalisco",540,"Degollado","Municipio","Municipality",NA,NA
+541,145,"MEX","Mexico",14,"Jalisco",541,"Ejutla","Municipio","Municipality",NA,NA
+542,145,"MEX","Mexico",14,"Jalisco",542,"El Arenal","Municipio","Municipality",NA,"Arenal"
+543,145,"MEX","Mexico",14,"Jalisco",543,"El Grullo","Municipio","Municipality",NA,NA
+544,145,"MEX","Mexico",14,"Jalisco",544,"El Limón","Municipio","Municipality",NA,"El Limon"
+545,145,"MEX","Mexico",14,"Jalisco",545,"El Salto","Municipio","Municipality",NA,NA
+546,145,"MEX","Mexico",14,"Jalisco",546,"Encarnación de Díaz","Municipio","Municipality",NA,"Encarnacion de Diaz"
+547,145,"MEX","Mexico",14,"Jalisco",547,"Etzatlán","Municipio","Municipality",NA,"Etzatlan"
+548,145,"MEX","Mexico",14,"Jalisco",548,"Gómez Farías","Municipio","Municipality",NA,"Gomez Farias"
+549,145,"MEX","Mexico",14,"Jalisco",549,"Guachinango","Municipio","Municipality",NA,NA
+550,145,"MEX","Mexico",14,"Jalisco",550,"Guadalajara","Municipio","Municipality",NA,NA
+551,145,"MEX","Mexico",14,"Jalisco",551,"Hostotipaquillo","Municipio","Municipality",NA,NA
+552,145,"MEX","Mexico",14,"Jalisco",552,"Huejúcar","Municipio","Municipality",NA,"Huejucar"
+553,145,"MEX","Mexico",14,"Jalisco",553,"Huejuquilla el Alto","Municipio","Municipality",NA,NA
+554,145,"MEX","Mexico",14,"Jalisco",554,"Ixtlahuacán de los Membrillos","Municipio","Municipality",NA,"Ixtlahuacan de los Membrillos"
+555,145,"MEX","Mexico",14,"Jalisco",555,"Ixtlahuacán del Río","Municipio","Municipality",NA,"Ixtlahuacan del Rio"
+556,145,"MEX","Mexico",14,"Jalisco",556,"Jalostotitlán","Municipio","Municipality",NA,"Jalostotitlan"
+557,145,"MEX","Mexico",14,"Jalisco",557,"Jamay","Municipio","Municipality",NA,NA
+558,145,"MEX","Mexico",14,"Jalisco",558,"Jesús María","Municipio","Municipality",NA,"Jesus Maria"
+559,145,"MEX","Mexico",14,"Jalisco",559,"Jilotlán de los Dolores","Municipio","Municipality",NA,"Jilotlan de los Dolores"
+560,145,"MEX","Mexico",14,"Jalisco",560,"Jocotepec","Municipio","Municipality",NA,NA
+561,145,"MEX","Mexico",14,"Jalisco",561,"Juanacatlán","Municipio","Municipality",NA,"Juanacatlan"
+562,145,"MEX","Mexico",14,"Jalisco",562,"Juchitlán","Municipio","Municipality",NA,"Juchitlan"
+563,145,"MEX","Mexico",14,"Jalisco",563,"La Barca","Municipio","Municipality",NA,NA
+564,145,"MEX","Mexico",14,"Jalisco",564,"La Huerta","Municipio","Municipality",NA,NA
+565,145,"MEX","Mexico",14,"Jalisco",565,"La Manzanilla de la Paz","Municipio","Municipality",NA,NA
+566,145,"MEX","Mexico",14,"Jalisco",566,"Lago de Chapala","Municipio","Municipality",NA,"NA"
+567,145,"MEX","Mexico",14,"Jalisco",567,"Lagos de Moreno","Municipio","Municipality",NA,NA
+568,145,"MEX","Mexico",14,"Jalisco",568,"Magdalena","Municipio","Municipality",NA,NA
+569,145,"MEX","Mexico",14,"Jalisco",569,"Manuel M. Dieguez","Municipio","Municipality",NA,NA
+570,145,"MEX","Mexico",14,"Jalisco",570,"Mascota","Municipio","Municipality",NA,NA
+571,145,"MEX","Mexico",14,"Jalisco",571,"Mazamitla","Municipio","Municipality",NA,NA
+572,145,"MEX","Mexico",14,"Jalisco",572,"Mexticacán","Municipio","Municipality",NA,"Mexticacan"
+573,145,"MEX","Mexico",14,"Jalisco",573,"Mezquitic","Municipio","Municipality",NA,NA
+574,145,"MEX","Mexico",14,"Jalisco",574,"Mixtlán","Municipio","Municipality",NA,"Mixtlan"
+575,145,"MEX","Mexico",14,"Jalisco",575,"Ocotlán","Municipio","Municipality",NA,"Ocotlan"
+576,145,"MEX","Mexico",14,"Jalisco",576,"Ojuelos de Jalisco","Municipio","Municipality",NA,NA
+577,145,"MEX","Mexico",14,"Jalisco",577,"Pihuamo","Municipio","Municipality",NA,NA
+578,145,"MEX","Mexico",14,"Jalisco",578,"Poncitlán","Municipio","Municipality",NA,"Poncitlan"
+579,145,"MEX","Mexico",14,"Jalisco",579,"Puerto Vallarta","Municipio","Municipality",NA,NA
+580,145,"MEX","Mexico",14,"Jalisco",580,"Quitupan","Municipio","Municipality",NA,NA
+581,145,"MEX","Mexico",14,"Jalisco",581,"San Cristóbal de la Barranca","Municipio","Municipality",NA,"San Cristobal de la Barranca"
+582,145,"MEX","Mexico",14,"Jalisco",582,"San Diego de Alejandría","Municipio","Municipality",NA,"San Diego de Alejandria"
+583,145,"MEX","Mexico",14,"Jalisco",583,"San Juan de los Lagos","Municipio","Municipality",NA,NA
+584,145,"MEX","Mexico",14,"Jalisco",584,"San Julián","Municipio","Municipality",NA,"San Julian"
+585,145,"MEX","Mexico",14,"Jalisco",585,"San Marcos","Municipio","Municipality",NA,NA
+586,145,"MEX","Mexico",14,"Jalisco",586,"San Martín de Bolaños","Municipio","Municipality",NA,NA
+587,145,"MEX","Mexico",14,"Jalisco",587,"San Martín Hidalgo","Municipio","Municipality",NA,NA
+588,145,"MEX","Mexico",14,"Jalisco",588,"San Miguel el Alto","Municipio","Municipality",NA,NA
+589,145,"MEX","Mexico",14,"Jalisco",589,"San Sebastián del Oeste","Municipio","Municipality",NA,NA
+590,145,"MEX","Mexico",14,"Jalisco",590,"Santa María de los Angeles","Municipio","Municipality",NA,NA
+591,145,"MEX","Mexico",14,"Jalisco",591,"Sayula","Municipio","Municipality",NA,NA
+592,145,"MEX","Mexico",14,"Jalisco",592,"Tala","Municipio","Municipality",NA,NA
+593,145,"MEX","Mexico",14,"Jalisco",593,"Talpa de Allende","Municipio","Municipality",NA,NA
+594,145,"MEX","Mexico",14,"Jalisco",594,"Tamazula de Gordiano","Municipio","Municipality",NA,NA
+595,145,"MEX","Mexico",14,"Jalisco",595,"Tapalpa","Municipio","Municipality",NA,NA
+596,145,"MEX","Mexico",14,"Jalisco",596,"Tecalitlán","Municipio","Municipality",NA,"Tecalitlan"
+597,145,"MEX","Mexico",14,"Jalisco",597,"Techaluta de Montenegro","Municipio","Municipality",NA,NA
+598,145,"MEX","Mexico",14,"Jalisco",598,"Tecolotlán","Municipio","Municipality",NA,NA
+599,145,"MEX","Mexico",14,"Jalisco",599,"Tenamaxtlán","Municipio","Municipality",NA,"Tenamaxtlan"
+600,145,"MEX","Mexico",14,"Jalisco",600,"Teocaltiche","Municipio","Municipality",NA,NA
+601,145,"MEX","Mexico",14,"Jalisco",601,"Teocuitatlán de Corona","Municipio","Municipality",NA,"Teocuitatlan de Corona"
+602,145,"MEX","Mexico",14,"Jalisco",602,"Tepatitlán de Morelos","Municipio","Municipality",NA,NA
+603,145,"MEX","Mexico",14,"Jalisco",603,"Tequila","Municipio","Municipality",NA,NA
+604,145,"MEX","Mexico",14,"Jalisco",604,"Teuchitlán","Municipio","Municipality",NA,NA
+605,145,"MEX","Mexico",14,"Jalisco",605,"Tizapán el Alto","Municipio","Municipality",NA,NA
+606,145,"MEX","Mexico",14,"Jalisco",606,"Tlajomulco de Zúñiga","Municipio","Municipality",NA,NA
+607,145,"MEX","Mexico",14,"Jalisco",607,"Tlaquepaque","Municipio","Municipality",NA,NA
+608,145,"MEX","Mexico",14,"Jalisco",608,"Tolimán","Municipio","Municipality",NA,NA
+609,145,"MEX","Mexico",14,"Jalisco",609,"Tomatlán","Municipio","Municipality",NA,NA
+610,145,"MEX","Mexico",14,"Jalisco",610,"Tonalá","Municipio","Municipality",NA,NA
+611,145,"MEX","Mexico",14,"Jalisco",611,"Tonaya","Municipio","Municipality",NA,NA
+612,145,"MEX","Mexico",14,"Jalisco",612,"Tonila","Municipio","Municipality",NA,NA
+613,145,"MEX","Mexico",14,"Jalisco",613,"Totatiche","Municipio","Municipality",NA,NA
+614,145,"MEX","Mexico",14,"Jalisco",614,"Tototlán","Municipio","Municipality",NA,"Tototlan"
+615,145,"MEX","Mexico",14,"Jalisco",615,"Tuxcacuesco","Municipio","Municipality",NA,NA
+616,145,"MEX","Mexico",14,"Jalisco",616,"Tuxcueca","Municipio","Municipality",NA,NA
+617,145,"MEX","Mexico",14,"Jalisco",617,"Tuxpan","Municipio","Municipality",NA,NA
+618,145,"MEX","Mexico",14,"Jalisco",618,"Unión de San Antonio","Municipio","Municipality",NA,"Union de San Antonio"
+619,145,"MEX","Mexico",14,"Jalisco",619,"Unión de Tula","Municipio","Municipality",NA,"Union de Tula"
+620,145,"MEX","Mexico",14,"Jalisco",620,"Valle de Guadalupe","Municipio","Municipality",NA,NA
+621,145,"MEX","Mexico",14,"Jalisco",621,"Valle de Juárez","Municipio","Municipality",NA,NA
+622,145,"MEX","Mexico",14,"Jalisco",622,"Villa Corona","Municipio","Municipality",NA,NA
+623,145,"MEX","Mexico",14,"Jalisco",623,"Villa Guerrero","Municipio","Municipality",NA,NA
+624,145,"MEX","Mexico",14,"Jalisco",624,"Villa Hidalgo","Municipio","Municipality",NA,NA
+625,145,"MEX","Mexico",14,"Jalisco",625,"Villa Purificación","Municipio","Municipality",NA,"Villa Purificacion"
+626,145,"MEX","Mexico",14,"Jalisco",626,"Yahualica de González Gallo","Municipio","Municipality",NA,NA
+627,145,"MEX","Mexico",14,"Jalisco",627,"Zacoalco de Torres","Municipio","Municipality",NA,NA
+628,145,"MEX","Mexico",14,"Jalisco",628,"Zapopan","Municipio","Municipality",NA,NA
+629,145,"MEX","Mexico",14,"Jalisco",629,"Zapotiltic","Municipio","Municipality",NA,NA
+630,145,"MEX","Mexico",14,"Jalisco",630,"Zapotitlán de Vadillo","Municipio","Municipality",NA,"Zapotitlan de Vadillo"
+631,145,"MEX","Mexico",14,"Jalisco",631,"Zapotlán del Rey","Municipio","Municipality",NA,"Zapotlan del Rey"
+632,145,"MEX","Mexico",14,"Jalisco",632,"Zapotlanejo","Municipio","Municipality",NA,NA
+633,145,"MEX","Mexico",15,"México",633,"Acambay","Municipio","Municipality",NA,NA
+634,145,"MEX","Mexico",15,"México",634,"Acolman","Municipio","Municipality",NA,NA
+635,145,"MEX","Mexico",15,"México",635,"Aculco","Municipio","Municipality",NA,NA
+636,145,"MEX","Mexico",15,"México",636,"Almoloya de Alquisiras","Municipio","Municipality",NA,NA
+637,145,"MEX","Mexico",15,"México",637,"Almoloya de Juárez","Municipio","Municipality",NA,"Almoloya de Juarez"
+638,145,"MEX","Mexico",15,"México",638,"Almoloya del Río","Municipio","Municipality",NA,"Almoloya del Rio"
+639,145,"MEX","Mexico",15,"México",639,"Amanalco","Municipio","Municipality",NA,NA
+640,145,"MEX","Mexico",15,"México",640,"Amatepec","Municipio","Municipality",NA,NA
+641,145,"MEX","Mexico",15,"México",641,"Amecameca","Municipio","Municipality",NA,NA
+642,145,"MEX","Mexico",15,"México",642,"Apaxco","Municipio","Municipality",NA,NA
+643,145,"MEX","Mexico",15,"México",643,"Atenco","Municipio","Municipality",NA,NA
+644,145,"MEX","Mexico",15,"México",644,"Atizapán de Zaragoza","Municipio","Municipality",NA,"Atizapan de Zaragoza"
+645,145,"MEX","Mexico",15,"México",645,"Atizapán","Municipio","Municipality",NA,"Atizapan"
+646,145,"MEX","Mexico",15,"México",646,"Atlacomulco","Municipio","Municipality",NA,NA
+647,145,"MEX","Mexico",15,"México",647,"Atlautla","Municipio","Municipality",NA,NA
+648,145,"MEX","Mexico",15,"México",648,"Axapusco","Municipio","Municipality",NA,NA
+649,145,"MEX","Mexico",15,"México",649,"Ayapango","Municipio","Municipality",NA,NA
+650,145,"MEX","Mexico",15,"México",650,"Calimaya","Municipio","Municipality",NA,NA
+651,145,"MEX","Mexico",15,"México",651,"Capulhuac","Municipio","Municipality",NA,NA
+652,145,"MEX","Mexico",15,"México",652,"Chalco","Municipio","Municipality",NA,NA
+653,145,"MEX","Mexico",15,"México",653,"Chapa de Mota","Municipio","Municipality",NA,NA
+654,145,"MEX","Mexico",15,"México",654,"Chapultepec","Municipio","Municipality",NA,NA
+655,145,"MEX","Mexico",15,"México",655,"Chiautla","Municipio","Municipality",NA,NA
+656,145,"MEX","Mexico",15,"México",656,"Chicoloapan","Municipio","Municipality",NA,NA
+657,145,"MEX","Mexico",15,"México",657,"Chiconcuac","Municipio","Municipality",NA,NA
+658,145,"MEX","Mexico",15,"México",658,"Chimalhuacán","Municipio","Municipality",NA,NA
+659,145,"MEX","Mexico",15,"México",659,"Coacalco de Berriozábal","Municipio","Municipality",NA,"Coacalco"
+660,145,"MEX","Mexico",15,"México",660,"Coatepec Harinas","Municipio","Municipality",NA,NA
+661,145,"MEX","Mexico",15,"México",661,"Cocotitlán","Municipio","Municipality",NA,"Cocotitlan"
+662,145,"MEX","Mexico",15,"México",662,"Coyotepec","Municipio","Municipality",NA,NA
+663,145,"MEX","Mexico",15,"México",663,"Cuautitlán Izcalli","Municipio","Municipality",NA,"Cuautitlan Izcalli"
+664,145,"MEX","Mexico",15,"México",664,"Cuautitlán","Municipio","Municipality",NA,"Cuautitlan"
+665,145,"MEX","Mexico",15,"México",665,"Donato Guerra","Municipio","Municipality",NA,NA
+666,145,"MEX","Mexico",15,"México",666,"Ecatepec de Morelos","Municipio","Municipality",NA,"Ecatepec"
+667,145,"MEX","Mexico",15,"México",667,"Ecatzingo","Municipio","Municipality",NA,NA
+668,145,"MEX","Mexico",15,"México",668,"El Oro","Municipio","Municipality",NA,NA
+669,145,"MEX","Mexico",15,"México",669,"Huehuetoca","Municipio","Municipality",NA,NA
+670,145,"MEX","Mexico",15,"México",670,"Hueypoxtla","Municipio","Municipality",NA,NA
+671,145,"MEX","Mexico",15,"México",671,"Huixquilucan","Municipio","Municipality",NA,NA
+672,145,"MEX","Mexico",15,"México",672,"Isidro Fabela","Municipio","Municipality",NA,NA
+673,145,"MEX","Mexico",15,"México",673,"Ixtapaluca","Municipio","Municipality",NA,NA
+674,145,"MEX","Mexico",15,"México",674,"Ixtapan de la Sal","Municipio","Municipality",NA,NA
+675,145,"MEX","Mexico",15,"México",675,"Ixtapan del Oro","Municipio","Municipality",NA,NA
+676,145,"MEX","Mexico",15,"México",676,"Ixtlahuaca","Municipio","Municipality",NA,NA
+677,145,"MEX","Mexico",15,"México",677,"Jalatlaco","Municipio","Municipality",NA,NA
+678,145,"MEX","Mexico",15,"México",678,"Jaltenco","Municipio","Municipality",NA,NA
+679,145,"MEX","Mexico",15,"México",679,"Jilotepec","Municipio","Municipality",NA,NA
+680,145,"MEX","Mexico",15,"México",680,"Jilotzingo","Municipio","Municipality",NA,NA
+681,145,"MEX","Mexico",15,"México",681,"Jiquipilco","Municipio","Municipality",NA,NA
+682,145,"MEX","Mexico",15,"México",682,"Jocotitlán","Municipio","Municipality",NA,"Jocotitlan"
+683,145,"MEX","Mexico",15,"México",683,"Joquicingo","Municipio","Municipality",NA,NA
+684,145,"MEX","Mexico",15,"México",684,"Juchitepec","Municipio","Municipality",NA,NA
+685,145,"MEX","Mexico",15,"México",685,"La Paz","Municipio","Municipality",NA,NA
+686,145,"MEX","Mexico",15,"México",686,"Lerma","Municipio","Municipality",NA,NA
+687,145,"MEX","Mexico",15,"México",687,"Malinalco","Municipio","Municipality",NA,NA
+688,145,"MEX","Mexico",15,"México",688,"Melchor Ocampo","Municipio","Municipality",NA,NA
+689,145,"MEX","Mexico",15,"México",689,"Metepec","Municipio","Municipality",NA,NA
+690,145,"MEX","Mexico",15,"México",690,"Mexicaltzingo","Municipio","Municipality",NA,"Mexicalcingo"
+691,145,"MEX","Mexico",15,"México",691,"Morelos","Municipio","Municipality",NA,NA
+692,145,"MEX","Mexico",15,"México",692,"Naucalpan de Juárez","Municipio","Municipality",NA,"Naucalpan"
+693,145,"MEX","Mexico",15,"México",693,"Nextlalpan","Municipio","Municipality",NA,NA
+694,145,"MEX","Mexico",15,"México",694,"Nezahualcóyotl","Municipio","Municipality",NA,"Nezahualcoyotl"
+695,145,"MEX","Mexico",15,"México",695,"Nicolás Romero","Municipio","Municipality",NA,"Nicolas Romero"
+696,145,"MEX","Mexico",15,"México",696,"Nopaltepec","Municipio","Municipality",NA,NA
+697,145,"MEX","Mexico",15,"México",697,"Ocoyoacac","Municipio","Municipality",NA,NA
+698,145,"MEX","Mexico",15,"México",698,"Ocuilan","Municipio","Municipality",NA,NA
+699,145,"MEX","Mexico",15,"México",699,"Otumba","Municipio","Municipality",NA,NA
+700,145,"MEX","Mexico",15,"México",700,"Otzoloapan","Municipio","Municipality",NA,NA
+701,145,"MEX","Mexico",15,"México",701,"Otzolotepec","Municipio","Municipality",NA,NA
+702,145,"MEX","Mexico",15,"México",702,"Ozumba","Municipio","Municipality",NA,NA
+703,145,"MEX","Mexico",15,"México",703,"Papalotla","Municipio","Municipality",NA,NA
+704,145,"MEX","Mexico",15,"México",704,"Polotitlán","Municipio","Municipality",NA,"Polotitlan"
+705,145,"MEX","Mexico",15,"México",705,"Rayón","Municipio","Municipality",NA,"Rayon"
+706,145,"MEX","Mexico",15,"México",706,"San Antonio La Isla","Municipio","Municipality",NA,NA
+707,145,"MEX","Mexico",15,"México",707,"San Felipe del Progreso","Municipio","Municipality",NA,NA
+708,145,"MEX","Mexico",15,"México",708,"San Martín de las Piráámides","Municipio","Municipality",NA,NA
+709,145,"MEX","Mexico",15,"México",709,"San Mateo Atenco","Municipio","Municipality",NA,NA
+710,145,"MEX","Mexico",15,"México",710,"San Simón de Guerrero","Municipio","Municipality",NA,NA
+711,145,"MEX","Mexico",15,"México",711,"Santo Tomás","Municipio","Municipality",NA,NA
+712,145,"MEX","Mexico",15,"México",712,"Soyaniquilpan de Juárez","Municipio","Municipality",NA,"Soyaniquilpan de Juarez"
+713,145,"MEX","Mexico",15,"México",713,"Sultepec","Municipio","Municipality",NA,NA
+714,145,"MEX","Mexico",15,"México",714,"Tecámac","Municipio","Municipality",NA,"Tecamac"
+715,145,"MEX","Mexico",15,"México",715,"Tejupilco","Municipio","Municipality",NA,NA
+716,145,"MEX","Mexico",15,"México",716,"Temamatla","Municipio","Municipality",NA,NA
+717,145,"MEX","Mexico",15,"México",717,"Temascalapa","Municipio","Municipality",NA,NA
+718,145,"MEX","Mexico",15,"México",718,"Temascalcingo","Municipio","Municipality",NA,NA
+719,145,"MEX","Mexico",15,"México",719,"Temascaltepec","Municipio","Municipality",NA,NA
+720,145,"MEX","Mexico",15,"México",720,"Temoaya","Municipio","Municipality",NA,NA
+721,145,"MEX","Mexico",15,"México",721,"Tenancingo","Municipio","Municipality",NA,NA
+722,145,"MEX","Mexico",15,"México",722,"Tenango del Aire","Municipio","Municipality",NA,NA
+723,145,"MEX","Mexico",15,"México",723,"Tenango del Valle","Municipio","Municipality",NA,NA
+724,145,"MEX","Mexico",15,"México",724,"Teoloyucán","Municipio","Municipality",NA,NA
+725,145,"MEX","Mexico",15,"México",725,"Teotihuacán","Municipio","Municipality",NA,NA
+726,145,"MEX","Mexico",15,"México",726,"Tepetlaoxtoc","Municipio","Municipality",NA,NA
+727,145,"MEX","Mexico",15,"México",727,"Tepetlixpa","Municipio","Municipality",NA,"Tepetlixpan"
+728,145,"MEX","Mexico",15,"México",728,"Tepotzotlán","Municipio","Municipality",NA,"Tepotzotlan"
+729,145,"MEX","Mexico",15,"México",729,"Tequixquiac","Municipio","Municipality",NA,NA
+730,145,"MEX","Mexico",15,"México",730,"Texcaltitlán","Municipio","Municipality",NA,"Texcaltitlan"
+731,145,"MEX","Mexico",15,"México",731,"Texcalyacac","Municipio","Municipality",NA,"Tlexcalyacac"
+732,145,"MEX","Mexico",15,"México",732,"Texcoco","Municipio","Municipality",NA,NA
+733,145,"MEX","Mexico",15,"México",733,"Tezoyuca","Municipio","Municipality",NA,NA
+734,145,"MEX","Mexico",15,"México",734,"Tianguistenco","Municipio","Municipality",NA,NA
+735,145,"MEX","Mexico",15,"México",735,"Timilpan","Municipio","Municipality",NA,NA
+736,145,"MEX","Mexico",15,"México",736,"Tlalmanalco","Municipio","Municipality",NA,NA
+737,145,"MEX","Mexico",15,"México",737,"Tlalnepantla","Municipio","Municipality",NA,NA
+738,145,"MEX","Mexico",15,"México",738,"Tlatlaya","Municipio","Municipality",NA,NA
+739,145,"MEX","Mexico",15,"México",739,"Toluca","Municipio","Municipality",NA,NA
+740,145,"MEX","Mexico",15,"México",740,"Tonatico","Municipio","Municipality",NA,NA
+741,145,"MEX","Mexico",15,"México",741,"Tultepec","Municipio","Municipality",NA,NA
+742,145,"MEX","Mexico",15,"México",742,"Tultitlán","Municipio","Municipality",NA,"Tultitlan"
+743,145,"MEX","Mexico",15,"México",743,"Valle de Bravo","Municipio","Municipality",NA,NA
+744,145,"MEX","Mexico",15,"México",744,"Villa de Allende","Municipio","Municipality",NA,NA
+745,145,"MEX","Mexico",15,"México",745,"Villa del Carbón","Municipio","Municipality",NA,"Villa del Carbon"
+746,145,"MEX","Mexico",15,"México",746,"Villa Guerrero","Municipio","Municipality",NA,NA
+747,145,"MEX","Mexico",15,"México",747,"Villa Victoria","Municipio","Municipality",NA,NA
+748,145,"MEX","Mexico",15,"México",748,"Xonacatlán","Municipio","Municipality",NA,"Xonacatlan"
+749,145,"MEX","Mexico",15,"México",749,"Zacazonapan","Municipio","Municipality",NA,NA
+750,145,"MEX","Mexico",15,"México",750,"Zacualpan","Municipio","Municipality",NA,NA
+751,145,"MEX","Mexico",15,"México",751,"Zinacatepec","Municipio","Municipality",NA,NA
+752,145,"MEX","Mexico",15,"México",752,"Zumpahuacan","Municipio","Municipality",NA,NA
+753,145,"MEX","Mexico",15,"México",753,"Zumpango","Municipio","Municipality",NA,NA
+754,145,"MEX","Mexico",16,"Michoacán",754,"Álvaro Obregón","Municipio","Municipality",NA,"Alvaro Obregon"
+755,145,"MEX","Mexico",16,"Michoacán",755,"Acuitzio","Municipio","Municipality",NA,NA
+756,145,"MEX","Mexico",16,"Michoacán",756,"Aguililla","Municipio","Municipality",NA,NA
+757,145,"MEX","Mexico",16,"Michoacán",757,"Angamacutiro","Municipio","Municipality",NA,NA
+758,145,"MEX","Mexico",16,"Michoacán",758,"Angangueo","Municipio","Municipality",NA,NA
+759,145,"MEX","Mexico",16,"Michoacán",759,"Apatzingán","Municipio","Municipality",NA,"Apatzingan"
+760,145,"MEX","Mexico",16,"Michoacán",760,"Aporo","Municipio","Municipality",NA,NA
+761,145,"MEX","Mexico",16,"Michoacán",761,"Aquila","Municipio","Municipality",NA,NA
+762,145,"MEX","Mexico",16,"Michoacán",762,"Ario","Municipio","Municipality",NA,NA
+763,145,"MEX","Mexico",16,"Michoacán",763,"Arteaga","Municipio","Municipality",NA,NA
+764,145,"MEX","Mexico",16,"Michoacán",764,"Briseñas","Municipio","Municipality",NA,"Brisenas"
+765,145,"MEX","Mexico",16,"Michoacán",765,"Buenavista","Municipio","Municipality",NA,NA
+766,145,"MEX","Mexico",16,"Michoacán",766,"Carácuaro","Municipio","Municipality",NA,"Caracuaro"
+767,145,"MEX","Mexico",16,"Michoacán",767,"Charapan","Municipio","Municipality",NA,NA
+768,145,"MEX","Mexico",16,"Michoacán",768,"Charo","Municipio","Municipality",NA,NA
+769,145,"MEX","Mexico",16,"Michoacán",769,"Chavinda","Municipio","Municipality",NA,NA
+770,145,"MEX","Mexico",16,"Michoacán",770,"Cherán","Municipio","Municipality",NA,"Cheran"
+771,145,"MEX","Mexico",16,"Michoacán",771,"Chilchota","Municipio","Municipality",NA,NA
+772,145,"MEX","Mexico",16,"Michoacán",772,"Chinicuila","Municipio","Municipality",NA,NA
+773,145,"MEX","Mexico",16,"Michoacán",773,"Chucándiro","Municipio","Municipality",NA,"Chucandiro"
+774,145,"MEX","Mexico",16,"Michoacán",774,"Churintzio","Municipio","Municipality",NA,NA
+775,145,"MEX","Mexico",16,"Michoacán",775,"Churumuco","Municipio","Municipality",NA,NA
+776,145,"MEX","Mexico",16,"Michoacán",776,"Coahuayana","Municipio","Municipality",NA,NA
+777,145,"MEX","Mexico",16,"Michoacán",777,"Coalcomán de Vázquez Pallares","Municipio","Municipality",NA,"Coalcoman de Vasquez Pallres"
+778,145,"MEX","Mexico",16,"Michoacán",778,"Coeneo","Municipio","Municipality",NA,NA
+779,145,"MEX","Mexico",16,"Michoacán",779,"Cojumatlán de Régules","Municipio","Municipality",NA,"Cojumatlan de Regules"
+780,145,"MEX","Mexico",16,"Michoacán",780,"Contepec","Municipio","Municipality",NA,NA
+781,145,"MEX","Mexico",16,"Michoacán",781,"Copándaro","Municipio","Municipality",NA,"Copandaro"
+782,145,"MEX","Mexico",16,"Michoacán",782,"Cotija","Municipio","Municipality",NA,NA
+783,145,"MEX","Mexico",16,"Michoacán",783,"Cuitzeo","Municipio","Municipality",NA,NA
+784,145,"MEX","Mexico",16,"Michoacán",784,"Ecuandureo","Municipio","Municipality",NA,NA
+785,145,"MEX","Mexico",16,"Michoacán",785,"Epitacio Huerta","Municipio","Municipality",NA,NA
+786,145,"MEX","Mexico",16,"Michoacán",786,"Erongarícuaro","Municipio","Municipality",NA,"Erongaricuaro"
+787,145,"MEX","Mexico",16,"Michoacán",787,"Gabriel Zamora","Municipio","Municipality",NA,NA
+788,145,"MEX","Mexico",16,"Michoacán",788,"Hidalgo","Municipio","Municipality",NA,NA
+789,145,"MEX","Mexico",16,"Michoacán",789,"Huandacareo","Municipio","Municipality",NA,NA
+790,145,"MEX","Mexico",16,"Michoacán",790,"Huaniqueo","Municipio","Municipality",NA,NA
+791,145,"MEX","Mexico",16,"Michoacán",791,"Huetamo","Municipio","Municipality",NA,NA
+792,145,"MEX","Mexico",16,"Michoacán",792,"Huiramba","Municipio","Municipality",NA,NA
+793,145,"MEX","Mexico",16,"Michoacán",793,"Indoparapeo","Municipio","Municipality",NA,"Indaparapeo"
+794,145,"MEX","Mexico",16,"Michoacán",794,"Irimbo","Municipio","Municipality",NA,NA
+795,145,"MEX","Mexico",16,"Michoacán",795,"Ixtlán","Municipio","Municipality",NA,"Ixtlan"
+796,145,"MEX","Mexico",16,"Michoacán",796,"Jacona","Municipio","Municipality",NA,NA
+797,145,"MEX","Mexico",16,"Michoacán",797,"Jiménez","Municipio","Municipality",NA,"Jimenez"
+798,145,"MEX","Mexico",16,"Michoacán",798,"Jiquilpan","Municipio","Municipality",NA,NA
+799,145,"MEX","Mexico",16,"Michoacán",799,"José Sixto Verduzco","Municipio","Municipality",NA,"Jose Sixto Verduzco"
+800,145,"MEX","Mexico",16,"Michoacán",800,"Juárez","Municipio","Municipality",NA,"Juarez"
+801,145,"MEX","Mexico",16,"Michoacán",801,"Jungapeo","Municipio","Municipality",NA,NA
+802,145,"MEX","Mexico",16,"Michoacán",802,"La Huacana","Municipio","Municipality",NA,NA
+803,145,"MEX","Mexico",16,"Michoacán",803,"La Piedad","Municipio","Municipality",NA,NA
+804,145,"MEX","Mexico",16,"Michoacán",804,"Lázaro Cárdenas","Municipio","Municipality",NA,"Lazaro Cardenas"
+805,145,"MEX","Mexico",16,"Michoacán",805,"Lagunillas","Municipio","Municipality",NA,NA
+806,145,"MEX","Mexico",16,"Michoacán",806,"Los Reyes","Municipio","Municipality",NA,NA
+807,145,"MEX","Mexico",16,"Michoacán",807,"Madero","Municipio","Municipality",NA,NA
+808,145,"MEX","Mexico",16,"Michoacán",808,"Múgica","Municipio","Municipality",NA,"Mugica"
+809,145,"MEX","Mexico",16,"Michoacán",809,"Maravatío","Municipio","Municipality",NA,"Maravatio"
+810,145,"MEX","Mexico",16,"Michoacán",810,"Marcos Castellanos","Municipio","Municipality",NA,NA
+811,145,"MEX","Mexico",16,"Michoacán",811,"Morelia","Municipio","Municipality",NA,NA
+812,145,"MEX","Mexico",16,"Michoacán",812,"Morelos","Municipio","Municipality",NA,NA
+813,145,"MEX","Mexico",16,"Michoacán",813,"Nahuatzen","Municipio","Municipality",NA,NA
+814,145,"MEX","Mexico",16,"Michoacán",814,"Nocupétaro","Municipio","Municipality",NA,"Nocupetaro"
+815,145,"MEX","Mexico",16,"Michoacán",815,"Nuevo Paranguricutiro","Municipio","Municipality",NA,"Nuevo Parangaricutiro"
+816,145,"MEX","Mexico",16,"Michoacán",816,"Nuevo Urecho","Municipio","Municipality",NA,NA
+817,145,"MEX","Mexico",16,"Michoacán",817,"Numarán","Municipio","Municipality",NA,"Numaran"
+818,145,"MEX","Mexico",16,"Michoacán",818,"Ocampo","Municipio","Municipality",NA,NA
+819,145,"MEX","Mexico",16,"Michoacán",819,"Pátzcuaro","Municipio","Municipality",NA,"Patzcuaro"
+820,145,"MEX","Mexico",16,"Michoacán",820,"Pajacuarán","Municipio","Municipality",NA,"Pajacuaran"
+821,145,"MEX","Mexico",16,"Michoacán",821,"Panindícuaro","Municipio","Municipality",NA,"Panindicuaro"
+822,145,"MEX","Mexico",16,"Michoacán",822,"Parácuaro","Municipio","Municipality",NA,"Paracuaro"
+823,145,"MEX","Mexico",16,"Michoacán",823,"Paracho","Municipio","Municipality",NA,NA
+824,145,"MEX","Mexico",16,"Michoacán",824,"Penjamillo","Municipio","Municipality",NA,NA
+825,145,"MEX","Mexico",16,"Michoacán",825,"Peribán","Municipio","Municipality",NA,"Periban"
+826,145,"MEX","Mexico",16,"Michoacán",826,"Purépero","Municipio","Municipality",NA,"Purepero"
+827,145,"MEX","Mexico",16,"Michoacán",827,"Puruándiro","Municipio","Municipality",NA,"Puruandiro"
+828,145,"MEX","Mexico",16,"Michoacán",828,"Queréndaro","Municipio","Municipality",NA,"Querendaro"
+829,145,"MEX","Mexico",16,"Michoacán",829,"Quiroga","Municipio","Municipality",NA,NA
+830,145,"MEX","Mexico",16,"Michoacán",830,"Sahuayo","Municipio","Municipality",NA,NA
+831,145,"MEX","Mexico",16,"Michoacán",831,"Salvador Escalante","Municipio","Municipality",NA,NA
+832,145,"MEX","Mexico",16,"Michoacán",832,"San Lucas","Municipio","Municipality",NA,NA
+833,145,"MEX","Mexico",16,"Michoacán",833,"Santa Ana Maya","Municipio","Municipality",NA,NA
+834,145,"MEX","Mexico",16,"Michoacán",834,"Senguio","Municipio","Municipality",NA,NA
+835,145,"MEX","Mexico",16,"Michoacán",835,"Susupuato","Municipio","Municipality",NA,NA
+836,145,"MEX","Mexico",16,"Michoacán",836,"Tacámbaro","Municipio","Municipality",NA,"Tancitaro"
+837,145,"MEX","Mexico",16,"Michoacán",837,"Tangamandapio","Municipio","Municipality",NA,NA
+838,145,"MEX","Mexico",16,"Michoacán",838,"Tangancícuaro","Municipio","Municipality",NA,"Tangancicuaro"
+839,145,"MEX","Mexico",16,"Michoacán",839,"Tanhuato","Municipio","Municipality",NA,NA
+840,145,"MEX","Mexico",16,"Michoacán",840,"Tarímbaro","Municipio","Municipality",NA,"Tarimbaro"
+841,145,"MEX","Mexico",16,"Michoacán",841,"Taretan","Municipio","Municipality",NA,NA
+842,145,"MEX","Mexico",16,"Michoacán",842,"Tepalcatepec","Municipio","Municipality",NA,NA
+843,145,"MEX","Mexico",16,"Michoacán",843,"Tingambato","Municipio","Municipality",NA,NA
+844,145,"MEX","Mexico",16,"Michoacán",844,"Tinguindín","Municipio","Municipality",NA,NA
+845,145,"MEX","Mexico",16,"Michoacán",845,"Tiquicheo de Nicolás Romero","Municipio","Municipality",NA,NA
+846,145,"MEX","Mexico",16,"Michoacán",846,"Tlalpujahua","Municipio","Municipality",NA,NA
+847,145,"MEX","Mexico",16,"Michoacán",847,"Tlazazalca","Municipio","Municipality",NA,NA
+848,145,"MEX","Mexico",16,"Michoacán",848,"Tocumbo","Municipio","Municipality",NA,NA
+849,145,"MEX","Mexico",16,"Michoacán",849,"Tumbiscatío","Municipio","Municipality",NA,"Tumbiscatio"
+850,145,"MEX","Mexico",16,"Michoacán",850,"Turicato","Municipio","Municipality",NA,NA
+851,145,"MEX","Mexico",16,"Michoacán",851,"Tuxpan","Municipio","Municipality",NA,NA
+852,145,"MEX","Mexico",16,"Michoacán",852,"Tuzantla","Municipio","Municipality",NA,NA
+853,145,"MEX","Mexico",16,"Michoacán",853,"Tzintzuntzan","Municipio","Municipality",NA,NA
+854,145,"MEX","Mexico",16,"Michoacán",854,"Tzitzio","Municipio","Municipality",NA,NA
+855,145,"MEX","Mexico",16,"Michoacán",855,"Uruapan","Municipio","Municipality",NA,NA
+856,145,"MEX","Mexico",16,"Michoacán",856,"Venustiano Carranza","Municipio","Municipality",NA,NA
+857,145,"MEX","Mexico",16,"Michoacán",857,"Villamar","Municipio","Municipality",NA,NA
+858,145,"MEX","Mexico",16,"Michoacán",858,"Vista Hermosa","Municipio","Municipality",NA,NA
+859,145,"MEX","Mexico",16,"Michoacán",859,"Yurécuaro","Municipio","Municipality",NA,"Yurecuaro"
+860,145,"MEX","Mexico",16,"Michoacán",860,"Zacapu","Municipio","Municipality",NA,NA
+861,145,"MEX","Mexico",16,"Michoacán",861,"Zamora","Municipio","Municipality",NA,NA
+862,145,"MEX","Mexico",16,"Michoacán",862,"Zináparo","Municipio","Municipality",NA,"Zinaparo"
+863,145,"MEX","Mexico",16,"Michoacán",863,"Zinapécuaro","Municipio","Municipality",NA,"Zinapecuaro"
+864,145,"MEX","Mexico",16,"Michoacán",864,"Zirándaro","Municipio","Municipality",NA,"Zirandaro"
+865,145,"MEX","Mexico",16,"Michoacán",865,"Ziracuaretiro","Municipio","Municipality",NA,NA
+866,145,"MEX","Mexico",16,"Michoacán",866,"Zitácuaro","Municipio","Municipality",NA,"Zitacuaro"
+867,145,"MEX","Mexico",17,"Morelos",867,"Amacuzac","Municipio","Municipality",NA,NA
+868,145,"MEX","Mexico",17,"Morelos",868,"Atlatlahucan","Municipio","Municipality",NA,NA
+869,145,"MEX","Mexico",17,"Morelos",869,"Axochiapan","Municipio","Municipality",NA,NA
+870,145,"MEX","Mexico",17,"Morelos",870,"Ayala","Municipio","Municipality",NA,NA
+871,145,"MEX","Mexico",17,"Morelos",871,"Coatlán del Río","Municipio","Municipality",NA,"Coatlan del Rio"
+872,145,"MEX","Mexico",17,"Morelos",872,"Cuautla","Municipio","Municipality",NA,NA
+873,145,"MEX","Mexico",17,"Morelos",873,"Cuernavaca","Municipio","Municipality",NA,NA
+874,145,"MEX","Mexico",17,"Morelos",874,"Emiliano Zapata","Municipio","Municipality",NA,NA
+875,145,"MEX","Mexico",17,"Morelos",875,"Huitzilac","Municipio","Municipality",NA,NA
+876,145,"MEX","Mexico",17,"Morelos",876,"Jantetelco","Municipio","Municipality",NA,NA
+877,145,"MEX","Mexico",17,"Morelos",877,"Jiutepec","Municipio","Municipality",NA,NA
+878,145,"MEX","Mexico",17,"Morelos",878,"Jojutla","Municipio","Municipality",NA,NA
+879,145,"MEX","Mexico",17,"Morelos",879,"Jonacatepec","Municipio","Municipality",NA,NA
+880,145,"MEX","Mexico",17,"Morelos",880,"Mazatepec","Municipio","Municipality",NA,NA
+881,145,"MEX","Mexico",17,"Morelos",881,"Miacatlán","Municipio","Municipality",NA,"Miacatlan"
+882,145,"MEX","Mexico",17,"Morelos",882,"Ocuituco","Municipio","Municipality",NA,NA
+883,145,"MEX","Mexico",17,"Morelos",883,"Puente de Ixtla","Municipio","Municipality",NA,NA
+884,145,"MEX","Mexico",17,"Morelos",884,"Temixco","Municipio","Municipality",NA,NA
+885,145,"MEX","Mexico",17,"Morelos",885,"Temoac","Municipio","Municipality",NA,NA
+886,145,"MEX","Mexico",17,"Morelos",886,"Tepalcingo","Municipio","Municipality",NA,NA
+887,145,"MEX","Mexico",17,"Morelos",887,"Tepoztlán","Municipio","Municipality",NA,"Tepoztlan"
+888,145,"MEX","Mexico",17,"Morelos",888,"Tetecala","Municipio","Municipality",NA,NA
+889,145,"MEX","Mexico",17,"Morelos",889,"Tetela del Volcán","Municipio","Municipality",NA,NA
+890,145,"MEX","Mexico",17,"Morelos",890,"Tlalnepantla","Municipio","Municipality",NA,NA
+891,145,"MEX","Mexico",17,"Morelos",891,"Tlaltizapán","Municipio","Municipality",NA,NA
+892,145,"MEX","Mexico",17,"Morelos",892,"Tlaquiltenango","Municipio","Municipality",NA,NA
+893,145,"MEX","Mexico",17,"Morelos",893,"Tlayacapan","Municipio","Municipality",NA,NA
+894,145,"MEX","Mexico",17,"Morelos",894,"Totolapan","Municipio","Municipality",NA,NA
+895,145,"MEX","Mexico",17,"Morelos",895,"Xochitepec","Municipio","Municipality",NA,NA
+896,145,"MEX","Mexico",17,"Morelos",896,"Yautepec","Municipio","Municipality",NA,NA
+897,145,"MEX","Mexico",17,"Morelos",897,"Yecapixtla","Municipio","Municipality",NA,NA
+898,145,"MEX","Mexico",17,"Morelos",898,"Zacatepec de Hidalgo","Municipio","Municipality",NA,"Zacatepec"
+899,145,"MEX","Mexico",17,"Morelos",899,"Zacualpan","Municipio","Municipality",NA,NA
+900,145,"MEX","Mexico",18,"Nayarit",900,"Acaponeta","Municipio","Municipality",NA,NA
+901,145,"MEX","Mexico",18,"Nayarit",901,"Ahuacatlán","Municipio","Municipality",NA,"Ahuacatlan"
+902,145,"MEX","Mexico",18,"Nayarit",902,"Amatlán de Cañas","Municipio","Municipality",NA,"Amatlan de Canas"
+903,145,"MEX","Mexico",18,"Nayarit",903,"Compostela","Municipio","Municipality",NA,NA
+904,145,"MEX","Mexico",18,"Nayarit",904,"El Nayar","Municipio","Municipality",NA,NA
+905,145,"MEX","Mexico",18,"Nayarit",905,"Huajicori","Municipio","Municipality",NA,NA
+906,145,"MEX","Mexico",18,"Nayarit",906,"Ixtlán del Río","Municipio","Municipality",NA,"Ixtlan del Rio"
+907,145,"MEX","Mexico",18,"Nayarit",907,"Jala","Municipio","Municipality",NA,NA
+908,145,"MEX","Mexico",18,"Nayarit",908,"La Yesca","Municipio","Municipality",NA,NA
+909,145,"MEX","Mexico",18,"Nayarit",909,"NA","Municipio","Municipality",NA,NA
+910,145,"MEX","Mexico",18,"Nayarit",910,"Rosamorada","Municipio","Municipality",NA,NA
+911,145,"MEX","Mexico",18,"Nayarit",911,"Ruíz","Municipio","Municipality",NA,"Ruiz"
+912,145,"MEX","Mexico",18,"Nayarit",912,"San Blas","Municipio","Municipality",NA,NA
+913,145,"MEX","Mexico",18,"Nayarit",913,"San Pedro Lagunillas","Municipio","Municipality",NA,NA
+914,145,"MEX","Mexico",18,"Nayarit",914,"Santa María del Oro","Municipio","Municipality",NA,NA
+915,145,"MEX","Mexico",18,"Nayarit",915,"Santiago Ixcuintla","Municipio","Municipality",NA,NA
+916,145,"MEX","Mexico",18,"Nayarit",916,"Tecuala","Municipio","Municipality",NA,NA
+917,145,"MEX","Mexico",18,"Nayarit",917,"Tepic","Municipio","Municipality",NA,NA
+918,145,"MEX","Mexico",18,"Nayarit",918,"Tuxpan","Municipio","Municipality",NA,NA
+919,145,"MEX","Mexico",18,"Nayarit",919,"Xalisco","Municipio","Municipality",NA,NA
+920,145,"MEX","Mexico",19,"Nuevo León",920,"Abasolo","Municipio","Municipality",NA,NA
+921,145,"MEX","Mexico",19,"Nuevo León",921,"Agualeguas","Municipio","Municipality",NA,NA
+922,145,"MEX","Mexico",19,"Nuevo León",922,"Allende","Municipio","Municipality",NA,NA
+923,145,"MEX","Mexico",19,"Nuevo León",923,"Anáhuac","Municipio","Municipality",NA,"Anahuac"
+924,145,"MEX","Mexico",19,"Nuevo León",924,"Apodaca","Municipio","Municipality",NA,NA
+925,145,"MEX","Mexico",19,"Nuevo León",925,"Aramberri","Municipio","Municipality",NA,NA
+926,145,"MEX","Mexico",19,"Nuevo León",926,"Bustamante","Municipio","Municipality",NA,NA
+927,145,"MEX","Mexico",19,"Nuevo León",927,"Cadereyta Jiménez","Municipio","Municipality",NA,NA
+928,145,"MEX","Mexico",19,"Nuevo León",928,"Carmen","Municipio","Municipality",NA,NA
+929,145,"MEX","Mexico",19,"Nuevo León",929,"Cerralvo","Municipio","Municipality",NA,NA
+930,145,"MEX","Mexico",19,"Nuevo León",930,"China","Municipio","Municipality",NA,NA
+931,145,"MEX","Mexico",19,"Nuevo León",931,"Ciénega de Flores","Municipio","Municipality",NA,NA
+932,145,"MEX","Mexico",19,"Nuevo León",932,"Doctor Arroyo","Municipio","Municipality",NA,NA
+933,145,"MEX","Mexico",19,"Nuevo León",933,"Doctor Coss","Municipio","Municipality",NA,"Doctor Cross"
+934,145,"MEX","Mexico",19,"Nuevo León",934,"Doctor González","Municipio","Municipality",NA,"Doctor Gonzalez"
+935,145,"MEX","Mexico",19,"Nuevo León",935,"Galeana","Municipio","Municipality",NA,NA
+936,145,"MEX","Mexico",19,"Nuevo León",936,"García","Municipio","Municipality",NA,"Garcia"
+937,145,"MEX","Mexico",19,"Nuevo León",937,"General Bravo","Municipio","Municipality",NA,NA
+938,145,"MEX","Mexico",19,"Nuevo León",938,"General Escobedo","Municipio","Municipality",NA,NA
+939,145,"MEX","Mexico",19,"Nuevo León",939,"General Terán","Municipio","Municipality",NA,"General Teran"
+940,145,"MEX","Mexico",19,"Nuevo León",940,"General Treviño","Municipio","Municipality",NA,"General Trevino"
+941,145,"MEX","Mexico",19,"Nuevo León",941,"General Zaragoza","Municipio","Municipality",NA,NA
+942,145,"MEX","Mexico",19,"Nuevo León",942,"General Zuazua","Municipio","Municipality",NA,NA
+943,145,"MEX","Mexico",19,"Nuevo León",943,"Guadalupe","Municipio","Municipality",NA,NA
+944,145,"MEX","Mexico",19,"Nuevo León",944,"Hidalgo","Municipio","Municipality",NA,NA
+945,145,"MEX","Mexico",19,"Nuevo León",945,"Higueras","Municipio","Municipality",NA,NA
+946,145,"MEX","Mexico",19,"Nuevo León",946,"Iturbide","Municipio","Municipality",NA,NA
+947,145,"MEX","Mexico",19,"Nuevo León",947,"Juárez","Municipio","Municipality",NA,"Juarez"
+948,145,"MEX","Mexico",19,"Nuevo León",948,"Lampazos de Naranjo","Municipio","Municipality",NA,NA
+949,145,"MEX","Mexico",19,"Nuevo León",949,"Linares","Municipio","Municipality",NA,NA
+950,145,"MEX","Mexico",19,"Nuevo León",950,"Los Aldamas","Municipio","Municipality",NA,NA
+951,145,"MEX","Mexico",19,"Nuevo León",951,"Los Herreras","Municipio","Municipality",NA,NA
+952,145,"MEX","Mexico",19,"Nuevo León",952,"Los Ramones","Municipio","Municipality",NA,NA
+953,145,"MEX","Mexico",19,"Nuevo León",953,"Marín","Municipio","Municipality",NA,"Marin"
+954,145,"MEX","Mexico",19,"Nuevo León",954,"Melchor Ocampo","Municipio","Municipality",NA,NA
+955,145,"MEX","Mexico",19,"Nuevo León",955,"Mier y Noriega","Municipio","Municipality",NA,NA
+956,145,"MEX","Mexico",19,"Nuevo León",956,"Mina","Municipio","Municipality",NA,NA
+957,145,"MEX","Mexico",19,"Nuevo León",957,"Montemorelos","Municipio","Municipality",NA,NA
+958,145,"MEX","Mexico",19,"Nuevo León",958,"Monterrey","Municipio","Municipality",NA,NA
+959,145,"MEX","Mexico",19,"Nuevo León",959,"Parás","Municipio","Municipality",NA,"Paras"
+960,145,"MEX","Mexico",19,"Nuevo León",960,"Pesquería","Municipio","Municipality",NA,"Pesqueria"
+961,145,"MEX","Mexico",19,"Nuevo León",961,"Rayones","Municipio","Municipality",NA,NA
+962,145,"MEX","Mexico",19,"Nuevo León",962,"Sabinas Hidalgo","Municipio","Municipality",NA,NA
+963,145,"MEX","Mexico",19,"Nuevo León",963,"Salinas Victoria","Municipio","Municipality",NA,NA
+964,145,"MEX","Mexico",19,"Nuevo León",964,"San Nicolás de los Garza","Municipio","Municipality",NA,NA
+965,145,"MEX","Mexico",19,"Nuevo León",965,"San Pedro Garza García","Municipio","Municipality",NA,NA
+966,145,"MEX","Mexico",19,"Nuevo León",966,"Santa Catarina","Municipio","Municipality",NA,NA
+967,145,"MEX","Mexico",19,"Nuevo León",967,"Santiago","Municipio","Municipality",NA,NA
+968,145,"MEX","Mexico",19,"Nuevo León",968,"Vallecillo","Municipio","Municipality",NA,NA
+969,145,"MEX","Mexico",19,"Nuevo León",969,"Villaldama","Municipio","Municipality",NA,NA
+970,145,"MEX","Mexico",20,"Oaxaca",970,"Choapam","Municipio","Municipality",NA,"Dist. Choapam"
+971,145,"MEX","Mexico",20,"Oaxaca",971,"Coixtlahuaca","Municipio","Municipality",NA,"Dist. Coixtlahuaca"
+972,145,"MEX","Mexico",20,"Oaxaca",972,"Cuicatlan","Municipio","Municipality",NA,"Dist. Cuicatlan"
+973,145,"MEX","Mexico",20,"Oaxaca",973,"Del Centro","Municipio","Municipality",NA,"Dist. Del Centro"
+974,145,"MEX","Mexico",20,"Oaxaca",974,"Dist. Ejutla","Municipio","Municipality",NA,NA
+975,145,"MEX","Mexico",20,"Oaxaca",975,"Dist. Etla","Municipio","Municipality",NA,NA
+976,145,"MEX","Mexico",20,"Oaxaca",976,"Dist. Huajuapam","Municipio","Municipality",NA,NA
+977,145,"MEX","Mexico",20,"Oaxaca",977,"Dist. Ixtlan","Municipio","Municipality",NA,NA
+978,145,"MEX","Mexico",20,"Oaxaca",978,"Dist. Jamiltepec","Municipio","Municipality",NA,NA
+979,145,"MEX","Mexico",20,"Oaxaca",979,"Dist. Juchitan","Municipio","Municipality",NA,NA
+980,145,"MEX","Mexico",20,"Oaxaca",980,"Dist. Juquila","Municipio","Municipality",NA,NA
+981,145,"MEX","Mexico",20,"Oaxaca",981,"Dist. Juxtlahuaca","Municipio","Municipality",NA,NA
+982,145,"MEX","Mexico",20,"Oaxaca",982,"Dist. Miahuatlan","Municipio","Municipality",NA,NA
+983,145,"MEX","Mexico",20,"Oaxaca",983,"Dist. Mixe","Municipio","Municipality",NA,NA
+984,145,"MEX","Mexico",20,"Oaxaca",984,"Dist. Nochixtlan","Municipio","Municipality",NA,NA
+985,145,"MEX","Mexico",20,"Oaxaca",985,"Dist. Ocotlan","Municipio","Municipality",NA,NA
+986,145,"MEX","Mexico",20,"Oaxaca",986,"Dist. Pochutla","Municipio","Municipality",NA,NA
+987,145,"MEX","Mexico",20,"Oaxaca",987,"Dist. Putla","Municipio","Municipality",NA,NA
+988,145,"MEX","Mexico",20,"Oaxaca",988,"Dist. Silacayoapam","Municipio","Municipality",NA,NA
+989,145,"MEX","Mexico",20,"Oaxaca",989,"Dist. Sola de Vega","Municipio","Municipality",NA,NA
+990,145,"MEX","Mexico",20,"Oaxaca",990,"Dist. Tehuantepec","Municipio","Municipality",NA,NA
+991,145,"MEX","Mexico",20,"Oaxaca",991,"Dist. Teotitlan","Municipio","Municipality",NA,NA
+992,145,"MEX","Mexico",20,"Oaxaca",992,"Dist. Teposcolula","Municipio","Municipality",NA,NA
+993,145,"MEX","Mexico",20,"Oaxaca",993,"Dist. Tlacolula","Municipio","Municipality",NA,NA
+994,145,"MEX","Mexico",20,"Oaxaca",994,"Dist. Tlaxiaco","Municipio","Municipality",NA,NA
+995,145,"MEX","Mexico",20,"Oaxaca",995,"Dist. Tuxtepec","Municipio","Municipality",NA,NA
+996,145,"MEX","Mexico",20,"Oaxaca",996,"Dist. Villa Alta","Municipio","Municipality",NA,NA
+997,145,"MEX","Mexico",20,"Oaxaca",997,"Dist. Yautepec","Municipio","Municipality",NA,NA
+998,145,"MEX","Mexico",20,"Oaxaca",998,"Dist. Zaachila","Municipio","Municipality",NA,NA
+999,145,"MEX","Mexico",20,"Oaxaca",999,"Dist. Zimatlan","Municipio","Municipality",NA,NA
+1000,145,"MEX","Mexico",21,"Puebla",1000,"Acajete","Municipio","Municipality",NA,NA
+1001,145,"MEX","Mexico",21,"Puebla",1001,"Acateno","Municipio","Municipality",NA,NA
+1002,145,"MEX","Mexico",21,"Puebla",1002,"Acatlán","Municipio","Municipality",NA,"Acatlan"
+1003,145,"MEX","Mexico",21,"Puebla",1003,"Acatzingo","Municipio","Municipality",NA,NA
+1004,145,"MEX","Mexico",21,"Puebla",1004,"Acteopan","Municipio","Municipality",NA,NA
+1005,145,"MEX","Mexico",21,"Puebla",1005,"Ahuacatlán","Municipio","Municipality",NA,"Ahuacatlan"
+1006,145,"MEX","Mexico",21,"Puebla",1006,"Ahuatlán","Municipio","Municipality",NA,"Ahuatlan"
+1007,145,"MEX","Mexico",21,"Puebla",1007,"Ahuazotepec","Municipio","Municipality",NA,NA
+1008,145,"MEX","Mexico",21,"Puebla",1008,"Ahuehuetitla","Municipio","Municipality",NA,NA
+1009,145,"MEX","Mexico",21,"Puebla",1009,"Ajalpan","Municipio","Municipality",NA,NA
+1010,145,"MEX","Mexico",21,"Puebla",1010,"Albino Zertuche","Municipio","Municipality",NA,NA
+1011,145,"MEX","Mexico",21,"Puebla",1011,"Aljojuca","Municipio","Municipality",NA,NA
+1012,145,"MEX","Mexico",21,"Puebla",1012,"Altepexi","Municipio","Municipality",NA,NA
+1013,145,"MEX","Mexico",21,"Puebla",1013,"Amixtlán","Municipio","Municipality",NA,"Amixtlan"
+1014,145,"MEX","Mexico",21,"Puebla",1014,"Amozoc","Municipio","Municipality",NA,NA
+1015,145,"MEX","Mexico",21,"Puebla",1015,"Aquixtla","Municipio","Municipality",NA,NA
+1016,145,"MEX","Mexico",21,"Puebla",1016,"Atempan","Municipio","Municipality",NA,"Atempam"
+1017,145,"MEX","Mexico",21,"Puebla",1017,"Atexcal","Municipio","Municipality",NA,NA
+1018,145,"MEX","Mexico",21,"Puebla",1018,"Atlixco","Municipio","Municipality",NA,NA
+1019,145,"MEX","Mexico",21,"Puebla",1019,"Atoyatempan","Municipio","Municipality",NA,"Atoyatempa"
+1020,145,"MEX","Mexico",21,"Puebla",1020,"Atzala","Municipio","Municipality",NA,NA
+1021,145,"MEX","Mexico",21,"Puebla",1021,"Atzitzihuacán","Municipio","Municipality",NA,"Atzitzihuacan"
+1022,145,"MEX","Mexico",21,"Puebla",1022,"Axutla","Municipio","Municipality",NA,NA
+1023,145,"MEX","Mexico",21,"Puebla",1023,"Ayotoxco de Guerrero","Municipio","Municipality",NA,NA
+1024,145,"MEX","Mexico",21,"Puebla",1024,"Cañada Morelos","Municipio","Municipality",NA,NA
+1025,145,"MEX","Mexico",21,"Puebla",1025,"Calpan","Municipio","Municipality",NA,NA
+1026,145,"MEX","Mexico",21,"Puebla",1026,"Caltepec","Municipio","Municipality",NA,NA
+1027,145,"MEX","Mexico",21,"Puebla",1027,"Camocuautla","Municipio","Municipality",NA,NA
+1028,145,"MEX","Mexico",21,"Puebla",1028,"Caxhuacan","Municipio","Municipality",NA,NA
+1029,145,"MEX","Mexico",21,"Puebla",1029,"Chalchicomula de Sesma","Municipio","Municipality",NA,NA
+1030,145,"MEX","Mexico",21,"Puebla",1030,"Chapulco","Municipio","Municipality",NA,NA
+1031,145,"MEX","Mexico",21,"Puebla",1031,"Chiautla","Municipio","Municipality",NA,NA
+1032,145,"MEX","Mexico",21,"Puebla",1032,"Chiautzingo","Municipio","Municipality",NA,NA
+1033,145,"MEX","Mexico",21,"Puebla",1033,"Chichiquila","Municipio","Municipality",NA,NA
+1034,145,"MEX","Mexico",21,"Puebla",1034,"Chiconcuautla","Municipio","Municipality",NA,NA
+1035,145,"MEX","Mexico",21,"Puebla",1035,"Chietla","Municipio","Municipality",NA,NA
+1036,145,"MEX","Mexico",21,"Puebla",1036,"Chigmecatitlán","Municipio","Municipality",NA,"Chigmecatitlan"
+1037,145,"MEX","Mexico",21,"Puebla",1037,"Chignahuapan","Municipio","Municipality",NA,NA
+1038,145,"MEX","Mexico",21,"Puebla",1038,"Chignautla","Municipio","Municipality",NA,NA
+1039,145,"MEX","Mexico",21,"Puebla",1039,"Chila de la Sal","Municipio","Municipality",NA,NA
+1040,145,"MEX","Mexico",21,"Puebla",1040,"Chila","Municipio","Municipality",NA,NA
+1041,145,"MEX","Mexico",21,"Puebla",1041,"Chilchotla","Municipio","Municipality",NA,NA
+1042,145,"MEX","Mexico",21,"Puebla",1042,"Chinantla","Municipio","Municipality",NA,NA
+1043,145,"MEX","Mexico",21,"Puebla",1043,"Coatepec","Municipio","Municipality",NA,NA
+1044,145,"MEX","Mexico",21,"Puebla",1044,"Coatzingo","Municipio","Municipality",NA,NA
+1045,145,"MEX","Mexico",21,"Puebla",1045,"Cohetzala","Municipio","Municipality",NA,NA
+1046,145,"MEX","Mexico",21,"Puebla",1046,"Cohuecán","Municipio","Municipality",NA,"Cohuecan"
+1047,145,"MEX","Mexico",21,"Puebla",1047,"Coronango","Municipio","Municipality",NA,NA
+1048,145,"MEX","Mexico",21,"Puebla",1048,"Coxcatlán","Municipio","Municipality",NA,"Coxcatlan"
+1049,145,"MEX","Mexico",21,"Puebla",1049,"Coyomeapan","Municipio","Municipality",NA,NA
+1050,145,"MEX","Mexico",21,"Puebla",1050,"Coyotepec","Municipio","Municipality",NA,NA
+1051,145,"MEX","Mexico",21,"Puebla",1051,"Cuapiaxtla de Madero","Municipio","Municipality",NA,NA
+1052,145,"MEX","Mexico",21,"Puebla",1052,"Cuautempan","Municipio","Municipality",NA,NA
+1053,145,"MEX","Mexico",21,"Puebla",1053,"Cuautinchán","Municipio","Municipality",NA,"Cuautinchan"
+1054,145,"MEX","Mexico",21,"Puebla",1054,"Cuautlancingo","Municipio","Municipality",NA,NA
+1055,145,"MEX","Mexico",21,"Puebla",1055,"Cuayuca de Andrade","Municipio","Municipality",NA,NA
+1056,145,"MEX","Mexico",21,"Puebla",1056,"Cuetzalan del Progreso","Municipio","Municipality",NA,NA
+1057,145,"MEX","Mexico",21,"Puebla",1057,"Cuyoaco","Municipio","Municipality",NA,NA
+1058,145,"MEX","Mexico",21,"Puebla",1058,"Domingo Arenas","Municipio","Municipality",NA,NA
+1059,145,"MEX","Mexico",21,"Puebla",1059,"Eloxochitlán","Municipio","Municipality",NA,"Eloxochitlan"
+1060,145,"MEX","Mexico",21,"Puebla",1060,"Epatlán","Municipio","Municipality",NA,"Epatlan"
+1061,145,"MEX","Mexico",21,"Puebla",1061,"Esperanza","Municipio","Municipality",NA,NA
+1062,145,"MEX","Mexico",21,"Puebla",1062,"Francisco Z. Mena","Municipio","Municipality",NA,NA
+1063,145,"MEX","Mexico",21,"Puebla",1063,"General Felipe Angeles","Municipio","Municipality",NA,NA
+1064,145,"MEX","Mexico",21,"Puebla",1064,"Guadalupe Victoria","Municipio","Municipality",NA,NA
+1065,145,"MEX","Mexico",21,"Puebla",1065,"Guadalupe","Municipio","Municipality",NA,NA
+1066,145,"MEX","Mexico",21,"Puebla",1066,"Hermenegildo Galeana","Municipio","Municipality",NA,NA
+1067,145,"MEX","Mexico",21,"Puebla",1067,"Honey","Municipio","Municipality",NA,"Chila Honey"
+1068,145,"MEX","Mexico",21,"Puebla",1068,"Huaquechula","Municipio","Municipality",NA,NA
+1069,145,"MEX","Mexico",21,"Puebla",1069,"Huatlatlauca","Municipio","Municipality",NA,NA
+1070,145,"MEX","Mexico",21,"Puebla",1070,"Huauchinango","Municipio","Municipality",NA,NA
+1071,145,"MEX","Mexico",21,"Puebla",1071,"Huehuetlán el Chico","Municipio","Municipality",NA,"Huehuetlan el Chico"
+1072,145,"MEX","Mexico",21,"Puebla",1072,"Huehuetlán el Grande","Municipio","Municipality",NA,"Huehuetlan el Grande"
+1073,145,"MEX","Mexico",21,"Puebla",1073,"Huehuetla","Municipio","Municipality",NA,NA
+1074,145,"MEX","Mexico",21,"Puebla",1074,"Huejotzingo","Municipio","Municipality",NA,NA
+1075,145,"MEX","Mexico",21,"Puebla",1075,"Hueyapan","Municipio","Municipality",NA,NA
+1076,145,"MEX","Mexico",21,"Puebla",1076,"Hueytamalco","Municipio","Municipality",NA,NA
+1077,145,"MEX","Mexico",21,"Puebla",1077,"Hueytlalpan","Municipio","Municipality",NA,NA
+1078,145,"MEX","Mexico",21,"Puebla",1078,"Huitzilan de Serdán","Municipio","Municipality",NA,"Huitzilan de Serdan"
+1079,145,"MEX","Mexico",21,"Puebla",1079,"Huitziltepec","Municipio","Municipality",NA,NA
+1080,145,"MEX","Mexico",21,"Puebla",1080,"Ignacio Allende","Municipio","Municipality",NA,NA
+1081,145,"MEX","Mexico",21,"Puebla",1081,"Ixcamilpa de Guerrero","Municipio","Municipality",NA,NA
+1082,145,"MEX","Mexico",21,"Puebla",1082,"Ixcaquixtla","Municipio","Municipality",NA,NA
+1083,145,"MEX","Mexico",21,"Puebla",1083,"Ixtacamaxtitlán","Municipio","Municipality",NA,"Ixtacamaxtitlan"
+1084,145,"MEX","Mexico",21,"Puebla",1084,"Ixtepec","Municipio","Municipality",NA,NA
+1085,145,"MEX","Mexico",21,"Puebla",1085,"Izúcar de Matamoros","Municipio","Municipality",NA,"Izucar de Matamoros"
+1086,145,"MEX","Mexico",21,"Puebla",1086,"Jolalpan","Municipio","Municipality",NA,NA
+1087,145,"MEX","Mexico",21,"Puebla",1087,"Jonotla","Municipio","Municipality",NA,NA
+1088,145,"MEX","Mexico",21,"Puebla",1088,"Jopala","Municipio","Municipality",NA,NA
+1089,145,"MEX","Mexico",21,"Puebla",1089,"Juan C. Bonilla","Municipio","Municipality",NA,NA
+1090,145,"MEX","Mexico",21,"Puebla",1090,"Juan Galindo","Municipio","Municipality",NA,NA
+1091,145,"MEX","Mexico",21,"Puebla",1091,"Juan N. Méndez","Municipio","Municipality",NA,"Juan N. Mendez"
+1092,145,"MEX","Mexico",21,"Puebla",1092,"La Magdalena Tlatlauquitepec","Municipio","Municipality",NA,NA
+1093,145,"MEX","Mexico",21,"Puebla",1093,"Lafragua","Municipio","Municipality",NA,NA
+1094,145,"MEX","Mexico",21,"Puebla",1094,"Los Reyes de Juárez","Municipio","Municipality",NA,"Los Reyes de Juarez"
+1095,145,"MEX","Mexico",21,"Puebla",1095,"Mazapiltepec de Juárez","Municipio","Municipality",NA,"Mazapiltepec de Juarez"
+1096,145,"MEX","Mexico",21,"Puebla",1096,"Mixtla","Municipio","Municipality",NA,NA
+1097,145,"MEX","Mexico",21,"Puebla",1097,"Molcaxac","Municipio","Municipality",NA,NA
+1098,145,"MEX","Mexico",21,"Puebla",1098,"Naupan","Municipio","Municipality",NA,NA
+1099,145,"MEX","Mexico",21,"Puebla",1099,"Nauzontla","Municipio","Municipality",NA,NA
+1100,145,"MEX","Mexico",21,"Puebla",1100,"Nealtican","Municipio","Municipality",NA,NA
+1101,145,"MEX","Mexico",21,"Puebla",1101,"Nicolás Bravo","Municipio","Municipality",NA,"Nicolas Bravo"
+1102,145,"MEX","Mexico",21,"Puebla",1102,"Nopalucan","Municipio","Municipality",NA,NA
+1103,145,"MEX","Mexico",21,"Puebla",1103,"Ocotepec","Municipio","Municipality",NA,NA
+1104,145,"MEX","Mexico",21,"Puebla",1104,"Ocoyucan","Municipio","Municipality",NA,NA
+1105,145,"MEX","Mexico",21,"Puebla",1105,"Olintla","Municipio","Municipality",NA,NA
+1106,145,"MEX","Mexico",21,"Puebla",1106,"Oriental","Municipio","Municipality",NA,NA
+1107,145,"MEX","Mexico",21,"Puebla",1107,"Pahuatlán","Municipio","Municipality",NA,"Pahuatlan"
+1108,145,"MEX","Mexico",21,"Puebla",1108,"Palmar de Bravo","Municipio","Municipality",NA,NA
+1109,145,"MEX","Mexico",21,"Puebla",1109,"Pantepec","Municipio","Municipality",NA,NA
+1110,145,"MEX","Mexico",21,"Puebla",1110,"Petlalcingo","Municipio","Municipality",NA,NA
+1111,145,"MEX","Mexico",21,"Puebla",1111,"Piaxtla","Municipio","Municipality",NA,NA
+1112,145,"MEX","Mexico",21,"Puebla",1112,"Puebla","Municipio","Municipality",NA,NA
+1113,145,"MEX","Mexico",21,"Puebla",1113,"Quecholac","Municipio","Municipality",NA,NA
+1114,145,"MEX","Mexico",21,"Puebla",1114,"Quimixtlán","Municipio","Municipality",NA,"Quimixtlan"
+1115,145,"MEX","Mexico",21,"Puebla",1115,"Rafael Lara Grajales","Municipio","Municipality",NA,NA
+1116,145,"MEX","Mexico",21,"Puebla",1116,"San Andrés Cholula","Municipio","Municipality",NA,"San Andres Cholula"
+1117,145,"MEX","Mexico",21,"Puebla",1117,"San Antonio Cañada","Municipio","Municipality",NA,"San Antonio Canada"
+1118,145,"MEX","Mexico",21,"Puebla",1118,"San Diego la Mesa Tochimiltzingo","Municipio","Municipality",NA,"San Diego la Mesa Tochimiltzi"
+1119,145,"MEX","Mexico",21,"Puebla",1119,"San Felipe Teotlalcingo","Municipio","Municipality",NA,NA
+1120,145,"MEX","Mexico",21,"Puebla",1120,"San Felipe Tepatlán","Municipio","Municipality",NA,"San Felipe Tepatlan"
+1121,145,"MEX","Mexico",21,"Puebla",1121,"San Gabriel Chilac","Municipio","Municipality",NA,NA
+1122,145,"MEX","Mexico",21,"Puebla",1122,"San Gregorio Atzompa","Municipio","Municipality",NA,NA
+1123,145,"MEX","Mexico",21,"Puebla",1123,"San Jerónimo Tecuanipan","Municipio","Municipality",NA,"San Jeronimo Tecuanipan"
+1124,145,"MEX","Mexico",21,"Puebla",1124,"San Jerónimo Xayacatlán","Municipio","Municipality",NA,"San Jeronimo Xayacatlan"
+1125,145,"MEX","Mexico",21,"Puebla",1125,"San José Chiapa","Municipio","Municipality",NA,"San Jose Chiapa"
+1126,145,"MEX","Mexico",21,"Puebla",1126,"San José Miahuatlán","Municipio","Municipality",NA,"San Jose Miahuatlan"
+1127,145,"MEX","Mexico",21,"Puebla",1127,"San Juan Atenco","Municipio","Municipality",NA,NA
+1128,145,"MEX","Mexico",21,"Puebla",1128,"San Juan Atzompa","Municipio","Municipality",NA,NA
+1129,145,"MEX","Mexico",21,"Puebla",1129,"San Martín Texmelucan","Municipio","Municipality",NA,NA
+1130,145,"MEX","Mexico",21,"Puebla",1130,"San Martín Totoltepec","Municipio","Municipality",NA,NA
+1131,145,"MEX","Mexico",21,"Puebla",1131,"San Matías Tlalancaleca","Municipio","Municipality",NA,NA
+1132,145,"MEX","Mexico",21,"Puebla",1132,"San Miguel Ixitlán","Municipio","Municipality",NA,NA
+1133,145,"MEX","Mexico",21,"Puebla",1133,"San Miguel Xoxtla","Municipio","Municipality",NA,NA
+1134,145,"MEX","Mexico",21,"Puebla",1134,"San Nicolás Buenos Aires","Municipio","Municipality",NA,NA
+1135,145,"MEX","Mexico",21,"Puebla",1135,"San Nicolás de los Ranchos","Municipio","Municipality",NA,NA
+1136,145,"MEX","Mexico",21,"Puebla",1136,"San Pablo Anicano","Municipio","Municipality",NA,NA
+1137,145,"MEX","Mexico",21,"Puebla",1137,"San Pedro Cholula","Municipio","Municipality",NA,NA
+1138,145,"MEX","Mexico",21,"Puebla",1138,"San Pedro Yeloixtlahuaca","Municipio","Municipality",NA,NA
+1139,145,"MEX","Mexico",21,"Puebla",1139,"San Salvador el Seco","Municipio","Municipality",NA,NA
+1140,145,"MEX","Mexico",21,"Puebla",1140,"San Salvador el Verde","Municipio","Municipality",NA,NA
+1141,145,"MEX","Mexico",21,"Puebla",1141,"San Salvador Huixcolotla","Municipio","Municipality",NA,NA
+1142,145,"MEX","Mexico",21,"Puebla",1142,"San Sebastián Tlacotepec","Municipio","Municipality",NA,NA
+1143,145,"MEX","Mexico",21,"Puebla",1143,"Santa Catarina Tlaltempan","Municipio","Municipality",NA,NA
+1144,145,"MEX","Mexico",21,"Puebla",1144,"Santa Inés Ahuatempan","Municipio","Municipality",NA,"Santa Ines Ahuatempan"
+1145,145,"MEX","Mexico",21,"Puebla",1145,"Santa Isabel Cholula","Municipio","Municipality",NA,NA
+1146,145,"MEX","Mexico",21,"Puebla",1146,"Santiago Miahuatlán","Municipio","Municipality",NA,NA
+1147,145,"MEX","Mexico",21,"Puebla",1147,"Santo Tomás Hueyotlipan","Municipio","Municipality",NA,NA
+1148,145,"MEX","Mexico",21,"Puebla",1148,"Soltepec","Municipio","Municipality",NA,NA
+1149,145,"MEX","Mexico",21,"Puebla",1149,"Tecali de Herrera","Municipio","Municipality",NA,NA
+1150,145,"MEX","Mexico",21,"Puebla",1150,"Tecamachalco","Municipio","Municipality",NA,NA
+1151,145,"MEX","Mexico",21,"Puebla",1151,"Tecomatlán","Municipio","Municipality",NA,NA
+1152,145,"MEX","Mexico",21,"Puebla",1152,"Tehuacán","Municipio","Municipality",NA,NA
+1153,145,"MEX","Mexico",21,"Puebla",1153,"Tehuitzingo","Municipio","Municipality",NA,NA
+1154,145,"MEX","Mexico",21,"Puebla",1154,"Tenampulco","Municipio","Municipality",NA,NA
+1155,145,"MEX","Mexico",21,"Puebla",1155,"Teopantlán","Municipio","Municipality",NA,NA
+1156,145,"MEX","Mexico",21,"Puebla",1156,"Teotlalco","Municipio","Municipality",NA,NA
+1157,145,"MEX","Mexico",21,"Puebla",1157,"Tepanco de López","Municipio","Municipality",NA,NA
+1158,145,"MEX","Mexico",21,"Puebla",1158,"Tepango de Rodríguez","Municipio","Municipality",NA,NA
+1159,145,"MEX","Mexico",21,"Puebla",1159,"Tepatlaxco de Hidalgo","Municipio","Municipality",NA,NA
+1160,145,"MEX","Mexico",21,"Puebla",1160,"Tepeaca","Municipio","Municipality",NA,NA
+1161,145,"MEX","Mexico",21,"Puebla",1161,"Tepemaxalco","Municipio","Municipality",NA,NA
+1162,145,"MEX","Mexico",21,"Puebla",1162,"Tepeojuma","Municipio","Municipality",NA,NA
+1163,145,"MEX","Mexico",21,"Puebla",1163,"Tepetzintla","Municipio","Municipality",NA,NA
+1164,145,"MEX","Mexico",21,"Puebla",1164,"Tepexco","Municipio","Municipality",NA,NA
+1165,145,"MEX","Mexico",21,"Puebla",1165,"Tepexi de Rodríguez","Municipio","Municipality",NA,"Tepexi de Rodriguez"
+1166,145,"MEX","Mexico",21,"Puebla",1166,"Tepeyahualco de Cuauhtémoc","Municipio","Municipality",NA,"Tepeyahualco de Cuahtemoc"
+1167,145,"MEX","Mexico",21,"Puebla",1167,"Tepeyahualco","Municipio","Municipality",NA,NA
+1168,145,"MEX","Mexico",21,"Puebla",1168,"Tetela de Ocampo","Municipio","Municipality",NA,NA
+1169,145,"MEX","Mexico",21,"Puebla",1169,"Teteles de Avila Castillo","Municipio","Municipality",NA,NA
+1170,145,"MEX","Mexico",21,"Puebla",1170,"Teziutlán","Municipio","Municipality",NA,NA
+1171,145,"MEX","Mexico",21,"Puebla",1171,"Tianguismanalco","Municipio","Municipality",NA,NA
+1172,145,"MEX","Mexico",21,"Puebla",1172,"Tilapa","Municipio","Municipality",NA,NA
+1173,145,"MEX","Mexico",21,"Puebla",1173,"Tlachichuca","Municipio","Municipality",NA,NA
+1174,145,"MEX","Mexico",21,"Puebla",1174,"Tlacotepec de Benito Juárez","Municipio","Municipality",NA,NA
+1175,145,"MEX","Mexico",21,"Puebla",1175,"Tlacuilotepec","Municipio","Municipality",NA,NA
+1176,145,"MEX","Mexico",21,"Puebla",1176,"Tlahuapan","Municipio","Municipality",NA,NA
+1177,145,"MEX","Mexico",21,"Puebla",1177,"Tlaltenango","Municipio","Municipality",NA,NA
+1178,145,"MEX","Mexico",21,"Puebla",1178,"Tlanepantla","Municipio","Municipality",NA,NA
+1179,145,"MEX","Mexico",21,"Puebla",1179,"Tlaola","Municipio","Municipality",NA,NA
+1180,145,"MEX","Mexico",21,"Puebla",1180,"Tlapacoya","Municipio","Municipality",NA,NA
+1181,145,"MEX","Mexico",21,"Puebla",1181,"Tlapanalá","Municipio","Municipality",NA,NA
+1182,145,"MEX","Mexico",21,"Puebla",1182,"Tlatlauquitepec","Municipio","Municipality",NA,NA
+1183,145,"MEX","Mexico",21,"Puebla",1183,"Tlaxco","Municipio","Municipality",NA,NA
+1184,145,"MEX","Mexico",21,"Puebla",1184,"Tochimilco","Municipio","Municipality",NA,NA
+1185,145,"MEX","Mexico",21,"Puebla",1185,"Tochtepec","Municipio","Municipality",NA,NA
+1186,145,"MEX","Mexico",21,"Puebla",1186,"Totoltepec de Guerrero","Municipio","Municipality",NA,NA
+1187,145,"MEX","Mexico",21,"Puebla",1187,"Tulcingo","Municipio","Municipality",NA,"Tulcinango"
+1188,145,"MEX","Mexico",21,"Puebla",1188,"Tzicatlacoyan","Municipio","Municipality",NA,NA
+1189,145,"MEX","Mexico",21,"Puebla",1189,"Venustiano Carranza","Municipio","Municipality",NA,NA
+1190,145,"MEX","Mexico",21,"Puebla",1190,"Vicente Guerrero","Municipio","Municipality",NA,NA
+1191,145,"MEX","Mexico",21,"Puebla",1191,"Xalpan","Municipio","Municipality",NA,NA
+1192,145,"MEX","Mexico",21,"Puebla",1192,"Xayacatlán de Bravo","Municipio","Municipality",NA,"Xayacatlan de Bravo"
+1193,145,"MEX","Mexico",21,"Puebla",1193,"Xicotepec","Municipio","Municipality",NA,NA
+1194,145,"MEX","Mexico",21,"Puebla",1194,"Xicotlán","Municipio","Municipality",NA,"Xicotlan"
+1195,145,"MEX","Mexico",21,"Puebla",1195,"Xiutetelco","Municipio","Municipality",NA,NA
+1196,145,"MEX","Mexico",21,"Puebla",1196,"Xochiapulco","Municipio","Municipality",NA,NA
+1197,145,"MEX","Mexico",21,"Puebla",1197,"Xochiltepec","Municipio","Municipality",NA,NA
+1198,145,"MEX","Mexico",21,"Puebla",1198,"Xochitlán de Vicente Suárez","Municipio","Municipality",NA,"Xochitlan de Vicente Suarez"
+1199,145,"MEX","Mexico",21,"Puebla",1199,"Xochitlán Todos Santos","Municipio","Municipality",NA,"Xochitlan Todos Santos"
+1200,145,"MEX","Mexico",21,"Puebla",1200,"Yaonáhuac","Municipio","Municipality",NA,NA
+1201,145,"MEX","Mexico",21,"Puebla",1201,"Yehualtepec","Municipio","Municipality",NA,NA
+1202,145,"MEX","Mexico",21,"Puebla",1202,"Zacapala","Municipio","Municipality",NA,NA
+1203,145,"MEX","Mexico",21,"Puebla",1203,"Zacapoaxtla","Municipio","Municipality",NA,NA
+1204,145,"MEX","Mexico",21,"Puebla",1204,"Zacatlán","Municipio","Municipality",NA,NA
+1205,145,"MEX","Mexico",21,"Puebla",1205,"Zapotitlán de Méndez","Municipio","Municipality",NA,"Zapotitlan de Mendez"
+1206,145,"MEX","Mexico",21,"Puebla",1206,"Zapotitlán","Municipio","Municipality",NA,"Zapotitlan"
+1207,145,"MEX","Mexico",21,"Puebla",1207,"Zaragoza","Municipio","Municipality",NA,NA
+1208,145,"MEX","Mexico",21,"Puebla",1208,"Zautla","Municipio","Municipality",NA,NA
+1209,145,"MEX","Mexico",21,"Puebla",1209,"Zihuateutla","Municipio","Municipality",NA,NA
+1210,145,"MEX","Mexico",21,"Puebla",1210,"Zinacatepec","Municipio","Municipality",NA,NA
+1211,145,"MEX","Mexico",21,"Puebla",1211,"Zoquiapan","Municipio","Municipality",NA,NA
+1212,145,"MEX","Mexico",21,"Puebla",1212,"Zoquitlan","Municipio","Municipality",NA,NA
+1213,145,"MEX","Mexico",22,"Querétaro",1213,"Amealco de Bonfin","Municipio","Municipality",NA,"Amealco de Bonfil"
+1214,145,"MEX","Mexico",22,"Querétaro",1214,"Arroyo Seco","Municipio","Municipality",NA,NA
+1215,145,"MEX","Mexico",22,"Querétaro",1215,"Cadereyta de Montes","Municipio","Municipality",NA,NA
+1216,145,"MEX","Mexico",22,"Querétaro",1216,"Colón","Municipio","Municipality",NA,"Colon"
+1217,145,"MEX","Mexico",22,"Querétaro",1217,"Corregidora","Municipio","Municipality",NA,NA
+1218,145,"MEX","Mexico",22,"Querétaro",1218,"El Marqués","Municipio","Municipality",NA,"El Marques"
+1219,145,"MEX","Mexico",22,"Querétaro",1219,"Ezequiel Montes","Municipio","Municipality",NA,NA
+1220,145,"MEX","Mexico",22,"Querétaro",1220,"Huimilpan","Municipio","Municipality",NA,NA
+1221,145,"MEX","Mexico",22,"Querétaro",1221,"Jalpan de Serra","Municipio","Municipality",NA,NA
+1222,145,"MEX","Mexico",22,"Querétaro",1222,"Landa de Matamoros","Municipio","Municipality",NA,NA
+1223,145,"MEX","Mexico",22,"Querétaro",1223,"Peñamiller","Municipio","Municipality",NA,"Penamiller"
+1224,145,"MEX","Mexico",22,"Querétaro",1224,"Pedro Escobedo","Municipio","Municipality",NA,NA
+1225,145,"MEX","Mexico",22,"Querétaro",1225,"Pinal de Amoles","Municipio","Municipality",NA,NA
+1226,145,"MEX","Mexico",22,"Querétaro",1226,"Querétaro","Municipio","Municipality",NA,"Queretaro"
+1227,145,"MEX","Mexico",22,"Querétaro",1227,"San Joaquín","Municipio","Municipality",NA,"San Joaquin"
+1228,145,"MEX","Mexico",22,"Querétaro",1228,"San Juan del Río","Municipio","Municipality",NA,"San Juan del Rio"
+1229,145,"MEX","Mexico",22,"Querétaro",1229,"Tequisquiapan","Municipio","Municipality",NA,NA
+1230,145,"MEX","Mexico",22,"Querétaro",1230,"Tolimán","Municipio","Municipality",NA,NA
+1231,145,"MEX","Mexico",23,"Quintana Roo",1231,"Benito Juárez","Municipio","Municipality",NA,NA
+1232,145,"MEX","Mexico",23,"Quintana Roo",1232,"Cozumel","Municipio","Municipality",NA,NA
+1233,145,"MEX","Mexico",23,"Quintana Roo",1233,"Felipe Carrillo Puerto","Municipio","Municipality",NA,NA
+1234,145,"MEX","Mexico",23,"Quintana Roo",1234,"Felipe Carrillo","Municipio","Municipality",NA,NA
+1235,145,"MEX","Mexico",23,"Quintana Roo",1235,"Isla Mujeres","Municipio","Municipality",NA,NA
+1236,145,"MEX","Mexico",23,"Quintana Roo",1236,"José María Morelos","Municipio","Municipality",NA,"Jose Maria Morelos"
+1237,145,"MEX","Mexico",23,"Quintana Roo",1237,"Lázaro Cárdenas","Municipio","Municipality",NA,"Lazaro Cardenas"
+1238,145,"MEX","Mexico",23,"Quintana Roo",1238,"Othón P. Blanco","Municipio","Municipality",NA,"Othon P. Blanco"
+1239,145,"MEX","Mexico",24,"San Luis Potosí",1239,"Ahualulco","Municipio","Municipality",NA,NA
+1240,145,"MEX","Mexico",24,"San Luis Potosí",1240,"Alaquines","Municipio","Municipality",NA,NA
+1241,145,"MEX","Mexico",24,"San Luis Potosí",1241,"Aquismón","Municipio","Municipality",NA,"Aquismon"
+1242,145,"MEX","Mexico",24,"San Luis Potosí",1242,"Armadillo de los Infante","Municipio","Municipality",NA,NA
+1243,145,"MEX","Mexico",24,"San Luis Potosí",1243,"Axtla de Terrazas","Municipio","Municipality",NA,NA
+1244,145,"MEX","Mexico",24,"San Luis Potosí",1244,"Cárdenas","Municipio","Municipality",NA,NA
+1245,145,"MEX","Mexico",24,"San Luis Potosí",1245,"Catorce","Municipio","Municipality",NA,NA
+1246,145,"MEX","Mexico",24,"San Luis Potosí",1246,"Cedral","Municipio","Municipality",NA,NA
+1247,145,"MEX","Mexico",24,"San Luis Potosí",1247,"Cerritos","Municipio","Municipality",NA,NA
+1248,145,"MEX","Mexico",24,"San Luis Potosí",1248,"Cerro de San Pedro","Municipio","Municipality",NA,NA
+1249,145,"MEX","Mexico",24,"San Luis Potosí",1249,"Charcas","Municipio","Municipality",NA,NA
+1250,145,"MEX","Mexico",24,"San Luis Potosí",1250,"Ciudad del Maíz","Municipio","Municipality",NA,"Ciudad del Maiz"
+1251,145,"MEX","Mexico",24,"San Luis Potosí",1251,"Ciudad Fernández","Municipio","Municipality",NA,"Ciudad Fernandez"
+1252,145,"MEX","Mexico",24,"San Luis Potosí",1252,"Ciudad Valles","Municipio","Municipality",NA,NA
+1253,145,"MEX","Mexico",24,"San Luis Potosí",1253,"Coxcatlán","Municipio","Municipality",NA,"Coxcatlan"
+1254,145,"MEX","Mexico",24,"San Luis Potosí",1254,"Ebano","Municipio","Municipality",NA,NA
+1255,145,"MEX","Mexico",24,"San Luis Potosí",1255,"Guadalcazar","Municipio","Municipality",NA,NA
+1256,145,"MEX","Mexico",24,"San Luis Potosí",1256,"Huehuetlán","Municipio","Municipality",NA,"Huehuetlan"
+1257,145,"MEX","Mexico",24,"San Luis Potosí",1257,"Lagunillas","Municipio","Municipality",NA,NA
+1258,145,"MEX","Mexico",24,"San Luis Potosí",1258,"Matehuala","Municipio","Municipality",NA,NA
+1259,145,"MEX","Mexico",24,"San Luis Potosí",1259,"Mexquitic de Carmona","Municipio","Municipality",NA,NA
+1260,145,"MEX","Mexico",24,"San Luis Potosí",1260,"Moctezuma","Municipio","Municipality",NA,NA
+1261,145,"MEX","Mexico",24,"San Luis Potosí",1261,"Pinos","Municipio","Municipality",NA,NA
+1262,145,"MEX","Mexico",24,"San Luis Potosí",1262,"Rayón","Municipio","Municipality",NA,"Rayon"
+1263,145,"MEX","Mexico",24,"San Luis Potosí",1263,"Rioverde","Municipio","Municipality",NA,"Rio Verde"
+1264,145,"MEX","Mexico",24,"San Luis Potosí",1264,"Salinas","Municipio","Municipality",NA,NA
+1265,145,"MEX","Mexico",24,"San Luis Potosí",1265,"San Antonio","Municipio","Municipality",NA,NA
+1266,145,"MEX","Mexico",24,"San Luis Potosí",1266,"San Ciro de Acosta","Municipio","Municipality",NA,NA
+1267,145,"MEX","Mexico",24,"San Luis Potosí",1267,"San Luis Potosí","Municipio","Municipality",NA,"San Luis Potosi"
+1268,145,"MEX","Mexico",24,"San Luis Potosí",1268,"San Martín Chalchicuautla","Municipio","Municipality",NA,NA
+1269,145,"MEX","Mexico",24,"San Luis Potosí",1269,"San Nicolás Tolentino","Municipio","Municipality",NA,NA
+1270,145,"MEX","Mexico",24,"San Luis Potosí",1270,"San Vicente Tancuayalab","Municipio","Municipality",NA,NA
+1271,145,"MEX","Mexico",24,"San Luis Potosí",1271,"Santa Catarina","Municipio","Municipality",NA,NA
+1272,145,"MEX","Mexico",24,"San Luis Potosí",1272,"Santa María del Río","Municipio","Municipality",NA,NA
+1273,145,"MEX","Mexico",24,"San Luis Potosí",1273,"Santo Domingo","Municipio","Municipality",NA,NA
+1274,145,"MEX","Mexico",24,"San Luis Potosí",1274,"Soledad de Graciano Sánchez","Municipio","Municipality",NA,"Soledad de Graciano Sanchez"
+1275,145,"MEX","Mexico",24,"San Luis Potosí",1275,"Tamasopo","Municipio","Municipality",NA,NA
+1276,145,"MEX","Mexico",24,"San Luis Potosí",1276,"Tamazunchale","Municipio","Municipality",NA,NA
+1277,145,"MEX","Mexico",24,"San Luis Potosí",1277,"Tampacan","Municipio","Municipality",NA,NA
+1278,145,"MEX","Mexico",24,"San Luis Potosí",1278,"Tampamolón Corona","Municipio","Municipality",NA,"Tampamolon Corona"
+1279,145,"MEX","Mexico",24,"San Luis Potosí",1279,"Tamuín","Municipio","Municipality",NA,"Tamuin"
+1280,145,"MEX","Mexico",24,"San Luis Potosí",1280,"Tancanhuitz de Santos","Municipio","Municipality",NA,NA
+1281,145,"MEX","Mexico",24,"San Luis Potosí",1281,"Tanlajás","Municipio","Municipality",NA,NA
+1282,145,"MEX","Mexico",24,"San Luis Potosí",1282,"Tanquián de Escobedo","Municipio","Municipality",NA,NA
+1283,145,"MEX","Mexico",24,"San Luis Potosí",1283,"Tierra Nueva","Municipio","Municipality",NA,"Tierranueva"
+1284,145,"MEX","Mexico",24,"San Luis Potosí",1284,"Vanegas","Municipio","Municipality",NA,NA
+1285,145,"MEX","Mexico",24,"San Luis Potosí",1285,"Venado","Municipio","Municipality",NA,NA
+1286,145,"MEX","Mexico",24,"San Luis Potosí",1286,"Villa de Arista","Municipio","Municipality",NA,NA
+1287,145,"MEX","Mexico",24,"San Luis Potosí",1287,"Villa de Arriaga","Municipio","Municipality",NA,NA
+1288,145,"MEX","Mexico",24,"San Luis Potosí",1288,"Villa de Guadalupe","Municipio","Municipality",NA,NA
+1289,145,"MEX","Mexico",24,"San Luis Potosí",1289,"Villa de la Paz","Municipio","Municipality",NA,NA
+1290,145,"MEX","Mexico",24,"San Luis Potosí",1290,"Villa de Ramos","Municipio","Municipality",NA,NA
+1291,145,"MEX","Mexico",24,"San Luis Potosí",1291,"Villa de Reyes","Municipio","Municipality",NA,NA
+1292,145,"MEX","Mexico",24,"San Luis Potosí",1292,"Villa Hidalgo","Municipio","Municipality",NA,NA
+1293,145,"MEX","Mexico",24,"San Luis Potosí",1293,"Villa Juárez","Municipio","Municipality",NA,"Villa Juarez"
+1294,145,"MEX","Mexico",24,"San Luis Potosí",1294,"Xilitla","Municipio","Municipality",NA,NA
+1295,145,"MEX","Mexico",24,"San Luis Potosí",1295,"Zaragoza","Municipio","Municipality",NA,NA
+1296,145,"MEX","Mexico",25,"Sinaloa",1296,"Ahome","Municipio","Municipality",NA,NA
+1297,145,"MEX","Mexico",25,"Sinaloa",1297,"Angostura","Municipio","Municipality",NA,NA
+1298,145,"MEX","Mexico",25,"Sinaloa",1298,"Badiraguato","Municipio","Municipality",NA,NA
+1299,145,"MEX","Mexico",25,"Sinaloa",1299,"Boca San Lorenzo","Municipio","Municipality",NA,NA
+1300,145,"MEX","Mexico",25,"Sinaloa",1300,"Choix","Municipio","Municipality",NA,NA
+1301,145,"MEX","Mexico",25,"Sinaloa",1301,"Concordia","Municipio","Municipality",NA,NA
+1302,145,"MEX","Mexico",25,"Sinaloa",1302,"Cosalá","Municipio","Municipality",NA,"Cosala"
+1303,145,"MEX","Mexico",25,"Sinaloa",1303,"Culiacán","Municipio","Municipality",NA,"Culiacan"
+1304,145,"MEX","Mexico",25,"Sinaloa",1304,"El Fuerte","Municipio","Municipality",NA,NA
+1305,145,"MEX","Mexico",25,"Sinaloa",1305,"El Rosario","Municipio","Municipality",NA,NA
+1306,145,"MEX","Mexico",25,"Sinaloa",1306,"Elota","Municipio","Municipality",NA,NA
+1307,145,"MEX","Mexico",25,"Sinaloa",1307,"Escuinapa","Municipio","Municipality",NA,NA
+1308,145,"MEX","Mexico",25,"Sinaloa",1308,"Guasave","Municipio","Municipality",NA,NA
+1309,145,"MEX","Mexico",25,"Sinaloa",1309,"Isla Altamira","Municipio","Municipality",NA,NA
+1310,145,"MEX","Mexico",25,"Sinaloa",1310,"Mazatlán","Municipio","Municipality",NA,"Mazatlan"
+1311,145,"MEX","Mexico",25,"Sinaloa",1311,"Mocorito","Municipio","Municipality",NA,NA
+1312,145,"MEX","Mexico",25,"Sinaloa",1312,"Salvador Alvarado","Municipio","Municipality",NA,NA
+1313,145,"MEX","Mexico",25,"Sinaloa",1313,"San Ignacio","Municipio","Municipality",NA,NA
+1314,145,"MEX","Mexico",25,"Sinaloa",1314,"Sinaloa","Municipio","Municipality",NA,NA
+1315,145,"MEX","Mexico",26,"Sonora",1315,"Álamos","Municipio","Municipality",NA,"Alamos"
+1316,145,"MEX","Mexico",26,"Sonora",1316,"Aconchi","Municipio","Municipality",NA,NA
+1317,145,"MEX","Mexico",26,"Sonora",1317,"Agua Prieta","Municipio","Municipality",NA,NA
+1318,145,"MEX","Mexico",26,"Sonora",1318,"Altar","Municipio","Municipality",NA,NA
+1319,145,"MEX","Mexico",26,"Sonora",1319,"Arizpe","Municipio","Municipality",NA,NA
+1320,145,"MEX","Mexico",26,"Sonora",1320,"Atil","Municipio","Municipality",NA,NA
+1321,145,"MEX","Mexico",26,"Sonora",1321,"Bácum","Municipio","Municipality",NA,"Bacum"
+1322,145,"MEX","Mexico",26,"Sonora",1322,"Bacadéhuachi","Municipio","Municipality",NA,"Bacadehuachi"
+1323,145,"MEX","Mexico",26,"Sonora",1323,"Bacanora","Municipio","Municipality",NA,NA
+1324,145,"MEX","Mexico",26,"Sonora",1324,"Bacerac","Municipio","Municipality",NA,NA
+1325,145,"MEX","Mexico",26,"Sonora",1325,"Bacoachi","Municipio","Municipality",NA,NA
+1326,145,"MEX","Mexico",26,"Sonora",1326,"Banámichi","Municipio","Municipality",NA,"Banamichi"
+1327,145,"MEX","Mexico",26,"Sonora",1327,"Baviácora","Municipio","Municipality",NA,"Baviacora"
+1328,145,"MEX","Mexico",26,"Sonora",1328,"Bavispe","Municipio","Municipality",NA,NA
+1329,145,"MEX","Mexico",26,"Sonora",1329,"Benjamín Hill","Municipio","Municipality",NA,"Benjamin Hill"
+1330,145,"MEX","Mexico",26,"Sonora",1330,"Caborca","Municipio","Municipality",NA,NA
+1331,145,"MEX","Mexico",26,"Sonora",1331,"Cajeme","Municipio","Municipality",NA,NA
+1332,145,"MEX","Mexico",26,"Sonora",1332,"Cananea","Municipio","Municipality",NA,NA
+1333,145,"MEX","Mexico",26,"Sonora",1333,"Carbó","Municipio","Municipality",NA,NA
+1334,145,"MEX","Mexico",26,"Sonora",1334,"Cucurpe","Municipio","Municipality",NA,NA
+1335,145,"MEX","Mexico",26,"Sonora",1335,"Cumpas","Municipio","Municipality",NA,NA
+1336,145,"MEX","Mexico",26,"Sonora",1336,"Divisaderos","Municipio","Municipality",NA,"Divisadero"
+1337,145,"MEX","Mexico",26,"Sonora",1337,"Empalme","Municipio","Municipality",NA,NA
+1338,145,"MEX","Mexico",26,"Sonora",1338,"Etchojoa","Municipio","Municipality",NA,NA
+1339,145,"MEX","Mexico",26,"Sonora",1339,"Fronteras","Municipio","Municipality",NA,NA
+1340,145,"MEX","Mexico",26,"Sonora",1340,"Granados","Municipio","Municipality",NA,NA
+1341,145,"MEX","Mexico",26,"Sonora",1341,"Guaymas","Municipio","Municipality",NA,NA
+1342,145,"MEX","Mexico",26,"Sonora",1342,"Hermosillo","Municipio","Municipality",NA,NA
+1343,145,"MEX","Mexico",26,"Sonora",1343,"Huásabas","Municipio","Municipality",NA,"Huasabas"
+1344,145,"MEX","Mexico",26,"Sonora",1344,"Huépac","Municipio","Municipality",NA,"Huepac"
+1345,145,"MEX","Mexico",26,"Sonora",1345,"Huachinera","Municipio","Municipality",NA,NA
+1346,145,"MEX","Mexico",26,"Sonora",1346,"Huatabampo","Municipio","Municipality",NA,NA
+1347,145,"MEX","Mexico",26,"Sonora",1347,"Imuris","Municipio","Municipality",NA,NA
+1348,145,"MEX","Mexico",26,"Sonora",1348,"Isla Tiburon","Municipio","Municipality",NA,NA
+1349,145,"MEX","Mexico",26,"Sonora",1349,"La Colorada","Municipio","Municipality",NA,NA
+1350,145,"MEX","Mexico",26,"Sonora",1350,"Magdalena","Municipio","Municipality",NA,NA
+1351,145,"MEX","Mexico",26,"Sonora",1351,"Mazatán","Municipio","Municipality",NA,"Mazatan"
+1352,145,"MEX","Mexico",26,"Sonora",1352,"Moctezuma","Municipio","Municipality",NA,NA
+1353,145,"MEX","Mexico",26,"Sonora",1353,"Nácori Chico","Municipio","Municipality",NA,"Nacori Chico"
+1354,145,"MEX","Mexico",26,"Sonora",1354,"Naco","Municipio","Municipality",NA,NA
+1355,145,"MEX","Mexico",26,"Sonora",1355,"Nacozari de García","Municipio","Municipality",NA,"Nacozari de Garcia"
+1356,145,"MEX","Mexico",26,"Sonora",1356,"Navojoa","Municipio","Municipality",NA,NA
+1357,145,"MEX","Mexico",26,"Sonora",1357,"Nogales","Municipio","Municipality",NA,NA
+1358,145,"MEX","Mexico",26,"Sonora",1358,"Onavas","Municipio","Municipality",NA,NA
+1359,145,"MEX","Mexico",26,"Sonora",1359,"Opodepe","Municipio","Municipality",NA,NA
+1360,145,"MEX","Mexico",26,"Sonora",1360,"Oquitoa","Municipio","Municipality",NA,NA
+1361,145,"MEX","Mexico",26,"Sonora",1361,"Pitiquito","Municipio","Municipality",NA,NA
+1362,145,"MEX","Mexico",26,"Sonora",1362,"Puerto Peñasco","Municipio","Municipality",NA,"Puerto Penasco"
+1363,145,"MEX","Mexico",26,"Sonora",1363,"Quiriego","Municipio","Municipality",NA,NA
+1364,145,"MEX","Mexico",26,"Sonora",1364,"Rayón","Municipio","Municipality",NA,"Rayon"
+1365,145,"MEX","Mexico",26,"Sonora",1365,"Rosario","Municipio","Municipality",NA,NA
+1366,145,"MEX","Mexico",26,"Sonora",1366,"Sáric","Municipio","Municipality",NA,"Saric"
+1367,145,"MEX","Mexico",26,"Sonora",1367,"Sahuaripa","Municipio","Municipality",NA,NA
+1368,145,"MEX","Mexico",26,"Sonora",1368,"San Felipe de Jesús","Municipio","Municipality",NA,"San Felipe de Jesus"
+1369,145,"MEX","Mexico",26,"Sonora",1369,"San Javier","Municipio","Municipality",NA,NA
+1370,145,"MEX","Mexico",26,"Sonora",1370,"San Luis Río Colorado","Municipio","Municipality",NA,"San Luis Rio Colorado"
+1371,145,"MEX","Mexico",26,"Sonora",1371,"San Miguel de Horcasitas","Municipio","Municipality",NA,NA
+1372,145,"MEX","Mexico",26,"Sonora",1372,"San Pedro de la Cueva","Municipio","Municipality",NA,NA
+1373,145,"MEX","Mexico",26,"Sonora",1373,"Santa Ana","Municipio","Municipality",NA,NA
+1374,145,"MEX","Mexico",26,"Sonora",1374,"Santa Cruz","Municipio","Municipality",NA,NA
+1375,145,"MEX","Mexico",26,"Sonora",1375,"Soyopa","Municipio","Municipality",NA,NA
+1376,145,"MEX","Mexico",26,"Sonora",1376,"Suaqui Grande","Municipio","Municipality",NA,NA
+1377,145,"MEX","Mexico",26,"Sonora",1377,"Tepache","Municipio","Municipality",NA,NA
+1378,145,"MEX","Mexico",26,"Sonora",1378,"Trincheras","Municipio","Municipality",NA,NA
+1379,145,"MEX","Mexico",26,"Sonora",1379,"Tubutama","Municipio","Municipality",NA,NA
+1380,145,"MEX","Mexico",26,"Sonora",1380,"Ures","Municipio","Municipality",NA,NA
+1381,145,"MEX","Mexico",26,"Sonora",1381,"Villa Hidalgo","Municipio","Municipality",NA,NA
+1382,145,"MEX","Mexico",26,"Sonora",1382,"Villa Pesqueira","Municipio","Municipality",NA,"Villas Pesqueira"
+1383,145,"MEX","Mexico",26,"Sonora",1383,"Yécora","Municipio","Municipality",NA,"Yecora"
+1384,145,"MEX","Mexico",27,"Tabasco",1384,"Balancán","Municipio","Municipality",NA,"Balancan"
+1385,145,"MEX","Mexico",27,"Tabasco",1385,"Cárdenas","Municipio","Municipality",NA,NA
+1386,145,"MEX","Mexico",27,"Tabasco",1386,"Catazajá","Municipio","Municipality",NA,"Catazaja"
+1387,145,"MEX","Mexico",27,"Tabasco",1387,"Centla","Municipio","Municipality",NA,NA
+1388,145,"MEX","Mexico",27,"Tabasco",1388,"Centro","Municipio","Municipality",NA,NA
+1389,145,"MEX","Mexico",27,"Tabasco",1389,"Comalcalco","Municipio","Municipality",NA,NA
+1390,145,"MEX","Mexico",27,"Tabasco",1390,"Cunduacán","Municipio","Municipality",NA,"Cunduacan"
+1391,145,"MEX","Mexico",27,"Tabasco",1391,"Emiliano Zapata","Municipio","Municipality",NA,NA
+1392,145,"MEX","Mexico",27,"Tabasco",1392,"Huimanguillo","Municipio","Municipality",NA,NA
+1393,145,"MEX","Mexico",27,"Tabasco",1393,"Jalapa","Municipio","Municipality",NA,NA
+1394,145,"MEX","Mexico",27,"Tabasco",1394,"Jalpa de Méndez","Municipio","Municipality",NA,"Jalpa de Mendez"
+1395,145,"MEX","Mexico",27,"Tabasco",1395,"Jonuta","Municipio","Municipality",NA,NA
+1396,145,"MEX","Mexico",27,"Tabasco",1396,"Macuspana","Municipio","Municipality",NA,NA
+1397,145,"MEX","Mexico",27,"Tabasco",1397,"Nacajuca","Municipio","Municipality",NA,NA
+1398,145,"MEX","Mexico",27,"Tabasco",1398,"Paraíso","Municipio","Municipality",NA,"Paraiso"
+1399,145,"MEX","Mexico",27,"Tabasco",1399,"Tacotalpa","Municipio","Municipality",NA,NA
+1400,145,"MEX","Mexico",27,"Tabasco",1400,"Teapa","Municipio","Municipality",NA,NA
+1401,145,"MEX","Mexico",27,"Tabasco",1401,"Tenosique","Municipio","Municipality",NA,NA
+1402,145,"MEX","Mexico",28,"Tamaulipas",1402,"Abasolo","Municipio","Municipality",NA,NA
+1403,145,"MEX","Mexico",28,"Tamaulipas",1403,"Aldama","Municipio","Municipality",NA,NA
+1404,145,"MEX","Mexico",28,"Tamaulipas",1404,"Altamira","Municipio","Municipality",NA,NA
+1405,145,"MEX","Mexico",28,"Tamaulipas",1405,"Antiguo Morelos","Municipio","Municipality",NA,NA
+1406,145,"MEX","Mexico",28,"Tamaulipas",1406,"Burgos","Municipio","Municipality",NA,NA
+1407,145,"MEX","Mexico",28,"Tamaulipas",1407,"Bustamante","Municipio","Municipality",NA,NA
+1408,145,"MEX","Mexico",28,"Tamaulipas",1408,"Camargo","Municipio","Municipality",NA,NA
+1409,145,"MEX","Mexico",28,"Tamaulipas",1409,"Casas","Municipio","Municipality",NA,NA
+1410,145,"MEX","Mexico",28,"Tamaulipas",1410,"Ciudad Madero","Municipio","Municipality",NA,NA
+1411,145,"MEX","Mexico",28,"Tamaulipas",1411,"Cruillas","Municipio","Municipality",NA,NA
+1412,145,"MEX","Mexico",28,"Tamaulipas",1412,"El Mante","Municipio","Municipality",NA,NA
+1413,145,"MEX","Mexico",28,"Tamaulipas",1413,"Güémez","Municipio","Municipality",NA,"Guemez"
+1414,145,"MEX","Mexico",28,"Tamaulipas",1414,"Gómez Farias","Municipio","Municipality",NA,"Gomez Farias"
+1415,145,"MEX","Mexico",28,"Tamaulipas",1415,"González","Municipio","Municipality",NA,"Gonzalez"
+1416,145,"MEX","Mexico",28,"Tamaulipas",1416,"Guerrero","Municipio","Municipality",NA,NA
+1417,145,"MEX","Mexico",28,"Tamaulipas",1417,"Gustavo Díaz Ordáz","Municipio","Municipality",NA,"Gustavo Diaz Ordaz"
+1418,145,"MEX","Mexico",28,"Tamaulipas",1418,"Hidalgo","Municipio","Municipality",NA,NA
+1419,145,"MEX","Mexico",28,"Tamaulipas",1419,"Jaumave","Municipio","Municipality",NA,NA
+1420,145,"MEX","Mexico",28,"Tamaulipas",1420,"Jiménez","Municipio","Municipality",NA,"Jimenez"
+1421,145,"MEX","Mexico",28,"Tamaulipas",1421,"Llera","Municipio","Municipality",NA,NA
+1422,145,"MEX","Mexico",28,"Tamaulipas",1422,"Méndez","Municipio","Municipality",NA,"Mendez"
+1423,145,"MEX","Mexico",28,"Tamaulipas",1423,"Mainero","Municipio","Municipality",NA,NA
+1424,145,"MEX","Mexico",28,"Tamaulipas",1424,"Matamoros","Municipio","Municipality",NA,NA
+1425,145,"MEX","Mexico",28,"Tamaulipas",1425,"Mier","Municipio","Municipality",NA,NA
+1426,145,"MEX","Mexico",28,"Tamaulipas",1426,"Miguel Alemán","Municipio","Municipality",NA,"Miguel Aleman"
+1427,145,"MEX","Mexico",28,"Tamaulipas",1427,"Miquihuana","Municipio","Municipality",NA,NA
+1428,145,"MEX","Mexico",28,"Tamaulipas",1428,"Nuevo Laredo","Municipio","Municipality",NA,NA
+1429,145,"MEX","Mexico",28,"Tamaulipas",1429,"Nuevo Morelos","Municipio","Municipality",NA,NA
+1430,145,"MEX","Mexico",28,"Tamaulipas",1430,"Ocampo","Municipio","Municipality",NA,NA
+1431,145,"MEX","Mexico",28,"Tamaulipas",1431,"Padilla","Municipio","Municipality",NA,NA
+1432,145,"MEX","Mexico",28,"Tamaulipas",1432,"Palmillas","Municipio","Municipality",NA,NA
+1433,145,"MEX","Mexico",28,"Tamaulipas",1433,"Río Bravo","Municipio","Municipality",NA,"Rio Bravo"
+1434,145,"MEX","Mexico",28,"Tamaulipas",1434,"Reynosa","Municipio","Municipality",NA,NA
+1435,145,"MEX","Mexico",28,"Tamaulipas",1435,"San Carlos","Municipio","Municipality",NA,NA
+1436,145,"MEX","Mexico",28,"Tamaulipas",1436,"San Fernando","Municipio","Municipality",NA,NA
+1437,145,"MEX","Mexico",28,"Tamaulipas",1437,"San Nicolás","Municipio","Municipality",NA,NA
+1438,145,"MEX","Mexico",28,"Tamaulipas",1438,"Soto La Marina","Municipio","Municipality",NA,NA
+1439,145,"MEX","Mexico",28,"Tamaulipas",1439,"Tampico","Municipio","Municipality",NA,NA
+1440,145,"MEX","Mexico",28,"Tamaulipas",1440,"Tula","Municipio","Municipality",NA,NA
+1441,145,"MEX","Mexico",28,"Tamaulipas",1441,"Valle Hermoso","Municipio","Municipality",NA,NA
+1442,145,"MEX","Mexico",28,"Tamaulipas",1442,"Victoria","Municipio","Municipality",NA,NA
+1443,145,"MEX","Mexico",28,"Tamaulipas",1443,"Villagrán","Municipio","Municipality",NA,NA
+1444,145,"MEX","Mexico",28,"Tamaulipas",1444,"Xicoténcatl","Municipio","Municipality",NA,"Xicotencatl"
+1445,145,"MEX","Mexico",29,"Tlaxcala",1445,"Acuamanala de Miguel Hidalgo","Municipio","Municipality",NA,NA
+1446,145,"MEX","Mexico",29,"Tlaxcala",1446,"Altzayanca","Municipio","Municipality",NA,"Atlzayanga"
+1447,145,"MEX","Mexico",29,"Tlaxcala",1447,"Amaxac de Guerrero","Municipio","Municipality",NA,NA
+1448,145,"MEX","Mexico",29,"Tlaxcala",1448,"Apetatitlán de Antonio Carvajal","Municipio","Municipality",NA,"Apetatitlan de Antonio Carbajal"
+1449,145,"MEX","Mexico",29,"Tlaxcala",1449,"Apizaco","Municipio","Municipality",NA,NA
+1450,145,"MEX","Mexico",29,"Tlaxcala",1450,"Atlangatepec","Municipio","Municipality",NA,NA
+1451,145,"MEX","Mexico",29,"Tlaxcala",1451,"Calpulalpan","Municipio","Municipality",NA,NA
+1452,145,"MEX","Mexico",29,"Tlaxcala",1452,"Chiautempan","Municipio","Municipality",NA,NA
+1453,145,"MEX","Mexico",29,"Tlaxcala",1453,"Contla de Juan Cuamatzi","Municipio","Municipality",NA,NA
+1454,145,"MEX","Mexico",29,"Tlaxcala",1454,"Cuapiaxtla","Municipio","Municipality",NA,NA
+1455,145,"MEX","Mexico",29,"Tlaxcala",1455,"Cuaxomulco","Municipio","Municipality",NA,NA
+1456,145,"MEX","Mexico",29,"Tlaxcala",1456,"El Carmen Tequexquitla","Municipio","Municipality",NA,NA
+1457,145,"MEX","Mexico",29,"Tlaxcala",1457,"Españita","Municipio","Municipality",NA,"Espanita"
+1458,145,"MEX","Mexico",29,"Tlaxcala",1458,"Huamantla","Municipio","Municipality",NA,NA
+1459,145,"MEX","Mexico",29,"Tlaxcala",1459,"Hueyotlipan","Municipio","Municipality",NA,NA
+1460,145,"MEX","Mexico",29,"Tlaxcala",1460,"Ixtacuixtla de Mariano Matamoros","Municipio","Municipality",NA,"Ixtacuixtla de Mariano Matamaro"
+1461,145,"MEX","Mexico",29,"Tlaxcala",1461,"Ixtenco","Municipio","Municipality",NA,NA
+1462,145,"MEX","Mexico",29,"Tlaxcala",1462,"Mazatecochco de José María Morelos","Municipio","Municipality",NA,"Mazatecochco de Jose Mar Morelo"
+1463,145,"MEX","Mexico",29,"Tlaxcala",1463,"Muñoz de Domingo Arenas","Municipio","Municipality",NA,"Munoz de Domingo Arenas"
+1464,145,"MEX","Mexico",29,"Tlaxcala",1464,"Nanacamilpa de Mariano Arista","Municipio","Municipality",NA,NA
+1465,145,"MEX","Mexico",29,"Tlaxcala",1465,"Natívitas","Municipio","Municipality",NA,"Nativitas"
+1466,145,"MEX","Mexico",29,"Tlaxcala",1466,"Panotla","Municipio","Municipality",NA,NA
+1467,145,"MEX","Mexico",29,"Tlaxcala",1467,"Papalotla de Xicohténcatl","Municipio","Municipality",NA,"Papalotla de Xicohtencatl"
+1468,145,"MEX","Mexico",29,"Tlaxcala",1468,"San Pablo del Monte","Municipio","Municipality",NA,NA
+1469,145,"MEX","Mexico",29,"Tlaxcala",1469,"Sanctórum de Lázaro Cárdenas","Municipio","Municipality",NA,NA
+1470,145,"MEX","Mexico",29,"Tlaxcala",1470,"Santa Cruz Tlaxcala","Municipio","Municipality",NA,NA
+1471,145,"MEX","Mexico",29,"Tlaxcala",1471,"Tenancingo","Municipio","Municipality",NA,NA
+1472,145,"MEX","Mexico",29,"Tlaxcala",1472,"Teolocholco","Municipio","Municipality",NA,NA
+1473,145,"MEX","Mexico",29,"Tlaxcala",1473,"Tepetitla de Lardizábal","Municipio","Municipality",NA,NA
+1474,145,"MEX","Mexico",29,"Tlaxcala",1474,"Tepeyanco","Municipio","Municipality",NA,NA
+1475,145,"MEX","Mexico",29,"Tlaxcala",1475,"Terrenate","Municipio","Municipality",NA,NA
+1476,145,"MEX","Mexico",29,"Tlaxcala",1476,"Tetla de la Solidaridad","Municipio","Municipality",NA,"Tetla"
+1477,145,"MEX","Mexico",29,"Tlaxcala",1477,"Tetlatlahuca","Municipio","Municipality",NA,NA
+1478,145,"MEX","Mexico",29,"Tlaxcala",1478,"Tlaxcala","Municipio","Municipality",NA,NA
+1479,145,"MEX","Mexico",29,"Tlaxcala",1479,"Tlaxco","Municipio","Municipality",NA,NA
+1480,145,"MEX","Mexico",29,"Tlaxcala",1480,"Tocatlán","Municipio","Municipality",NA,"Tocatlan"
+1481,145,"MEX","Mexico",29,"Tlaxcala",1481,"Totolac","Municipio","Municipality",NA,NA
+1482,145,"MEX","Mexico",29,"Tlaxcala",1482,"Tzompantepec","Municipio","Municipality",NA,NA
+1483,145,"MEX","Mexico",29,"Tlaxcala",1483,"Xaloztoc","Municipio","Municipality",NA,NA
+1484,145,"MEX","Mexico",29,"Tlaxcala",1484,"Xaltocan","Municipio","Municipality",NA,NA
+1485,145,"MEX","Mexico",29,"Tlaxcala",1485,"Xicohtzinco","Municipio","Municipality",NA,"Xicotzingo"
+1486,145,"MEX","Mexico",29,"Tlaxcala",1486,"Yauhquemecan","Municipio","Municipality",NA,"Yauhquemehcan"
+1487,145,"MEX","Mexico",29,"Tlaxcala",1487,"Zacatelco","Municipio","Municipality",NA,NA
+1488,145,"MEX","Mexico",29,"Tlaxcala",1488,"Zitlaltepec de Trinidad Sánchez Santos","Municipio","Municipality",NA,"Zitlaltepec de Trinidad S. Santos"
+1489,145,"MEX","Mexico",30,"Veracruz",1489,"Ángel R. Cabada","Municipio","Municipality",NA,"Angel R. Cabada"
+1490,145,"MEX","Mexico",30,"Veracruz",1490,"Acajete","Municipio","Municipality",NA,NA
+1491,145,"MEX","Mexico",30,"Veracruz",1491,"Acatlán","Municipio","Municipality",NA,"Acatlan"
+1492,145,"MEX","Mexico",30,"Veracruz",1492,"Acayucan","Municipio","Municipality",NA,NA
+1493,145,"MEX","Mexico",30,"Veracruz",1493,"Actopan","Municipio","Municipality",NA,NA
+1494,145,"MEX","Mexico",30,"Veracruz",1494,"Acula","Municipio","Municipality",NA,NA
+1495,145,"MEX","Mexico",30,"Veracruz",1495,"Acultzingo","Municipio","Municipality",NA,NA
+1496,145,"MEX","Mexico",30,"Veracruz",1496,"Alpatláhuac","Municipio","Municipality",NA,"Alpatlahuac"
+1497,145,"MEX","Mexico",30,"Veracruz",1497,"Alto Lucero de Gutiérrez Barrios","Municipio","Municipality",NA,"Alto Lucero"
+1498,145,"MEX","Mexico",30,"Veracruz",1498,"Altotonga","Municipio","Municipality",NA,NA
+1499,145,"MEX","Mexico",30,"Veracruz",1499,"Alvarado","Municipio","Municipality",NA,NA
+1500,145,"MEX","Mexico",30,"Veracruz",1500,"Amatitlán de los Reyes","Municipio","Municipality",NA,"Amatlan de los Reyes"
+1501,145,"MEX","Mexico",30,"Veracruz",1501,"Amatitlán","Municipio","Municipality",NA,"Amatitlan"
+1502,145,"MEX","Mexico",30,"Veracruz",1502,"Amatlan Tuxpan","Municipio","Municipality",NA,NA
+1503,145,"MEX","Mexico",30,"Veracruz",1503,"Apazapan","Municipio","Municipality",NA,NA
+1504,145,"MEX","Mexico",30,"Veracruz",1504,"Aquila","Municipio","Municipality",NA,NA
+1505,145,"MEX","Mexico",30,"Veracruz",1505,"Úrsulo Galván","Municipio","Municipality",NA,"Ursulo Galvan"
+1506,145,"MEX","Mexico",30,"Veracruz",1506,"Astacinga","Municipio","Municipality",NA,NA
+1507,145,"MEX","Mexico",30,"Veracruz",1507,"Atlahuilco","Municipio","Municipality",NA,NA
+1508,145,"MEX","Mexico",30,"Veracruz",1508,"Atoyac","Municipio","Municipality",NA,NA
+1509,145,"MEX","Mexico",30,"Veracruz",1509,"Atzacan","Municipio","Municipality",NA,NA
+1510,145,"MEX","Mexico",30,"Veracruz",1510,"Atzalan","Municipio","Municipality",NA,NA
+1511,145,"MEX","Mexico",30,"Veracruz",1511,"Ayahualulco","Municipio","Municipality",NA,NA
+1512,145,"MEX","Mexico",30,"Veracruz",1512,"Banderilla","Municipio","Municipality",NA,NA
+1513,145,"MEX","Mexico",30,"Veracruz",1513,"Benito Juárez","Municipio","Municipality",NA,NA
+1514,145,"MEX","Mexico",30,"Veracruz",1514,"Boca del Río","Municipio","Municipality",NA,"Boca del Rio"
+1515,145,"MEX","Mexico",30,"Veracruz",1515,"Córdoba","Municipio","Municipality",NA,"Cordoba"
+1516,145,"MEX","Mexico",30,"Veracruz",1516,"Calcahualco","Municipio","Municipality",NA,NA
+1517,145,"MEX","Mexico",30,"Veracruz",1517,"Camarón de Tejada","Municipio","Municipality",NA,"Camaron de Tejada"
+1518,145,"MEX","Mexico",30,"Veracruz",1518,"Camerino Z. Mendoza","Municipio","Municipality",NA,NA
+1519,145,"MEX","Mexico",30,"Veracruz",1519,"Carrillo Puerto","Municipio","Municipality",NA,NA
+1520,145,"MEX","Mexico",30,"Veracruz",1520,"Castillo de Teayo","Municipio","Municipality",NA,NA
+1521,145,"MEX","Mexico",30,"Veracruz",1521,"Catemaco","Municipio","Municipality",NA,NA
+1522,145,"MEX","Mexico",30,"Veracruz",1522,"Cazones de Herrera","Municipio","Municipality",NA,NA
+1523,145,"MEX","Mexico",30,"Veracruz",1523,"Cerro Azul","Municipio","Municipality",NA,NA
+1524,145,"MEX","Mexico",30,"Veracruz",1524,"Chacaltianguis","Municipio","Municipality",NA,NA
+1525,145,"MEX","Mexico",30,"Veracruz",1525,"Chalma","Municipio","Municipality",NA,NA
+1526,145,"MEX","Mexico",30,"Veracruz",1526,"Chiconamel","Municipio","Municipality",NA,NA
+1527,145,"MEX","Mexico",30,"Veracruz",1527,"Chiconquiaco","Municipio","Municipality",NA,NA
+1528,145,"MEX","Mexico",30,"Veracruz",1528,"Chicontepec","Municipio","Municipality",NA,NA
+1529,145,"MEX","Mexico",30,"Veracruz",1529,"Chinameca","Municipio","Municipality",NA,NA
+1530,145,"MEX","Mexico",30,"Veracruz",1530,"Chinampa de Gorostiza","Municipio","Municipality",NA,NA
+1531,145,"MEX","Mexico",30,"Veracruz",1531,"Chocomán","Municipio","Municipality",NA,NA
+1532,145,"MEX","Mexico",30,"Veracruz",1532,"Chontla","Municipio","Municipality",NA,NA
+1533,145,"MEX","Mexico",30,"Veracruz",1533,"Chumatlán","Municipio","Municipality",NA,NA
+1534,145,"MEX","Mexico",30,"Veracruz",1534,"Citlaltépetl","Municipio","Municipality",NA,NA
+1535,145,"MEX","Mexico",30,"Veracruz",1535,"Coacoatzintla","Municipio","Municipality",NA,"Coatcoatzintla"
+1536,145,"MEX","Mexico",30,"Veracruz",1536,"Coatepec","Municipio","Municipality",NA,NA
+1537,145,"MEX","Mexico",30,"Veracruz",1537,"Coatzacoalcos","Municipio","Municipality",NA,NA
+1538,145,"MEX","Mexico",30,"Veracruz",1538,"Coatzintla","Municipio","Municipality",NA,NA
+1539,145,"MEX","Mexico",30,"Veracruz",1539,"Coetzala","Municipio","Municipality",NA,NA
+1540,145,"MEX","Mexico",30,"Veracruz",1540,"Colipa","Municipio","Municipality",NA,NA
+1541,145,"MEX","Mexico",30,"Veracruz",1541,"Comapa","Municipio","Municipality",NA,NA
+1542,145,"MEX","Mexico",30,"Veracruz",1542,"Cosamaloapan","Municipio","Municipality",NA,NA
+1543,145,"MEX","Mexico",30,"Veracruz",1543,"Cosautlán de Carvajal","Municipio","Municipality",NA,"Cosautlan de Carvajal"
+1544,145,"MEX","Mexico",30,"Veracruz",1544,"Coscomatepec","Municipio","Municipality",NA,NA
+1545,145,"MEX","Mexico",30,"Veracruz",1545,"Cosoleacaque","Municipio","Municipality",NA,NA
+1546,145,"MEX","Mexico",30,"Veracruz",1546,"Cotaxtla","Municipio","Municipality",NA,NA
+1547,145,"MEX","Mexico",30,"Veracruz",1547,"Coxquihi","Municipio","Municipality",NA,"Coxquihui"
+1548,145,"MEX","Mexico",30,"Veracruz",1548,"Coyutla","Municipio","Municipality",NA,NA
+1549,145,"MEX","Mexico",30,"Veracruz",1549,"Cuichapa","Municipio","Municipality",NA,NA
+1550,145,"MEX","Mexico",30,"Veracruz",1550,"Cuitláhuac","Municipio","Municipality",NA,"Cuitlahuac"
+1551,145,"MEX","Mexico",30,"Veracruz",1551,"Emiliano Zapata","Municipio","Municipality",NA,NA
+1552,145,"MEX","Mexico",30,"Veracruz",1552,"Espinal","Municipio","Municipality",NA,NA
+1553,145,"MEX","Mexico",30,"Veracruz",1553,"Filomeno Mata","Municipio","Municipality",NA,NA
+1554,145,"MEX","Mexico",30,"Veracruz",1554,"Fortín","Municipio","Municipality",NA,"Fortin"
+1555,145,"MEX","Mexico",30,"Veracruz",1555,"Gutiérrez Zamora","Municipio","Municipality",NA,"Gutierrez Zamora"
+1556,145,"MEX","Mexico",30,"Veracruz",1556,"Hidalgotitlán","Municipio","Municipality",NA,"Hidalgotitlan"
+1557,145,"MEX","Mexico",30,"Veracruz",1557,"Huatusco","Municipio","Municipality",NA,NA
+1558,145,"MEX","Mexico",30,"Veracruz",1558,"Huayacocotla","Municipio","Municipality",NA,NA
+1559,145,"MEX","Mexico",30,"Veracruz",1559,"Hueyapan de Ocampo","Municipio","Municipality",NA,NA
+1560,145,"MEX","Mexico",30,"Veracruz",1560,"Huiloapan de Cuauhtémoc","Municipio","Municipality",NA,"Huiloapan de Cuahtemoc"
+1561,145,"MEX","Mexico",30,"Veracruz",1561,"Ignacio de la Llave","Municipio","Municipality",NA,NA
+1562,145,"MEX","Mexico",30,"Veracruz",1562,"Ilamatlán","Municipio","Municipality",NA,"Ilamatlan"
+1563,145,"MEX","Mexico",30,"Veracruz",1563,"Isla","Municipio","Municipality",NA,NA
+1564,145,"MEX","Mexico",30,"Veracruz",1564,"Ixcatepec","Municipio","Municipality",NA,NA
+1565,145,"MEX","Mexico",30,"Veracruz",1565,"Ixhuacán de los Reyes","Municipio","Municipality",NA,"Ixhuacan de los Reyes"
+1566,145,"MEX","Mexico",30,"Veracruz",1566,"Ixhuatlán de Madero","Municipio","Municipality",NA,"Ixhuatlan de Madero"
+1567,145,"MEX","Mexico",30,"Veracruz",1567,"Ixhuatlán del Café","Municipio","Municipality",NA,"Ixhuatlan del Cafe"
+1568,145,"MEX","Mexico",30,"Veracruz",1568,"Ixhuatlán del Sureste","Municipio","Municipality",NA,"Ixhuatlan del Sureste"
+1569,145,"MEX","Mexico",30,"Veracruz",1569,"Ixhuatlancillo","Municipio","Municipality",NA,NA
+1570,145,"MEX","Mexico",30,"Veracruz",1570,"Ixmatlahuacan","Municipio","Municipality",NA,NA
+1571,145,"MEX","Mexico",30,"Veracruz",1571,"Ixtaczoquitlán","Municipio","Municipality",NA,"Ixtaczoquitlan"
+1572,145,"MEX","Mexico",30,"Veracruz",1572,"Jáltipan","Municipio","Municipality",NA,"Jaltipan"
+1573,145,"MEX","Mexico",30,"Veracruz",1573,"Jalancingo","Municipio","Municipality",NA,"Jalacingo"
+1574,145,"MEX","Mexico",30,"Veracruz",1574,"Jalcomulco","Municipio","Municipality",NA,NA
+1575,145,"MEX","Mexico",30,"Veracruz",1575,"Jamapa","Municipio","Municipality",NA,NA
+1576,145,"MEX","Mexico",30,"Veracruz",1576,"Jesús Carranza","Municipio","Municipality",NA,"Jesus Carranza"
+1577,145,"MEX","Mexico",30,"Veracruz",1577,"Jilotepec","Municipio","Municipality",NA,NA
+1578,145,"MEX","Mexico",30,"Veracruz",1578,"José Azueta","Municipio","Municipality",NA,"Jose Azueta"
+1579,145,"MEX","Mexico",30,"Veracruz",1579,"Juan Rodríguez Clara","Municipio","Municipality",NA,"Juan Rodriguez Clara"
+1580,145,"MEX","Mexico",30,"Veracruz",1580,"Juchique de Ferrer","Municipio","Municipality",NA,NA
+1581,145,"MEX","Mexico",30,"Veracruz",1581,"La Antigua","Municipio","Municipality",NA,NA
+1582,145,"MEX","Mexico",30,"Veracruz",1582,"La Perla","Municipio","Municipality",NA,NA
+1583,145,"MEX","Mexico",30,"Veracruz",1583,"Landero y Coss","Municipio","Municipality",NA,"Ladero y Coss"
+1584,145,"MEX","Mexico",30,"Veracruz",1584,"Las Choapas","Municipio","Municipality",NA,NA
+1585,145,"MEX","Mexico",30,"Veracruz",1585,"Las Minas","Municipio","Municipality",NA,NA
+1586,145,"MEX","Mexico",30,"Veracruz",1586,"Las Vigas de Ramírez","Municipio","Municipality",NA,"Las Vigas de Ramirez"
+1587,145,"MEX","Mexico",30,"Veracruz",1587,"Lerdo de Tejada","Municipio","Municipality",NA,NA
+1588,145,"MEX","Mexico",30,"Veracruz",1588,"Los Reyes","Municipio","Municipality",NA,NA
+1589,145,"MEX","Mexico",30,"Veracruz",1589,"Magdalena","Municipio","Municipality",NA,NA
+1590,145,"MEX","Mexico",30,"Veracruz",1590,"Maltrata","Municipio","Municipality",NA,NA
+1591,145,"MEX","Mexico",30,"Veracruz",1591,"Manlio Fabio Altamirano","Municipio","Municipality",NA,"Manlio Fabio Altamiro"
+1592,145,"MEX","Mexico",30,"Veracruz",1592,"Mariano Escobedo","Municipio","Municipality",NA,NA
+1593,145,"MEX","Mexico",30,"Veracruz",1593,"Martínez de la Torre","Municipio","Municipality",NA,"Martinez de la Torre"
+1594,145,"MEX","Mexico",30,"Veracruz",1594,"Mecatlán","Municipio","Municipality",NA,"Mecatlan"
+1595,145,"MEX","Mexico",30,"Veracruz",1595,"Mecayapan","Municipio","Municipality",NA,NA
+1596,145,"MEX","Mexico",30,"Veracruz",1596,"Medellín","Municipio","Municipality",NA,"Medellin"
+1597,145,"MEX","Mexico",30,"Veracruz",1597,"Mihuatlán","Municipio","Municipality",NA,"Miahuatlan"
+1598,145,"MEX","Mexico",30,"Veracruz",1598,"Minatitlán","Municipio","Municipality",NA,"Minatitlan"
+1599,145,"MEX","Mexico",30,"Veracruz",1599,"Misantla","Municipio","Municipality",NA,NA
+1600,145,"MEX","Mexico",30,"Veracruz",1600,"Mixtla de Altamirano","Municipio","Municipality",NA,NA
+1601,145,"MEX","Mexico",30,"Veracruz",1601,"Moloacán","Municipio","Municipality",NA,"Moloacan"
+1602,145,"MEX","Mexico",30,"Veracruz",1602,"Naolinco","Municipio","Municipality",NA,NA
+1603,145,"MEX","Mexico",30,"Veracruz",1603,"Naranjal","Municipio","Municipality",NA,NA
+1604,145,"MEX","Mexico",30,"Veracruz",1604,"Nautla","Municipio","Municipality",NA,NA
+1605,145,"MEX","Mexico",30,"Veracruz",1605,"Nogales","Municipio","Municipality",NA,NA
+1606,145,"MEX","Mexico",30,"Veracruz",1606,"Oluta","Municipio","Municipality",NA,"Olutla"
+1607,145,"MEX","Mexico",30,"Veracruz",1607,"Omealca","Municipio","Municipality",NA,NA
+1608,145,"MEX","Mexico",30,"Veracruz",1608,"Orizaba","Municipio","Municipality",NA,NA
+1609,145,"MEX","Mexico",30,"Veracruz",1609,"Otatitlán","Municipio","Municipality",NA,"Otatitlan"
+1610,145,"MEX","Mexico",30,"Veracruz",1610,"Oteapan","Municipio","Municipality",NA,NA
+1611,145,"MEX","Mexico",30,"Veracruz",1611,"Ozuluama","Municipio","Municipality",NA,NA
+1612,145,"MEX","Mexico",30,"Veracruz",1612,"Pánuco","Municipio","Municipality",NA,"Panuco"
+1613,145,"MEX","Mexico",30,"Veracruz",1613,"Pajapan","Municipio","Municipality",NA,NA
+1614,145,"MEX","Mexico",30,"Veracruz",1614,"Papantla","Municipio","Municipality",NA,NA
+1615,145,"MEX","Mexico",30,"Veracruz",1615,"Paso de Ovejas","Municipio","Municipality",NA,NA
+1616,145,"MEX","Mexico",30,"Veracruz",1616,"Paso del Macho","Municipio","Municipality",NA,NA
+1617,145,"MEX","Mexico",30,"Veracruz",1617,"Perote","Municipio","Municipality",NA,NA
+1618,145,"MEX","Mexico",30,"Veracruz",1618,"Platón Sánchez","Municipio","Municipality",NA,"Platon Sanchez"
+1619,145,"MEX","Mexico",30,"Veracruz",1619,"Playa Vicente","Municipio","Municipality",NA,NA
+1620,145,"MEX","Mexico",30,"Veracruz",1620,"Poza Rica de Hidalgo","Municipio","Municipality",NA,NA
+1621,145,"MEX","Mexico",30,"Veracruz",1621,"Progreso de Zaragoza","Municipio","Municipality",NA,NA
+1622,145,"MEX","Mexico",30,"Veracruz",1622,"Pueblo Viejo","Municipio","Municipality",NA,NA
+1623,145,"MEX","Mexico",30,"Veracruz",1623,"Puente Nacional","Municipio","Municipality",NA,NA
+1624,145,"MEX","Mexico",30,"Veracruz",1624,"Rafael Delgado","Municipio","Municipality",NA,NA
+1625,145,"MEX","Mexico",30,"Veracruz",1625,"Rafael Lucio","Municipio","Municipality",NA,NA
+1626,145,"MEX","Mexico",30,"Veracruz",1626,"Río Blanco","Municipio","Municipality",NA,"Rio Blanco"
+1627,145,"MEX","Mexico",30,"Veracruz",1627,"Saltabarranca","Municipio","Municipality",NA,NA
+1628,145,"MEX","Mexico",30,"Veracruz",1628,"San Andrés Tenejapan","Municipio","Municipality",NA,"San Andres Tenejapan"
+1629,145,"MEX","Mexico",30,"Veracruz",1629,"San Andrés Tuxtla","Municipio","Municipality",NA,"San Andres Tuxtla"
+1630,145,"MEX","Mexico",30,"Veracruz",1630,"San Juan Evangelista","Municipio","Municipality",NA,NA
+1631,145,"MEX","Mexico",30,"Veracruz",1631,"Santiago Tuxtla","Municipio","Municipality",NA,NA
+1632,145,"MEX","Mexico",30,"Veracruz",1632,"Sayula de Alemán","Municipio","Municipality",NA,"Sayula de Aleman"
+1633,145,"MEX","Mexico",30,"Veracruz",1633,"Sochiapa","Municipio","Municipality",NA,NA
+1634,145,"MEX","Mexico",30,"Veracruz",1634,"Soconusco","Municipio","Municipality",NA,NA
+1635,145,"MEX","Mexico",30,"Veracruz",1635,"Soledad Atzompa","Municipio","Municipality",NA,NA
+1636,145,"MEX","Mexico",30,"Veracruz",1636,"Soledad de Doblado","Municipio","Municipality",NA,NA
+1637,145,"MEX","Mexico",30,"Veracruz",1637,"Soteapan","Municipio","Municipality",NA,NA
+1638,145,"MEX","Mexico",30,"Veracruz",1638,"Tamalín","Municipio","Municipality",NA,"Tamalin"
+1639,145,"MEX","Mexico",30,"Veracruz",1639,"Tamiahua","Municipio","Municipality",NA,NA
+1640,145,"MEX","Mexico",30,"Veracruz",1640,"Tampico Alto","Municipio","Municipality",NA,NA
+1641,145,"MEX","Mexico",30,"Veracruz",1641,"Tancoco","Municipio","Municipality",NA,NA
+1642,145,"MEX","Mexico",30,"Veracruz",1642,"Tantima","Municipio","Municipality",NA,NA
+1643,145,"MEX","Mexico",30,"Veracruz",1643,"Tantoyuca","Municipio","Municipality",NA,NA
+1644,145,"MEX","Mexico",30,"Veracruz",1644,"Tatatila","Municipio","Municipality",NA,NA
+1645,145,"MEX","Mexico",30,"Veracruz",1645,"Tecolutla","Municipio","Municipality",NA,NA
+1646,145,"MEX","Mexico",30,"Veracruz",1646,"Tehuipango","Municipio","Municipality",NA,NA
+1647,145,"MEX","Mexico",30,"Veracruz",1647,"Temapache","Municipio","Municipality",NA,NA
+1648,145,"MEX","Mexico",30,"Veracruz",1648,"Tempoal","Municipio","Municipality",NA,NA
+1649,145,"MEX","Mexico",30,"Veracruz",1649,"Tenampa","Municipio","Municipality",NA,NA
+1650,145,"MEX","Mexico",30,"Veracruz",1650,"Tenochtitlán","Municipio","Municipality",NA,"Tenochtitlan"
+1651,145,"MEX","Mexico",30,"Veracruz",1651,"Teocelo","Municipio","Municipality",NA,NA
+1652,145,"MEX","Mexico",30,"Veracruz",1652,"Tepatlaxco","Municipio","Municipality",NA,NA
+1653,145,"MEX","Mexico",30,"Veracruz",1653,"Tepetlán","Municipio","Municipality",NA,NA
+1654,145,"MEX","Mexico",30,"Veracruz",1654,"Tepetzintla","Municipio","Municipality",NA,NA
+1655,145,"MEX","Mexico",30,"Veracruz",1655,"Tequila","Municipio","Municipality",NA,NA
+1656,145,"MEX","Mexico",30,"Veracruz",1656,"Texcatepec","Municipio","Municipality",NA,NA
+1657,145,"MEX","Mexico",30,"Veracruz",1657,"Texhuacán","Municipio","Municipality",NA,"Texhuacan"
+1658,145,"MEX","Mexico",30,"Veracruz",1658,"Texistepec","Municipio","Municipality",NA,NA
+1659,145,"MEX","Mexico",30,"Veracruz",1659,"Tezonapa","Municipio","Municipality",NA,NA
+1660,145,"MEX","Mexico",30,"Veracruz",1660,"Tierra Blanca","Municipio","Municipality",NA,NA
+1661,145,"MEX","Mexico",30,"Veracruz",1661,"Tihuatlán","Municipio","Municipality",NA,NA
+1662,145,"MEX","Mexico",30,"Veracruz",1662,"Tlachichilco","Municipio","Municipality",NA,NA
+1663,145,"MEX","Mexico",30,"Veracruz",1663,"Tlacolulan","Municipio","Municipality",NA,NA
+1664,145,"MEX","Mexico",30,"Veracruz",1664,"Tlacotalpan","Municipio","Municipality",NA,"Tlacoltapan"
+1665,145,"MEX","Mexico",30,"Veracruz",1665,"Tlacotepec de Mejía","Municipio","Municipality",NA,NA
+1666,145,"MEX","Mexico",30,"Veracruz",1666,"Tlajocalpan","Municipio","Municipality",NA,NA
+1667,145,"MEX","Mexico",30,"Veracruz",1667,"Tlalixcoyan","Municipio","Municipality",NA,NA
+1668,145,"MEX","Mexico",30,"Veracruz",1668,"Tlalnelhuayocan","Municipio","Municipality",NA,NA
+1669,145,"MEX","Mexico",30,"Veracruz",1669,"Tlaltetela","Municipio","Municipality",NA,NA
+1670,145,"MEX","Mexico",30,"Veracruz",1670,"Tlapacoyan","Municipio","Municipality",NA,NA
+1671,145,"MEX","Mexico",30,"Veracruz",1671,"Tlaquilpan","Municipio","Municipality",NA,NA
+1672,145,"MEX","Mexico",30,"Veracruz",1672,"Tlilapan","Municipio","Municipality",NA,NA
+1673,145,"MEX","Mexico",30,"Veracruz",1673,"Tomatlán","Municipio","Municipality",NA,NA
+1674,145,"MEX","Mexico",30,"Veracruz",1674,"Tonayán","Municipio","Municipality",NA,NA
+1675,145,"MEX","Mexico",30,"Veracruz",1675,"Totutla","Municipio","Municipality",NA,NA
+1676,145,"MEX","Mexico",30,"Veracruz",1676,"Tuxpan","Municipio","Municipality",NA,NA
+1677,145,"MEX","Mexico",30,"Veracruz",1677,"Tuxtilla","Municipio","Municipality",NA,NA
+1678,145,"MEX","Mexico",30,"Veracruz",1678,"Vega de Alatorre","Municipio","Municipality",NA,NA
+1679,145,"MEX","Mexico",30,"Veracruz",1679,"Veracruz","Municipio","Municipality",NA,NA
+1680,145,"MEX","Mexico",30,"Veracruz",1680,"Villa Aldama","Municipio","Municipality",NA,NA
+1681,145,"MEX","Mexico",30,"Veracruz",1681,"Xalapa","Municipio","Municipality",NA,NA
+1682,145,"MEX","Mexico",30,"Veracruz",1682,"Xico","Municipio","Municipality",NA,NA
+1683,145,"MEX","Mexico",30,"Veracruz",1683,"Xoxocotla","Municipio","Municipality",NA,NA
+1684,145,"MEX","Mexico",30,"Veracruz",1684,"Yanga","Municipio","Municipality",NA,NA
+1685,145,"MEX","Mexico",30,"Veracruz",1685,"Yecuatla","Municipio","Municipality",NA,"Yecuatlan"
+1686,145,"MEX","Mexico",30,"Veracruz",1686,"Zacualpan","Municipio","Municipality",NA,NA
+1687,145,"MEX","Mexico",30,"Veracruz",1687,"Zaragoza","Municipio","Municipality",NA,NA
+1688,145,"MEX","Mexico",30,"Veracruz",1688,"Zentla","Municipio","Municipality",NA,NA
+1689,145,"MEX","Mexico",30,"Veracruz",1689,"Zongolica","Municipio","Municipality",NA,NA
+1690,145,"MEX","Mexico",30,"Veracruz",1690,"Zontecomatlán","Municipio","Municipality",NA,"Zontecomatlan"
+1691,145,"MEX","Mexico",30,"Veracruz",1691,"Zozocolco de Hidalgo","Municipio","Municipality",NA,NA
+1692,145,"MEX","Mexico",31,"Yucatán",1692,"Abalá","Municipio","Municipality",NA,"Abala"
+1693,145,"MEX","Mexico",31,"Yucatán",1693,"Acanceh","Municipio","Municipality",NA,NA
+1694,145,"MEX","Mexico",31,"Yucatán",1694,"Akil","Municipio","Municipality",NA,NA
+1695,145,"MEX","Mexico",31,"Yucatán",1695,"Baca","Municipio","Municipality",NA,NA
+1696,145,"MEX","Mexico",31,"Yucatán",1696,"Bokobá","Municipio","Municipality",NA,"Bokova"
+1697,145,"MEX","Mexico",31,"Yucatán",1697,"Buctzotz","Municipio","Municipality",NA,NA
+1698,145,"MEX","Mexico",31,"Yucatán",1698,"Cacalchén","Municipio","Municipality",NA,"Cacalchen"
+1699,145,"MEX","Mexico",31,"Yucatán",1699,"Calotmul","Municipio","Municipality",NA,NA
+1700,145,"MEX","Mexico",31,"Yucatán",1700,"Cansahcab","Municipio","Municipality",NA,NA
+1701,145,"MEX","Mexico",31,"Yucatán",1701,"Cantamayec","Municipio","Municipality",NA,NA
+1702,145,"MEX","Mexico",31,"Yucatán",1702,"Celestún","Municipio","Municipality",NA,"Celestun"
+1703,145,"MEX","Mexico",31,"Yucatán",1703,"Cenotillo","Municipio","Municipality",NA,NA
+1704,145,"MEX","Mexico",31,"Yucatán",1704,"Chacsinkín","Municipio","Municipality",NA,"Chacsinkin"
+1705,145,"MEX","Mexico",31,"Yucatán",1705,"Chankom","Municipio","Municipality",NA,NA
+1706,145,"MEX","Mexico",31,"Yucatán",1706,"Chapab","Municipio","Municipality",NA,NA
+1707,145,"MEX","Mexico",31,"Yucatán",1707,"Chemax","Municipio","Municipality",NA,NA
+1708,145,"MEX","Mexico",31,"Yucatán",1708,"Chichimilá","Municipio","Municipality",NA,"Chichimila"
+1709,145,"MEX","Mexico",31,"Yucatán",1709,"Chicxulub Pueblo","Municipio","Municipality",NA,NA
+1710,145,"MEX","Mexico",31,"Yucatán",1710,"Chikindzonot","Municipio","Municipality",NA,NA
+1711,145,"MEX","Mexico",31,"Yucatán",1711,"Chocholá","Municipio","Municipality",NA,NA
+1712,145,"MEX","Mexico",31,"Yucatán",1712,"Chumayel","Municipio","Municipality",NA,NA
+1713,145,"MEX","Mexico",31,"Yucatán",1713,"Conkal","Municipio","Municipality",NA,NA
+1714,145,"MEX","Mexico",31,"Yucatán",1714,"Cuncunul","Municipio","Municipality",NA,NA
+1715,145,"MEX","Mexico",31,"Yucatán",1715,"Cuzamá","Municipio","Municipality",NA,"Cuzama"
+1716,145,"MEX","Mexico",31,"Yucatán",1716,"Dzan","Municipio","Municipality",NA,NA
+1717,145,"MEX","Mexico",31,"Yucatán",1717,"Dzemul","Municipio","Municipality",NA,NA
+1718,145,"MEX","Mexico",31,"Yucatán",1718,"Dzidzantún","Municipio","Municipality",NA,"Dzidzantun"
+1719,145,"MEX","Mexico",31,"Yucatán",1719,"Dzilam de Bravo","Municipio","Municipality",NA,NA
+1720,145,"MEX","Mexico",31,"Yucatán",1720,"Dzilam González","Municipio","Municipality",NA,"Dzilam Gonzalez"
+1721,145,"MEX","Mexico",31,"Yucatán",1721,"Dzitás","Municipio","Municipality",NA,"Dzitas"
+1722,145,"MEX","Mexico",31,"Yucatán",1722,"Dzoncauich","Municipio","Municipality",NA,NA
+1723,145,"MEX","Mexico",31,"Yucatán",1723,"Espita","Municipio","Municipality",NA,NA
+1724,145,"MEX","Mexico",31,"Yucatán",1724,"Halachó","Municipio","Municipality",NA,"Halacho"
+1725,145,"MEX","Mexico",31,"Yucatán",1725,"Hocabá","Municipio","Municipality",NA,"Hocaba"
+1726,145,"MEX","Mexico",31,"Yucatán",1726,"Hoctún","Municipio","Municipality",NA,"Hoctun"
+1727,145,"MEX","Mexico",31,"Yucatán",1727,"Homún","Municipio","Municipality",NA,"Homun"
+1728,145,"MEX","Mexico",31,"Yucatán",1728,"Huhí","Municipio","Municipality",NA,"Huhi"
+1729,145,"MEX","Mexico",31,"Yucatán",1729,"Hunucmá","Municipio","Municipality",NA,"Hunucma"
+1730,145,"MEX","Mexico",31,"Yucatán",1730,"Ixil","Municipio","Municipality",NA,NA
+1731,145,"MEX","Mexico",31,"Yucatán",1731,"Izamal","Municipio","Municipality",NA,NA
+1732,145,"MEX","Mexico",31,"Yucatán",1732,"Kanasín","Municipio","Municipality",NA,"Kanasin"
+1733,145,"MEX","Mexico",31,"Yucatán",1733,"Kantunil","Municipio","Municipality",NA,NA
+1734,145,"MEX","Mexico",31,"Yucatán",1734,"Kaua","Municipio","Municipality",NA,NA
+1735,145,"MEX","Mexico",31,"Yucatán",1735,"Kinchil","Municipio","Municipality",NA,NA
+1736,145,"MEX","Mexico",31,"Yucatán",1736,"Kopomá","Municipio","Municipality",NA,"Kopoma"
+1737,145,"MEX","Mexico",31,"Yucatán",1737,"Mérida","Municipio","Municipality",NA,"Merida"
+1738,145,"MEX","Mexico",31,"Yucatán",1738,"Mama","Municipio","Municipality",NA,NA
+1739,145,"MEX","Mexico",31,"Yucatán",1739,"Maní","Municipio","Municipality",NA,"Mani"
+1740,145,"MEX","Mexico",31,"Yucatán",1740,"Maxcanú","Municipio","Municipality",NA,"Maxcanu"
+1741,145,"MEX","Mexico",31,"Yucatán",1741,"Mayapán","Municipio","Municipality",NA,"Mayapan"
+1742,145,"MEX","Mexico",31,"Yucatán",1742,"Mocochá","Municipio","Municipality",NA,"Mococha"
+1743,145,"MEX","Mexico",31,"Yucatán",1743,"Motul","Municipio","Municipality",NA,NA
+1744,145,"MEX","Mexico",31,"Yucatán",1744,"Muna","Municipio","Municipality",NA,NA
+1745,145,"MEX","Mexico",31,"Yucatán",1745,"Muxupip","Municipio","Municipality",NA,NA
+1746,145,"MEX","Mexico",31,"Yucatán",1746,"Opichén","Municipio","Municipality",NA,"Opichen"
+1747,145,"MEX","Mexico",31,"Yucatán",1747,"Oxkutzcab","Municipio","Municipality",NA,NA
+1748,145,"MEX","Mexico",31,"Yucatán",1748,"Panabá","Municipio","Municipality",NA,"Panaba"
+1749,145,"MEX","Mexico",31,"Yucatán",1749,"Peto","Municipio","Municipality",NA,NA
+1750,145,"MEX","Mexico",31,"Yucatán",1750,"Progreso","Municipio","Municipality",NA,NA
+1751,145,"MEX","Mexico",31,"Yucatán",1751,"Quintana Roo","Municipio","Municipality",NA,NA
+1752,145,"MEX","Mexico",31,"Yucatán",1752,"Río Lagartos","Municipio","Municipality",NA,"Rio Lagartos"
+1753,145,"MEX","Mexico",31,"Yucatán",1753,"Sacalum","Municipio","Municipality",NA,NA
+1754,145,"MEX","Mexico",31,"Yucatán",1754,"Samahil","Municipio","Municipality",NA,NA
+1755,145,"MEX","Mexico",31,"Yucatán",1755,"San Felipe","Municipio","Municipality",NA,NA
+1756,145,"MEX","Mexico",31,"Yucatán",1756,"Sanahcat","Municipio","Municipality",NA,NA
+1757,145,"MEX","Mexico",31,"Yucatán",1757,"Santa Elena","Municipio","Municipality",NA,NA
+1758,145,"MEX","Mexico",31,"Yucatán",1758,"Seyé","Municipio","Municipality",NA,"Seye"
+1759,145,"MEX","Mexico",31,"Yucatán",1759,"Sinanché","Municipio","Municipality",NA,"Sinanche"
+1760,145,"MEX","Mexico",31,"Yucatán",1760,"Sotuta","Municipio","Municipality",NA,NA
+1761,145,"MEX","Mexico",31,"Yucatán",1761,"Sucilá","Municipio","Municipality",NA,"Sucila"
+1762,145,"MEX","Mexico",31,"Yucatán",1762,"Sudzal","Municipio","Municipality",NA,NA
+1763,145,"MEX","Mexico",31,"Yucatán",1763,"Suma","Municipio","Municipality",NA,NA
+1764,145,"MEX","Mexico",31,"Yucatán",1764,"Tahdziú","Municipio","Municipality",NA,"Tahdziu"
+1765,145,"MEX","Mexico",31,"Yucatán",1765,"Tahmek","Municipio","Municipality",NA,NA
+1766,145,"MEX","Mexico",31,"Yucatán",1766,"Teabo","Municipio","Municipality",NA,NA
+1767,145,"MEX","Mexico",31,"Yucatán",1767,"Tecoh","Municipio","Municipality",NA,NA
+1768,145,"MEX","Mexico",31,"Yucatán",1768,"Tekal de Venegas","Municipio","Municipality",NA,NA
+1769,145,"MEX","Mexico",31,"Yucatán",1769,"Tekantó","Municipio","Municipality",NA,NA
+1770,145,"MEX","Mexico",31,"Yucatán",1770,"Tekax","Municipio","Municipality",NA,NA
+1771,145,"MEX","Mexico",31,"Yucatán",1771,"Tekit","Municipio","Municipality",NA,NA
+1772,145,"MEX","Mexico",31,"Yucatán",1772,"Tekom","Municipio","Municipality",NA,NA
+1773,145,"MEX","Mexico",31,"Yucatán",1773,"Telchac Pueblo","Municipio","Municipality",NA,NA
+1774,145,"MEX","Mexico",31,"Yucatán",1774,"Telchac Puerto","Municipio","Municipality",NA,NA
+1775,145,"MEX","Mexico",31,"Yucatán",1775,"Temax","Municipio","Municipality",NA,NA
+1776,145,"MEX","Mexico",31,"Yucatán",1776,"Temozón","Municipio","Municipality",NA,"Temozon"
+1777,145,"MEX","Mexico",31,"Yucatán",1777,"Tepakán","Municipio","Municipality",NA,NA
+1778,145,"MEX","Mexico",31,"Yucatán",1778,"Tetiz","Municipio","Municipality",NA,NA
+1779,145,"MEX","Mexico",31,"Yucatán",1779,"Teya","Municipio","Municipality",NA,NA
+1780,145,"MEX","Mexico",31,"Yucatán",1780,"Ticul","Municipio","Municipality",NA,NA
+1781,145,"MEX","Mexico",31,"Yucatán",1781,"Timucuy","Municipio","Municipality",NA,NA
+1782,145,"MEX","Mexico",31,"Yucatán",1782,"Tinúm","Municipio","Municipality",NA,NA
+1783,145,"MEX","Mexico",31,"Yucatán",1783,"Tixcacalcupul","Municipio","Municipality",NA,NA
+1784,145,"MEX","Mexico",31,"Yucatán",1784,"Tixkokob","Municipio","Municipality",NA,NA
+1785,145,"MEX","Mexico",31,"Yucatán",1785,"Tixméhuac","Municipio","Municipality",NA,"Tixmehuac"
+1786,145,"MEX","Mexico",31,"Yucatán",1786,"Tixpéhual","Municipio","Municipality",NA,"Tixpehual"
+1787,145,"MEX","Mexico",31,"Yucatán",1787,"Tizimín","Municipio","Municipality",NA,NA
+1788,145,"MEX","Mexico",31,"Yucatán",1788,"Tunkás","Municipio","Municipality",NA,"Tunkas"
+1789,145,"MEX","Mexico",31,"Yucatán",1789,"Tzucacab","Municipio","Municipality",NA,NA
+1790,145,"MEX","Mexico",31,"Yucatán",1790,"Uayma","Municipio","Municipality",NA,NA
+1791,145,"MEX","Mexico",31,"Yucatán",1791,"Ucú","Municipio","Municipality",NA,"Ucu"
+1792,145,"MEX","Mexico",31,"Yucatán",1792,"Umán","Municipio","Municipality",NA,"Uman"
+1793,145,"MEX","Mexico",31,"Yucatán",1793,"Valladolid","Municipio","Municipality",NA,NA
+1794,145,"MEX","Mexico",31,"Yucatán",1794,"Xocchel","Municipio","Municipality",NA,NA
+1795,145,"MEX","Mexico",31,"Yucatán",1795,"Yaxcabá","Municipio","Municipality",NA,"Yaxcaba"
+1796,145,"MEX","Mexico",31,"Yucatán",1796,"Yaxkukul","Municipio","Municipality",NA,NA
+1797,145,"MEX","Mexico",31,"Yucatán",1797,"Yobaín","Municipio","Municipality",NA,NA
+1798,145,"MEX","Mexico",32,"Zacatecas",1798,"Apozol","Municipio","Municipality",NA,NA
+1799,145,"MEX","Mexico",32,"Zacatecas",1799,"Apulco","Municipio","Municipality",NA,NA
+1800,145,"MEX","Mexico",32,"Zacatecas",1800,"Atolinga","Municipio","Municipality",NA,NA
+1801,145,"MEX","Mexico",32,"Zacatecas",1801,"Benito Juárez","Municipio","Municipality",NA,NA
+1802,145,"MEX","Mexico",32,"Zacatecas",1802,"Cañitas de Felipe Pescador","Municipio","Municipality",NA,NA
+1803,145,"MEX","Mexico",32,"Zacatecas",1803,"Calera","Municipio","Municipality",NA,NA
+1804,145,"MEX","Mexico",32,"Zacatecas",1804,"Chalchihuites","Municipio","Municipality",NA,NA
+1805,145,"MEX","Mexico",32,"Zacatecas",1805,"Concepción del Oro","Municipio","Municipality",NA,"Concepcion del Oro"
+1806,145,"MEX","Mexico",32,"Zacatecas",1806,"Cuauhtémoc","Municipio","Municipality",NA,"Cuauhtemoc"
+1807,145,"MEX","Mexico",32,"Zacatecas",1807,"El Salvador","Municipio","Municipality",NA,NA
+1808,145,"MEX","Mexico",32,"Zacatecas",1808,"Fresnillo","Municipio","Municipality",NA,NA
+1809,145,"MEX","Mexico",32,"Zacatecas",1809,"Genaro Codina","Municipio","Municipality",NA,NA
+1810,145,"MEX","Mexico",32,"Zacatecas",1810,"General Enrique Estrada","Municipio","Municipality",NA,NA
+1811,145,"MEX","Mexico",32,"Zacatecas",1811,"General Francisco R. Murguía","Municipio","Municipality",NA,"General Francisco R. Murguia"
+1812,145,"MEX","Mexico",32,"Zacatecas",1812,"General Joaquin Amaro","Municipio","Municipality",NA,NA
+1813,145,"MEX","Mexico",32,"Zacatecas",1813,"General Pánfilo Natera","Municipio","Municipality",NA,"General Panfilo Natera"
+1814,145,"MEX","Mexico",32,"Zacatecas",1814,"Guadalupe","Municipio","Municipality",NA,NA
+1815,145,"MEX","Mexico",32,"Zacatecas",1815,"Huanusco","Municipio","Municipality",NA,NA
+1816,145,"MEX","Mexico",32,"Zacatecas",1816,"Jalpa","Municipio","Municipality",NA,NA
+1817,145,"MEX","Mexico",32,"Zacatecas",1817,"Jerez","Municipio","Municipality",NA,NA
+1818,145,"MEX","Mexico",32,"Zacatecas",1818,"Jiménez del Teul","Municipio","Municipality",NA,"Jimenez del Teul"
+1819,145,"MEX","Mexico",32,"Zacatecas",1819,"Juan Aldama","Municipio","Municipality",NA,NA
+1820,145,"MEX","Mexico",32,"Zacatecas",1820,"Juchipila","Municipio","Municipality",NA,NA
+1821,145,"MEX","Mexico",32,"Zacatecas",1821,"Loreto","Municipio","Municipality",NA,NA
+1822,145,"MEX","Mexico",32,"Zacatecas",1822,"Luis Moya","Municipio","Municipality",NA,NA
+1823,145,"MEX","Mexico",32,"Zacatecas",1823,"Mazapil","Municipio","Municipality",NA,NA
+1824,145,"MEX","Mexico",32,"Zacatecas",1824,"Melchor Ocampo","Municipio","Municipality",NA,NA
+1825,145,"MEX","Mexico",32,"Zacatecas",1825,"Mezquital del Oro","Municipio","Municipality",NA,NA
+1826,145,"MEX","Mexico",32,"Zacatecas",1826,"Miguel Auza","Municipio","Municipality",NA,NA
+1827,145,"MEX","Mexico",32,"Zacatecas",1827,"Momax","Municipio","Municipality",NA,NA
+1828,145,"MEX","Mexico",32,"Zacatecas",1828,"Monte Escobedo","Municipio","Municipality",NA,NA
+1829,145,"MEX","Mexico",32,"Zacatecas",1829,"Morelos","Municipio","Municipality",NA,NA
+1830,145,"MEX","Mexico",32,"Zacatecas",1830,"Moyahua de Estrada","Municipio","Municipality",NA,NA
+1831,145,"MEX","Mexico",32,"Zacatecas",1831,"Nochistlán de Mejía","Municipio","Municipality",NA,"Nochistlan de Mejia"
+1832,145,"MEX","Mexico",32,"Zacatecas",1832,"Noria de Angeles","Municipio","Municipality",NA,NA
+1833,145,"MEX","Mexico",32,"Zacatecas",1833,"Ojocaliente","Municipio","Municipality",NA,NA
+1834,145,"MEX","Mexico",32,"Zacatecas",1834,"Pánuco","Municipio","Municipality",NA,"Panuco"
+1835,145,"MEX","Mexico",32,"Zacatecas",1835,"Pinos","Municipio","Municipality",NA,NA
+1836,145,"MEX","Mexico",32,"Zacatecas",1836,"Río Grande","Municipio","Municipality",NA,"Rio Grande"
+1837,145,"MEX","Mexico",32,"Zacatecas",1837,"Saín Alto","Municipio","Municipality",NA,"Sain Alto"
+1838,145,"MEX","Mexico",32,"Zacatecas",1838,"Sombrerete","Municipio","Municipality",NA,NA
+1839,145,"MEX","Mexico",32,"Zacatecas",1839,"Susticacán","Municipio","Municipality",NA,"Susticacan"
+1840,145,"MEX","Mexico",32,"Zacatecas",1840,"Tabasco","Municipio","Municipality",NA,NA
+1841,145,"MEX","Mexico",32,"Zacatecas",1841,"Tepechitlán","Municipio","Municipality",NA,NA
+1842,145,"MEX","Mexico",32,"Zacatecas",1842,"Tepetongo","Municipio","Municipality",NA,NA
+1843,145,"MEX","Mexico",32,"Zacatecas",1843,"Teul de González Ortega","Municipio","Municipality",NA,NA
+1844,145,"MEX","Mexico",32,"Zacatecas",1844,"Tlaltenango de Sánchez Román","Municipio","Municipality",NA,NA
+1845,145,"MEX","Mexico",32,"Zacatecas",1845,"Trinidad García de la Cadena","Municipio","Municipality",NA,"Trinidad Garcia de la Cadena"
+1846,145,"MEX","Mexico",32,"Zacatecas",1846,"Valparaíso","Municipio","Municipality",NA,"Valparaiso"
+1847,145,"MEX","Mexico",32,"Zacatecas",1847,"Vetagrande","Municipio","Municipality",NA,NA
+1848,145,"MEX","Mexico",32,"Zacatecas",1848,"Villa de Cos","Municipio","Municipality",NA,NA
+1849,145,"MEX","Mexico",32,"Zacatecas",1849,"Villa García","Municipio","Municipality",NA,"Villa Garcia"
+1850,145,"MEX","Mexico",32,"Zacatecas",1850,"Villa González Ortega","Municipio","Municipality",NA,"Villa Gonzalez Ortega"
+1851,145,"MEX","Mexico",32,"Zacatecas",1851,"Villa Hidalgo","Municipio","Municipality",NA,NA
+1852,145,"MEX","Mexico",32,"Zacatecas",1852,"Villanueva","Municipio","Municipality",NA,NA
+1853,145,"MEX","Mexico",32,"Zacatecas",1853,"Zacatecas","Municipio","Municipality",NA,NA

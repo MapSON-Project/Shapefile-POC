@@ -85,7 +85,7 @@ function App() {
     if(map.current?.hasControl(mapDraw.current)) {
       map.current?.removeControl(mapDraw.current)
     }
-
+    
     if (!map.current?.getLayer('geojson-map-fill')) {
       map.current?.addLayer({
         id: "geojson-map-fill",

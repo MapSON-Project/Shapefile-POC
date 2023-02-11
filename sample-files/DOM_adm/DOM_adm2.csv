@@ -1,0 +1,176 @@
+"OBJECTID","ID_0","ISO","NAME_0","ID_1","NAME_1","ID_2","NAME_2","TYPE_2","ENGTYPE_2","NL_NAME_2","VARNAME_2"
+1,66,"DOM","Dominican Republic",1,"Azua",1,"Azua de Compostela","Municipality","Municipality",NA,NA
+2,66,"DOM","Dominican Republic",1,"Azua",2,"Estebania","Municipal district","Municipal district",NA,NA
+3,66,"DOM","Dominican Republic",1,"Azua",3,"Guayabal","Municipal district","Municipal district",NA,NA
+4,66,"DOM","Dominican Republic",1,"Azua",4,"Las Charcas","Municipal district","Municipal district",NA,NA
+5,66,"DOM","Dominican Republic",1,"Azua",5,"Las Yayas de Viajama","Municipal district","Municipal district",NA,NA
+6,66,"DOM","Dominican Republic",1,"Azua",6,"Padre Las Casas","Municipality","Municipality",NA,NA
+7,66,"DOM","Dominican Republic",1,"Azua",7,"Peralta","Municipality","Municipality",NA,NA
+8,66,"DOM","Dominican Republic",1,"Azua",8,"Pueblo Viejo","Municipal district","Municipal district",NA,NA
+9,66,"DOM","Dominican Republic",1,"Azua",9,"Sabana Yegua","Municipal district","Municipal district",NA,NA
+10,66,"DOM","Dominican Republic",1,"Azua",10,"Villa Tabara Arriba","Municipality","Municipality",NA,NA
+11,66,"DOM","Dominican Republic",2,"Bahoruco",11,"Galvan","Municipal district","Municipal district",NA,NA
+12,66,"DOM","Dominican Republic",2,"Bahoruco",12,"Los Rios","Municipal district","Municipal district",NA,NA
+13,66,"DOM","Dominican Republic",2,"Bahoruco",13,"Neyba","Municipality","Municipality",NA,NA
+14,66,"DOM","Dominican Republic",2,"Bahoruco",14,"Tamayo","Municipality","Municipality",NA,NA
+15,66,"DOM","Dominican Republic",2,"Bahoruco",15,"Villa Jaragua","Municipality","Municipality",NA,NA
+16,66,"DOM","Dominican Republic",3,"Barahona",16,"Cabral","Municipality","Municipality",NA,NA
+17,66,"DOM","Dominican Republic",3,"Barahona",17,"El Peñón","Municipal district","Municipal district",NA,NA
+18,66,"DOM","Dominican Republic",3,"Barahona",18,"Enriquillo","Municipality","Municipality",NA,NA
+19,66,"DOM","Dominican Republic",3,"Barahona",19,"Fundación","Municipal district","Municipal district",NA,NA
+20,66,"DOM","Dominican Republic",3,"Barahona",20,"Jaquimeyes",NA,NA,NA,NA
+21,66,"DOM","Dominican Republic",3,"Barahona",21,"La Cienaga","Municipal district","Municipal district",NA,NA
+22,66,"DOM","Dominican Republic",3,"Barahona",22,"Las Salinas","Municipal district","Municipal district",NA,NA
+23,66,"DOM","Dominican Republic",3,"Barahona",23,"Paraiso","Municipality","Municipality",NA,NA
+24,66,"DOM","Dominican Republic",3,"Barahona",24,"Polo","Municipal district","Municipal district",NA,NA
+25,66,"DOM","Dominican Republic",3,"Barahona",25,"Santa Cruz de Barahona","Municipality","Municipality",NA,"Barahona"
+26,66,"DOM","Dominican Republic",3,"Barahona",26,"Vicente Noble","Municipality","Municipality",NA,NA
+27,66,"DOM","Dominican Republic",4,"Dajabón",27,"Dajabón","Municipality","Municipality",NA,NA
+28,66,"DOM","Dominican Republic",4,"Dajabón",28,"El Pino","Municipal district","Municipal district",NA,NA
+29,66,"DOM","Dominican Republic",4,"Dajabón",29,"Loma de Cabrera","Municipality","Municipality",NA,NA
+30,66,"DOM","Dominican Republic",4,"Dajabón",30,"Partido
+","Municipal district","Municipal district",NA,NA
+31,66,"DOM","Dominican Republic",4,"Dajabón",31,"Restauración","Municipality","Municipality",NA,NA
+32,66,"DOM","Dominican Republic",5,"Distrito Nacional",32,"Distrito Nacional","Municipality","Municipality",NA,NA
+33,66,"DOM","Dominican Republic",6,"Duarte",33,"Arenoso","Municipality","Municipality",NA,NA
+34,66,"DOM","Dominican Republic",6,"Duarte",34,"Castillo","Municipality","Municipality",NA,NA
+35,66,"DOM","Dominican Republic",6,"Duarte",35,"Hostos","Municipal district","Municipal district",NA,NA
+36,66,"DOM","Dominican Republic",6,"Duarte",36,"Las Guaranas","Municipal district","Municipal district",NA,NA
+37,66,"DOM","Dominican Republic",6,"Duarte",37,"Pimentel","Municipality","Municipality",NA,NA
+38,66,"DOM","Dominican Republic",6,"Duarte",38,"San Francisco de Macorís","Municipality","Municipality",NA,NA
+39,66,"DOM","Dominican Republic",6,"Duarte",39,"Villa Rivas","Municipality","Municipality",NA,NA
+40,66,"DOM","Dominican Republic",7,"El Seybo",40,"Miches","Municipality","Municipality",NA,NA
+41,66,"DOM","Dominican Republic",7,"El Seybo",41,"Santa Cruz del Seybo","Municipality","Municipality",NA,NA
+42,66,"DOM","Dominican Republic",8,"Espaillat",42,"Cayetano Germosén","Municipal district","Municipal district",NA,NA
+43,66,"DOM","Dominican Republic",8,"Espaillat",43,"Gaspar Hernández","Municipality","Municipality",NA,NA
+44,66,"DOM","Dominican Republic",8,"Espaillat",44,"Jamao al Norte","Municipal district","Municipal district",NA,NA
+45,66,"DOM","Dominican Republic",8,"Espaillat",45,"Moca
+","Municipality","Municipality",NA,NA
+46,66,"DOM","Dominican Republic",9,"Hato Mayor",46,"El Valle","Municipality","Municipality",NA,NA
+47,66,"DOM","Dominican Republic",9,"Hato Mayor",47,"Hato Mayor del Rey","Municipality","Municipality",NA,NA
+48,66,"DOM","Dominican Republic",9,"Hato Mayor",48,"Sabana de la Mar","Municipality","Municipality",NA,NA
+49,66,"DOM","Dominican Republic",10,"Independencia",49,"Cristobal","Municipal district","Municipal district",NA,NA
+50,66,"DOM","Dominican Republic",10,"Independencia",50,"Duvergé","Municipality","Municipality",NA,NA
+51,66,"DOM","Dominican Republic",10,"Independencia",51,"Jimaní
+","Municipality","Municipality",NA,NA
+52,66,"DOM","Dominican Republic",10,"Independencia",52,"La Descubierta","Municipality","Municipality",NA,NA
+53,66,"DOM","Dominican Republic",10,"Independencia",53,"Mella","Municipal district","Municipal district",NA,NA
+54,66,"DOM","Dominican Republic",10,"Independencia",54,"Postrer Rio","Municipality","Municipality",NA,NA
+55,66,"DOM","Dominican Republic",11,"La Altagracia",55,"Isla Saona",NA,NA,NA,NA
+56,66,"DOM","Dominican Republic",11,"La Altagracia",56,"La Laguna de Nisibón
+","Municipal district","Municipal district",NA,NA
+57,66,"DOM","Dominican Republic",11,"La Altagracia",57,"Salvaleón de Higüey
+","Municipality","Municipality",NA,NA
+58,66,"DOM","Dominican Republic",11,"La Altagracia",58,"San Rafael del Yuma","Municipality","Municipality",NA,NA
+59,66,"DOM","Dominican Republic",12,"La Estrelleta",59,"Banica","Municipality","Municipality",NA,NA
+60,66,"DOM","Dominican Republic",12,"La Estrelleta",60,"Comendador
+","Municipality","Municipality",NA,NA
+61,66,"DOM","Dominican Republic",12,"La Estrelleta",61,"El Llano","Municipality","Municipality",NA,NA
+62,66,"DOM","Dominican Republic",12,"La Estrelleta",62,"Hondo Valle","Municipality","Municipality",NA,NA
+63,66,"DOM","Dominican Republic",12,"La Estrelleta",63,"Juan Santiago","Municipality","Municipality",NA,NA
+64,66,"DOM","Dominican Republic",12,"La Estrelleta",64,"Pedro Santana","Municipality","Municipality",NA,NA
+65,66,"DOM","Dominican Republic",13,"La Romana",65,"Guaymate","Municipality","Municipality",NA,NA
+66,66,"DOM","Dominican Republic",13,"La Romana",66,"Isla Catalina",NA,NA,NA,NA
+67,66,"DOM","Dominican Republic",13,"La Romana",67,"La Romana","Municipality","Municipality",NA,NA
+68,66,"DOM","Dominican Republic",13,"La Romana",68,"Villa Hermosa",NA,NA,NA,NA
+69,66,"DOM","Dominican Republic",14,"La Vega",69,"Concepción de la Vega","Municipality","Municipality",NA,NA
+70,66,"DOM","Dominican Republic",14,"La Vega",70,"Constanza","Municipality","Municipality",NA,NA
+71,66,"DOM","Dominican Republic",14,"La Vega",71,"Jarabacoa","Municipality","Municipality",NA,NA
+72,66,"DOM","Dominican Republic",14,"La Vega",72,"Jima Abajo","Municipal district","Municipal district",NA,NA
+73,66,"DOM","Dominican Republic",15,"María Trinidad Sánchez",73,"Cabrera","Municipality","Municipality",NA,NA
+74,66,"DOM","Dominican Republic",15,"María Trinidad Sánchez",74,"El Factor","Municipality","Municipality",NA,NA
+75,66,"DOM","Dominican Republic",15,"María Trinidad Sánchez",75,"Nagua","Municipality","Municipality",NA,NA
+76,66,"DOM","Dominican Republic",15,"María Trinidad Sánchez",76,"Rio San Juan","Municipality","Municipality",NA,NA
+77,66,"DOM","Dominican Republic",16,"Monseñor Nouel",77,"Bonao","Municipality","Municipality",NA,NA
+78,66,"DOM","Dominican Republic",16,"Monseñor Nouel",78,"Maimón","Municipality","Municipality",NA,NA
+79,66,"DOM","Dominican Republic",16,"Monseñor Nouel",79,"Piedra Blanca","Municipality","Municipality",NA,NA
+80,66,"DOM","Dominican Republic",17,"Monte Cristi",80,"Castañuela
+","Municipality","Municipality",NA,NA
+81,66,"DOM","Dominican Republic",17,"Monte Cristi",81,"Guayubín","Municipality","Municipality",NA,NA
+82,66,"DOM","Dominican Republic",17,"Monte Cristi",82,"Las Matas de Santa Cruz","Municipality","Municipality",NA,NA
+83,66,"DOM","Dominican Republic",17,"Monte Cristi",83,"Pepillo Salcedo
+","Municipality","Municipality",NA,NA
+84,66,"DOM","Dominican Republic",17,"Monte Cristi",84,"San Fernando de Monte Cristi","Municipality","Municipality",NA,"Montecristi"
+85,66,"DOM","Dominican Republic",17,"Monte Cristi",85,"Villa Vázquez
+","Municipality","Municipality",NA,NA
+86,66,"DOM","Dominican Republic",18,"Monte Plata",86,"Bayaguana
+","Municipality","Municipality",NA,NA
+87,66,"DOM","Dominican Republic",18,"Monte Plata",87,"Esperalvillo","Municipal district","Municipal district",NA,NA
+88,66,"DOM","Dominican Republic",18,"Monte Plata",88,"Monte Plata","Municipality","Municipality",NA,NA
+89,66,"DOM","Dominican Republic",18,"Monte Plata",89,"Sabana Grande de Boyá","Municipality","Municipality",NA,NA
+90,66,"DOM","Dominican Republic",18,"Monte Plata",90,"Yamasá","Municipality","Municipality",NA,NA
+91,66,"DOM","Dominican Republic",19,"Pedernales",91,"Isla Alto Velo",NA,NA,NA,NA
+92,66,"DOM","Dominican Republic",19,"Pedernales",92,"Isla Beata",NA,NA,NA,NA
+93,66,"DOM","Dominican Republic",19,"Pedernales",93,"Pedernales","Municipality","Municipality",NA,NA
+94,66,"DOM","Dominican Republic",20,"Peravia",94,"Baní","Municipality","Municipality",NA,NA
+95,66,"DOM","Dominican Republic",20,"Peravia",95,"Nizao","Municipality","Municipality",NA,NA
+96,66,"DOM","Dominican Republic",21,"Puerto Plata",96,"Altamira","Municipality","Municipality",NA,NA
+97,66,"DOM","Dominican Republic",21,"Puerto Plata",97,"Guananico","Municipality","Municipality",NA,NA
+98,66,"DOM","Dominican Republic",21,"Puerto Plata",98,"Imbert","Municipality","Municipality",NA,NA
+99,66,"DOM","Dominican Republic",21,"Puerto Plata",99,"La Isabela","Municipality","Municipality",NA,NA
+100,66,"DOM","Dominican Republic",21,"Puerto Plata",100,"Los Hidalgos","Municipality","Municipality",NA,NA
+101,66,"DOM","Dominican Republic",21,"Puerto Plata",101,"Luperon","Municipality","Municipality",NA,NA
+102,66,"DOM","Dominican Republic",21,"Puerto Plata",102,"Montellano",NA,NA,NA,NA
+103,66,"DOM","Dominican Republic",21,"Puerto Plata",103,"San Felipe de Puerto Plata","Municipality","Municipality",NA,NA
+104,66,"DOM","Dominican Republic",21,"Puerto Plata",104,"Sosua","Municipality","Municipality",NA,NA
+105,66,"DOM","Dominican Republic",22,"Sánchez Ramírez",105,"Cevicos","Municipality","Municipality",NA,NA
+106,66,"DOM","Dominican Republic",22,"Sánchez Ramírez",106,"Cotuí","Municipality","Municipality",NA,NA
+107,66,"DOM","Dominican Republic",22,"Sánchez Ramírez",107,"Fantino","Municipality","Municipality",NA,NA
+108,66,"DOM","Dominican Republic",22,"Sánchez Ramírez",108,"La Mata","Municipal district","Municipal district",NA,NA
+109,66,"DOM","Dominican Republic",23,"Salcedo",109,"Salcedo","Municipality","Municipality",NA,NA
+110,66,"DOM","Dominican Republic",23,"Salcedo",110,"Tenares","Municipality","Municipality",NA,NA
+111,66,"DOM","Dominican Republic",23,"Salcedo",111,"Villa Tapia","Municipality","Municipality",NA,NA
+112,66,"DOM","Dominican Republic",24,"Samaná",112,"Las Terrenas","Municipal district","Municipal district",NA,NA
+113,66,"DOM","Dominican Republic",24,"Samaná",113,"Sánchez","Municipality","Municipality",NA,NA
+114,66,"DOM","Dominican Republic",24,"Samaná",114,"Santa Bárbara de Samaná","Municipality","Municipality",NA,NA
+115,66,"DOM","Dominican Republic",25,"San Cristóbal",115,"Bajos de Haina","Municipality","Municipality",NA,NA
+116,66,"DOM","Dominican Republic",25,"San Cristóbal",116,"Cambita Garabito","Municipality","Municipality",NA,NA
+117,66,"DOM","Dominican Republic",25,"San Cristóbal",117,"Los Cacaos","Municipal district","Municipal district",NA,NA
+118,66,"DOM","Dominican Republic",25,"San Cristóbal",118,"Nigua","Municipal district","Municipal district",NA,NA
+119,66,"DOM","Dominican Republic",25,"San Cristóbal",119,"Sabana Grande de Palenque","Municipal district","Municipal district",NA,NA
+120,66,"DOM","Dominican Republic",25,"San Cristóbal",120,"San Cristóbal","Municipality","Municipality",NA,NA
+121,66,"DOM","Dominican Republic",25,"San Cristóbal",121,"San Gregorio de Yaguate","Municipality","Municipality",NA,NA
+122,66,"DOM","Dominican Republic",25,"San Cristóbal",122,"Villa Altagracia","Municipality","Municipality",NA,NA
+123,66,"DOM","Dominican Republic",26,"San José de Ocoa",123,"Rancho Arriba",NA,NA,NA,NA
+124,66,"DOM","Dominican Republic",26,"San José de Ocoa",124,"Sabana Larga","Municipal district","Municipal district",NA,NA
+125,66,"DOM","Dominican Republic",26,"San José de Ocoa",125,"San José de Ocoa","Municipality","Municipality",NA,NA
+126,66,"DOM","Dominican Republic",27,"San Juan",126,"Bohechio
+","Municipality","Municipality",NA,NA
+127,66,"DOM","Dominican Republic",27,"San Juan",127,"El Cercado","Municipality","Municipality",NA,NA
+128,66,"DOM","Dominican Republic",27,"San Juan",128,"Juan de Herrera","Municipality","Municipality",NA,NA
+129,66,"DOM","Dominican Republic",27,"San Juan",129,"Las Matas de Farfan","Municipality","Municipality",NA,NA
+130,66,"DOM","Dominican Republic",27,"San Juan",130,"San Juan de la Maguana
+","Municipality","Municipality",NA,NA
+131,66,"DOM","Dominican Republic",27,"San Juan",131,"Vallejuelo","Municipality","Municipality",NA,NA
+132,66,"DOM","Dominican Republic",28,"San Pedro de Macorís",132,"Consuelo","Municipal district","Municipal district",NA,NA
+133,66,"DOM","Dominican Republic",28,"San Pedro de Macorís",133,"Quisquella","Municipal district","Municipal district",NA,"Quisqueya"
+134,66,"DOM","Dominican Republic",28,"San Pedro de Macorís",134,"Ramón Santana","Municipality","Municipality",NA,NA
+135,66,"DOM","Dominican Republic",28,"San Pedro de Macorís",135,"San Pedro de Macorís","Municipality","Municipality",NA,NA
+136,66,"DOM","Dominican Republic",28,"San Pedro de Macorís",136,"Unknown1",NA,NA,NA,NA
+137,66,"DOM","Dominican Republic",28,"San Pedro de Macorís",137,"Unknown2",NA,NA,NA,NA
+138,66,"DOM","Dominican Republic",29,"Santiago Rodríguez",138,"Los Almácigos","Municipal district","Municipal district",NA,NA
+139,66,"DOM","Dominican Republic",29,"Santiago Rodríguez",139,"Monción","Municipal district","Municipal district",NA,NA
+140,66,"DOM","Dominican Republic",29,"Santiago Rodríguez",140,"San Ignacio de Sabaneta","Municipality","Municipality",NA,NA
+141,66,"DOM","Dominican Republic",30,"Santiago",141,"Janico
+","Municipality","Municipality",NA,NA
+142,66,"DOM","Dominican Republic",30,"Santiago",142,"Licey al Medio","Municipality","Municipality",NA,NA
+143,66,"DOM","Dominican Republic",30,"Santiago",143,"Puñal",NA,NA,NA,NA
+144,66,"DOM","Dominican Republic",30,"Santiago",144,"Sabana Iglesia","Municipal district","Municipal district",NA,NA
+145,66,"DOM","Dominican Republic",30,"Santiago",145,"San José de Las Matas","Municipality","Municipality",NA,NA
+146,66,"DOM","Dominican Republic",30,"Santiago",146,"Santiago de los Caballeros
+","Municipality","Municipality",NA,NA
+147,66,"DOM","Dominican Republic",30,"Santiago",147,"Tamboril","Municipality","Municipality",NA,NA
+148,66,"DOM","Dominican Republic",30,"Santiago",148,"Villa Bisonó
+","Municipality","Municipality",NA,NA
+149,66,"DOM","Dominican Republic",30,"Santiago",149,"Villa Gonzalez","Municipality","Municipality",NA,NA
+150,66,"DOM","Dominican Republic",31,"Santo Domingo",150,"Boca Chica","Municipality","Municipality",NA,NA
+151,66,"DOM","Dominican Republic",31,"Santo Domingo",151,"Guerra","Municipal district","Municipal district",NA,NA
+152,66,"DOM","Dominican Republic",31,"Santo Domingo",152,"Los Alcarrizos","Municipal district","Municipal district",NA,NA
+153,66,"DOM","Dominican Republic",31,"Santo Domingo",153,"Pedro Brand","Municipal district","Municipal district",NA,NA
+154,66,"DOM","Dominican Republic",31,"Santo Domingo",154,"Santo Domingo Este","Municipality","Municipality",NA,NA
+155,66,"DOM","Dominican Republic",31,"Santo Domingo",155,"Santo Domingo Norte","Municipality","Municipality",NA,NA
+156,66,"DOM","Dominican Republic",31,"Santo Domingo",156,"Santo Domingo Oeste","Municipality","Municipality",NA,NA
+157,66,"DOM","Dominican Republic",32,"Valverde",157,"Esperanza
+","Municipality","Municipality",NA,NA
+158,66,"DOM","Dominican Republic",32,"Valverde",158,"Laguna Salada","Municipality","Municipality",NA,NA
+159,66,"DOM","Dominican Republic",32,"Valverde",159,"Mao","Municipality","Municipality",NA,NA
