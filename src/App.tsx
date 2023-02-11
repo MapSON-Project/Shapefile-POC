@@ -4,7 +4,9 @@ import shp from "shpjs";
 import MapboxDraw from "@mapbox/mapbox-gl-draw";
 import '@mapbox/mapbox-gl-draw/dist/mapbox-gl-draw.css'
 
-
+// @ts-ignore
+import * as MapboxDrawWaypoint from 'mapbox-gl-draw-waypoint';
+// @ts-ignore
 import dissolve from "geojson-dissolve"
 import * as turf from '@turf/turf';
 // @ts-ignore
@@ -30,11 +32,16 @@ function App() {
       zoom: zoom
     });
 
+    let modes = MapboxDraw.modes;
+    modes = MapboxDrawWaypoint.enable(modes);
+
+
     mapDraw.current = new MapboxDraw({
+      modes,
       displayControlsDefault: false,
       controls: {
         trash: true
-      },
+      }    
     });
 
     map.current.on('load', () => {

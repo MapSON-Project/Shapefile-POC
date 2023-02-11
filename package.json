@@ -16,6 +16,7 @@
     "buffer": "^6.0.3",
     "geojson-dissolve": "^3.1.0",
     "leaflet": "^1.9.3",
+    "mapbox-gl-draw-waypoint": "^1.0.3",
     "maplibre-gl": "^2.4.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
